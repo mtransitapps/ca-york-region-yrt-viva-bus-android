@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project name="MT-CA-Yotk-Region-YRT-Viva-Bus" default="help">
+<project name="MT-CA-York-Region-YRT-Viva-Bus" default="help">
 
     <property file="local.properties" />
 

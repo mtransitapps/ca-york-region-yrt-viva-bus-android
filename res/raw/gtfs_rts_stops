@@ -4084,7 +4084,7 @@
 5525,'6220','Old Colony Rd / Yonge St',43.939973,-79.453278
 5530,'VNBRYNSB','Virtual Stop For Bryn Sb',43.897133,-79.443353
 5531,'6221','Lady Fenyrose Ave / Midvale Heights',43.877361,-79.484685
-5532,'6226','Bathurst St Stop# 6226',43.973518,-79.489479
+5532,'6226','Bathurst St',43.973518,-79.489479
 5533,'6229','Old Colony Rd / Bayview Ave',43.939944,-79.42978
 5534,'6230','Mcnaughton Rd / Major Mackenzie Dr',43.852505,-79.527243
 5535,'6235','Finch Go Bus Terminal Platform 3',43.782136,-79.415048
@@ -4649,9 +4649,9 @@
 6389,'6776','Zenway Blvd / New Huntington Rd',43.775295,-79.643614
 6390,'6777','New Huntington Rd / Conair Pkwy',43.77712,-79.644655
 6391,'6778','New Huntington Rd / Huntington Rd',43.780088,-79.648493
-6392,'6779','Huntington Rd Stop# 6779',43.801034,-79.654472
-6393,'6780','Huntington Rd Stop# 6780',43.791872,-79.652292
-6394,'6781','Huntington Rd Stop# 6781',43.791881,-79.652239
+6392,'6779','Huntington Rd',43.801034,-79.654472
+6393,'6780','Huntington Rd',43.791872,-79.652292
+6394,'6781','Huntington Rd',43.791881,-79.652239
 6395,'6782','New Huntington Rd / Huntington Rd',43.780366,-79.648976
 6396,'6783','New Huntington Rd / Conair Pkwy',43.777645,-79.645616
 6397,'6784','Zenway Blvd / Highway 27',43.777185,-79.62291
@@ -4669,7 +4669,7 @@
 6411,'6798','Keenedy Rd',43.872554,-79.306172
 6412,'6799','Kennedy Rd',43.872688,-79.306028
 6413,'6800','Carrick Av / Chartwell Cres',44.243582,-79.46163
-6414,'6801','Carrick Av Stop#6801',44.240686,-79.460841
+6414,'6801','Carrick Av',44.240686,-79.460841
 6415,'6802','Glenwoods Av',44.212895,-79.461788
 6416,'6803','Creditstone Rd / Graniteridge Rd',43.82778,-79.522499
 6417,'6804','Creditstone Rd / Graniteridge Rd',43.828376,-79.522827

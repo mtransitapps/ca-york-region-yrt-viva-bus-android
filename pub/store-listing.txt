@@ -14,7 +14,7 @@ BETA: Thanks for your patience while the last features are being added and the l
 Full description:
 This application adds York Region YRT Viva buses information to MonTransit BETA.
 
-This app contains the buses schedule and the latest news from www.yrt.ca, YouTube and @YRTViva on Twitter.
+This app contains the buses schedule (offline & real-time) and the latest news from www.yrt.ca, YouTube and @YRTViva on Twitter.
 
 BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
 
@@ -35,7 +35,7 @@ https://github.com/mtransitapps/ca-york-region-yrt-viva-bus-android
 This app is not related with York Region Transit and Viva.
 
 Permissions:
-- Other: required for real-time service alerts and to read news from www.yrt.ca, YouTube and Twitter.
+- Other: required for real-time schedule & service alerts and to read news from www.yrt.ca, YouTube and Twitter.
 ----------
 Application type: Applications
 ----------

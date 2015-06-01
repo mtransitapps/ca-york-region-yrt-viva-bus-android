@@ -1,28 +1,24 @@
 Title: York Region YRT Viva Bus - Mo…
 ----------
 Short description:
-York Region YRT Viva buses for MonTransit BETA
+York Region YRT Viva buses for MonTransit.
 Schedule. News. Service Alerts.
 ----------
 What's new in this version?:
 Schedule from April 19, 2015 to June 27, 2015.
 News from www.yrt.ca.
 Tweets from @YRTViva.
-
-BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
 ----------
 Full description:
-This application adds York Region YRT Viva buses information to MonTransit BETA.
+This application adds York Region YRT Viva buses information to MonTransit.
 
 This app contains the buses schedule (offline & real-time) and the latest news from www.yrt.ca, YouTube and @YRTViva on Twitter.
 
-BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
-
 YRT Viva serves the York Region in Ontario, Canada.
 
-Once this application is installed, the MonTransit BETA app will display buses information (schedule...).
+Once this application is installed, the MonTransit app will display buses information (schedule...).
 
-This application only has a temporary icon and no screen: download the MonTransit BETA app (free) in the "More ..." section bellow or by following this Google Play link http://goo.gl/pCk5mV
+This application only has a temporary icon and no screen: download the MonTransit app (free) in the "More ..." section bellow or by following this Google Play link http://goo.gl/pCk5mV
 
 You can install this application on the SD card but it is not recommended.
 

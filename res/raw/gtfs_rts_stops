@@ -823,7 +823,7 @@
 886,'3738','Pine Vly Dr / Pine York Av',43.77976,-79.572106
 887,'3739','Pine Vly Dr / Vinyl Crt',43.767865,-79.5679
 888,'3740','Pine Vly Dr / Steeles Av',43.766913,-79.565273
-893,'3756','Major Mackenzie Dr',43.844348,-79.56216
+893,'3756','Major Mackenzie Dr / Weston Rd',43.844748,-79.560792
 896,'3772','Edgeley Blvd / Apple Mill Rd',43.794572,-79.531646
 897,'3773','Edgeley Blvd / Portage Pkway',43.796871,-79.53258
 898,'3774','Portage Pkway / Buttermill Av',43.797517,-79.530193
@@ -3900,8 +3900,8 @@
 5267,'6071','Crosby Av / Newkirk Rd',43.882548,-79.428701
 5268,'6072','Lebovic Campus Dr / Ilan Ramon Blvd',43.85433,-79.464239
 5270,'9825','Yonge / Savage',44.026787,-79.474094
-5273,'9827','Murray Ross / James Gillies',43.766702,-79.493598
-5274,'9828','Murray Ross / James Gillies',43.766754,-79.493863
+5273,'9827','Murray Ross',43.766702,-79.493598
+5274,'9828','Murray Ross',43.766754,-79.493863
 5277,'5961','Main St / Mkt St',43.971241,-79.247062
 5297,'6075','Bathurst St / Milos Rd',43.919624,-79.476003
 5299,'6102','Mcnaughton Rd / Keele St',43.861157,-79.513409

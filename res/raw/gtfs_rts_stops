@@ -3254,8 +3254,8 @@
 3743,'4071','Lowndes Av / Glenwoods Av',44.213512,-79.460185
 3744,'4072','Glenwoods Av',44.212986,-79.46205
 3745,'4074','The Queensway / Biscayne Blvd',44.223358,-79.465328
-3746,'4079','Simcoe Av / Metro Rd',44.241545,-79.474052
-3747,'4080','Simcoe Av',44.242136,-79.472581
+3746,'4079','Simcoe Av / Metro Rd',44.241546,-79.474026
+3747,'4080','Simcoe Av',44.242169,-79.472447
 3748,'4081','The Queensway / Church St',44.24358,-79.471619
 3749,'4082','Church St / Cir Rdg Dr',44.244038,-79.469854
 3750,'4083','Church St',44.245053,-79.465113
@@ -3285,7 +3285,7 @@
 3776,'4115','Highcastle Av / Kerfoot Cres',44.252618,-79.481195
 3777,'4116','Highcastle Av / Old Homestead Rd',44.24948,-79.481025
 3778,'4117','Old Homestead Rd / Metro Rd',44.24874,-79.483632
-3779,'4118','Metro Rd / Church St',44.243065,-79.47715
+3779,'4118','Metro Rd / Church St',44.243042,-79.477037
 3780,'4124','The Queensway / Cameron Cres',44.229109,-79.465366
 3781,'4125','The Queensway / Riverglen Dr',44.225835,-79.464469
 3782,'4127','The Queensway / Hollywood Dr',44.205378,-79.467495
@@ -3321,7 +3321,7 @@
 3820,'4529','King Rd / Fisher St',43.929291,-79.52588
 3821,'4530','Keele St / Elizabeth Grv',43.923518,-79.526924
 3822,'4531','Keele St / Sta Rd',43.920211,-79.526062
-3823,'4532','Keele St / Kirby Rd',43.892181,-79.521165
+3823,'4532','Keele St / Kirby Rd',43.892612,-79.521288
 3824,'4535','King Rd / William St',43.930238,-79.521532
 3825,'4536','Keele St / Kirby Rd',43.891656,-79.520696
 3826,'4537','Keele St',43.89734,-79.522352
@@ -3513,7 +3513,7 @@
 4026,'5171','The Queensway / Glenwoods Av',44.21207,-79.464901
 4027,'5172','The Queensway / Dovedale Dr',44.216522,-79.464309
 4028,'5174','Metro Rd / Old Homestead Rd',44.248536,-79.483509
-4029,'5175','Metro Rd / Nida Dr',44.245985,-79.480651
+4029,'5175','Metro Rd / Nida Dr',44.245952,-79.480532
 4030,'5176','Woodbine Av / Dunnville Rd',44.244526,-79.451458
 4031,'5177','Woodbine Av / Wexford Dr',44.240799,-79.450578
 4032,'5178','The Queensway / Metro Rd',44.232903,-79.465785
@@ -3773,7 +3773,7 @@
 4697,'5404','Dalton Rd / Woodriver Bend',44.312744,-79.366539
 4698,'5407','Metro Rd / Dalton Rd',44.32131,-79.370737
 4699,'5413','Metro Rd / Woodbine Av',44.3019,-79.465525
-4700,'5417','Metro Rd / Old Homestead Rd',44.248901,-79.484136
+4700,'5417','Metro Rd / Old Homestead Rd',44.248838,-79.484233
 4703,'5458','Tower Hl Rd / Goldlist Dr',43.914093,-79.462487
 4705,'5497','Leslie St',44.131921,-79.448845
 4706,'5498','Leslie St',44.131974,-79.448732
@@ -4008,6 +4008,7 @@
 5385,'6217','Old Colony Rd / Lebovic Dr',43.939162,-79.438132
 5386,'6218','Old Colony Rd / Birdsong St',43.938597,-79.441791
 5394,'6131','Leslie St / Wellington St',44.011629,-79.418834
+5395,'6132','Mulock Dr / Lelsie St',44.047238,-79.427752
 5396,'6133','Weston Rd / Hwy 7',43.790033,-79.547397
 5397,'6134','The Bridal Walk / Cynthia Jean St',43.89396,-79.30724
 5398,'6135','Ridgecrest Rd / Hillwood St',43.895474,-79.302086
@@ -4291,7 +4292,7 @@
 5966,'6414','Copper Crk Dr / Rizal Av',43.870486,-79.221362
 5967,'6415','Copper Crk Dr / Donald Cousens Pk',43.868989,-79.212178
 5968,'6416','Copper Crk Dr',43.869552,-79.215883
-5969,'6417','Box Grv Collector / 14th Av',43.862603,-79.215984
+5969,'6417','Box Grv Collector / 14th Av',43.862601,-79.215984
 5970,'6418','Riverwalk Dr / Andriana Cres',43.860784,-79.221793
 5971,'6420','Duffield Dr / Kennedy Rd',43.845769,-79.306631
 5972,'6421','Autumn Hl Blvd / Dufferin St',43.835943,-79.481169
@@ -4382,7 +4383,7 @@
 6065,'6496','Hwy 27 / Toronto Rv Rd',43.762753,-79.618593
 6066,'6497','Hwy 27 / Toronto Rv Rd',43.762503,-79.618124
 6067,'6499','Donald Cousens Pkwy / Delray Dr',43.910901,-79.251323
-6068,'6489','Metro Rd / Medina Dr',44.244608,-79.478973
+6068,'6489','Metro Rd / Medina Dr',44.244704,-79.479096
 6069,'6490','Metro Rd / Medina Dr',44.244458,-79.478584
 6070,'6491','Metro Rd / 3rd Av',44.311217,-79.421921
 6071,'6492','Metro Rd / 3rd Av',44.311062,-79.42198
@@ -4789,7 +4790,7 @@
 6620,'6945','Riverwalk Dr / Caprara Cr',43.857421,-79.222375
 6621,'6946','Riverwalk Dr / Barter St',43.856733,-79.225124
 6622,'6947','Riverwalk Dr / 9th Line',43.855739,-79.228948
-6623,'6948','Hemlock Dr / Tenth Line',43.980308,-79.232862
+6623,'6948','Tenth Line / Hemlock Dr',43.980441,-79.232603
 6624,'6951','Humber College',43.729119,-79.604677
 6625,'6952','Napa Vly Av / Islington Av',43.825882,-79.610178
 6626,'6953','Napa Vly Av / Forest Fountain Dr',43.824491,-79.613132

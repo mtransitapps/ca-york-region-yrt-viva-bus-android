@@ -62,7 +62,7 @@
 67,'9766','Finch / Seneca Hl',43.793493,-79.350653
 68,'9767','Don Mills Sta',43.775808,-79.346338
 69,'9768','Don Mills Rd / Leith Hl Rd',43.777548,-79.34784
-70,'9769','Finch Go Bus Terminal P2',43.782133,-79.415497
+70,'9769','Finch GO Bus Terminal P2',43.782133,-79.415497
 71,'9770','Yonge / Steeles',43.798695,-79.42011
 72,'9771','Yonge / Clark',43.807001,-79.422192
 73,'9772','Yonge / Clark',43.807246,-79.422566
@@ -102,7 +102,7 @@
 107,'9806','Yonge / Mulock',44.036862,-79.476015
 108,'9807','Yonge / Mulock',44.03569,-79.476063
 109,'9808','Yonge St / Eagle St',44.045551,-79.478361
-110,'9809','Newmarket Go Terminal P9',44.052893,-79.48644
+110,'9809','Newmarket GO Terminal P9',44.052893,-79.48644
 111,'9810','Markham Stouffville Hosp',43.884803,-79.232901
 114,'9813','Esna Pk / Steeles',43.817275,-79.336737
 115,'9814','Gordon Baker / Mcnicoll',43.80309,-79.34491
@@ -264,12 +264,12 @@
 280,'2317','Yonge St / Arnold Av',43.811126,-79.423491
 281,'2318','Yonge St / Gln Cameron Rd',43.805597,-79.422211
 282,'2319','Yonge St / Meadowview Av',43.802036,-79.4213
-284,'2330','Finch Go Bus Terminal P10',43.78234,-79.415299
-285,'2331','Finch Go Bus Terminal P11',43.782425,-79.415512
-286,'2332','Finch Go Bus Terminal P12',43.782573,-79.415666
-287,'2333','Finch Go Bus Terminal P14',43.782503,-79.415305
-288,'2334','Finch Go Bus Terminal P15',43.782516,-79.414881
-289,'2335','Finch Go Bus Terminal P16',43.782515,-79.414632
+284,'2330','Finch GO Bus Terminal P10',43.78234,-79.415299
+285,'2331','Finch GO Bus Terminal P11',43.782425,-79.415512
+286,'2332','Finch GO Bus Terminal P12',43.782573,-79.415666
+287,'2333','Finch GO Bus Terminal P14',43.782503,-79.415305
+288,'2334','Finch GO Bus Terminal P15',43.782516,-79.414881
+289,'2335','Finch GO Bus Terminal P16',43.782515,-79.414632
 290,'2338','Yonge St / Cummer Av',43.787532,-79.417335
 291,'2339','Yonge St / Otonabee Av',43.794272,-79.418994
 292,'2340','Yonge St / Meadowview Av',43.801684,-79.420878
@@ -1112,7 +1112,7 @@
 1201,'4688','Yonge St / Nottingham Dr',43.904892,-79.445265
 1202,'4689','Yonge St / Rdg Rd',43.972623,-79.461004
 1203,'4690','Yonge St / Trayborn Dr',43.884919,-79.44057
-1204,'4691','Newmarket Go Terminal P6',44.053089,-79.487134
+1204,'4691','Newmarket GO Terminal P6',44.053089,-79.487134
 1205,'4692','Yonge St / Wright St',43.878121,-79.43898
 1206,'4693','Yonge St / Ctr St',43.875626,-79.438322
 1207,'4694','Yonge St / Arnold Cres',43.873782,-79.437899
@@ -1488,12 +1488,12 @@
 1746,'1200','Commerce Vly Dr',43.840285,-79.376918
 1747,'1202','Commerce Vly Dr',43.841961,-79.375159
 1748,'1204','Commerce Vly Dr / Minthorn Crt',43.843686,-79.376818
-1750,'1211','Richmond Hl Go Sta P2',43.876306,-79.426032
-1751,'1213','Richmond Hl Go Sta P3',43.87626,-79.426249
-1752,'1215','Richmond Hl Go Sta P4',43.876212,-79.426462
-1753,'1217','Richmond Hl Go Sta P5',43.876112,-79.42666
-1754,'1219','Richmond Hl Go Sta P6',43.875888,-79.426188
-1755,'1221','Richmond Hl Go Sta P7',43.87603,-79.426069
+1750,'1211','Richmond Hl GO Sta P2',43.876306,-79.426032
+1751,'1213','Richmond Hl GO Sta P3',43.87626,-79.426249
+1752,'1215','Richmond Hl GO Sta P4',43.876212,-79.426462
+1753,'1217','Richmond Hl GO Sta P5',43.876112,-79.42666
+1754,'1219','Richmond Hl GO Sta P6',43.875888,-79.426188
+1755,'1221','Richmond Hl GO Sta P7',43.87603,-79.426069
 1757,'1228','Denison St / Mccowan Rd',43.841367,-79.278361
 1758,'1230','Denison St / Coppard Av',43.84233,-79.274086
 1759,'1232','Denison St / Featherstone Av',43.841638,-79.268546
@@ -2088,7 +2088,7 @@
 2369,'2208','Elgin Mills Rd',43.885405,-79.460766
 2370,'2209','Elgin Mills Rd / Larratt Ln',43.886002,-79.457958
 2371,'2210','Elgin Mills Rd / Regent St',43.887152,-79.45251
-2372,'2328','Finch Go Bus Terminal P8',43.782426,-79.414795
+2372,'2328','Finch GO Bus Terminal P8',43.782426,-79.414795
 2373,'2352','Ashfield Dr / Yonge St',43.948567,-79.454413
 2374,'2353','Lakeland Cres',43.947338,-79.451443
 2375,'2354','Lakeland Cres / Paddle Gt',43.948083,-79.448115
@@ -2378,7 +2378,7 @@
 2710,'3272','Woodbine Av / Esna Pk Dr',43.825126,-79.351427
 2711,'3315','Vaughan Mills Terminal P3',43.827276,-79.534178
 2712,'3321','Vaughan Mills Terminal P7',43.827009,-79.533949
-2714,'3333','Rutherford Go Sta P4',43.838595,-79.498794
+2714,'3333','Rutherford GO Sta P4',43.838595,-79.498794
 2715,'3346','Vaughan Mills Mall',43.829163,-79.535601
 2716,'3887','Confederation Pkwy / Dufferin Hl',43.837798,-79.491651
 2717,'3888','Confederation Pkwy / Ten Oaks Blvd',43.83639,-79.492202
@@ -2407,8 +2407,8 @@
 2747,'4167','Hwy 7 / Vlg Pkwy',43.857814,-79.324688
 2748,'4168','Hwy 7',43.859999,-79.315157
 2749,'4169','Hwy 7 / Main St Unionville',43.861237,-79.309798
-2750,'4171','Unionville Go Sta P2',43.852154,-79.313954
-2751,'4172','Unionville Go Sta P3',43.852113,-79.314196
+2750,'4171','Unionville GO Sta P2',43.852154,-79.313954
+2751,'4172','Unionville GO Sta P3',43.852113,-79.314196
 2753,'4176','Hwy 7 / Kennedy Rd',43.862501,-79.30404
 2754,'4177','Hwy 7 / Swansea Rd',43.863806,-79.298558
 2755,'4178','Hwy 7',43.866113,-79.288545
@@ -2524,7 +2524,7 @@
 2877,'4519','Jefferson Forest Dr / Arden Vly',43.915537,-79.441366
 2878,'4520','Shadow Falls Dr / Wolf Trl Cres',43.913066,-79.435952
 2879,'4521','Jefferson Forest Dr / Shadow Falls',43.913428,-79.43276
-2880,'4522','Jefferson Forest Dr / Bush Ridges A',43.915613,-79.433112
+2880,'4522','Jefferson Forest Dr / Bush Rdgs A',43.915613,-79.433112
 2881,'4523','Jefferson Forest Dr / Hunting Rdg',43.916803,-79.43481
 2882,'4524','Jefferson Forest Dr / Shadow Falls',43.916375,-79.43706
 2883,'4525','Jefferson Forest Dr / Arden Vly',43.915191,-79.442272
@@ -2832,7 +2832,7 @@
 3266,'5845','Markland St / Bartlett Rd',43.879046,-79.372647
 3267,'1304','White''s Hl Av / Bur Oak Av',43.895687,-79.231469
 3268,'1774','Eastern Gt Cres / Loretta Cres',43.974565,-79.228783
-3270,'3335','Rutherford Go Sta P5',43.838766,-79.498699
+3270,'3335','Rutherford GO Sta P5',43.838766,-79.498699
 3272,'5162','Redstone Rd / Toporowski Av',43.892766,-79.400277
 3273,'5780','Yonge St',43.911874,-79.446945
 3274,'5781','Yonge St',43.911482,-79.446548
@@ -3288,12 +3288,12 @@
 3780,'4124','The Queensway / Cameron Cres',44.229109,-79.465366
 3781,'4125','The Queensway / Riverglen Dr',44.225835,-79.464469
 3782,'4127','The Queensway / Hollywood Dr',44.205378,-79.467495
-3784,'4187','Newmarket Go Terminal P5',44.052926,-79.487097
-3785,'4189','Newmarket Go Terminal P7',44.053065,-79.486929
-3786,'4190','Newmarket Go Terminal P8',44.052993,-79.48673
+3784,'4187','Newmarket GO Terminal P5',44.052926,-79.487097
+3785,'4189','Newmarket GO Terminal P7',44.053065,-79.486929
+3786,'4190','Newmarket GO Terminal P8',44.052993,-79.48673
 3787,'4197','Bernard Terminal P5',43.894734,-79.441606
-3788,'4252','East Gwillimbury Go Stn P11',44.078425,-79.45669
-3790,'4293','East Gwillimbury Go Stn P12',44.078486,-79.456474
+3788,'4252','East Gwillimbury GO Stn P11',44.078425,-79.45669
+3790,'4293','East Gwillimbury GO Stn P12',44.078486,-79.456474
 3791,'4381','Henderson Dr / Tamarac Trl',43.977445,-79.480634
 3793,'4420','Bayview Av / Penrose St',44.043727,-79.452594
 3794,'4425','Kennedy St / Bathurst St',43.989197,-79.492884
@@ -3715,7 +3715,7 @@
 4556,'4120','The Queensway / Parkview Rd',44.240619,-79.465805
 4557,'4121','The Queensway / Silas Blvd',44.238594,-79.463778
 4558,'4122','The Queensway / Gdn Av',44.23686,-79.463878
-4563,'4192','Newmarket Go Terminal P11',44.052684,-79.486008
+4563,'4192','Newmarket GO Terminal P11',44.052684,-79.486008
 4574,'4388','Cedar Av / Major Mackenzie Dr',43.872814,-79.428078
 4586,'4783','Jane St / Interchange Way',43.789759,-79.524063
 4591,'4834','Real Canadian Superstore',44.070308,-79.486495
@@ -3977,7 +3977,7 @@
 5339,'6304','Edgeley Blvd / Bass Pro Mills Dr',43.821646,-79.539041
 5340,'6090','Fairview Mall Dr / Godstone Rd',43.779576,-79.345935
 5341,'6500','Donald Cousens Pkwy / Delray Dr',43.910663,-79.251739
-5342,'6501','Oak Ridges Community Ctr',43.94716,-79.42774
+5342,'6501','Oak Rdgs Community Ctr',43.94716,-79.42774
 5349,'6099','Grn Ln Ctr',44.071061,-79.487458
 5351,'6105','Kenilworth Gt / Outer Banks Dr',43.875932,-79.231531
 5352,'6106','Kenilworth Gt / Michelina Terr',43.876717,-79.22746
@@ -4052,7 +4052,7 @@
 5487,'6177','155 Main St North',44.064584,-79.461929
 5490,'6182','Mingay Av / Castlemore Av',43.901823,-79.276439
 5491,'6185','Major Mackenzie Dr / Ilan Ramon Blv',43.864623,-79.468887
-5492,'6186','Eagle Rock Way / Go Pkng Lot',43.859852,-79.50593
+5492,'6186','Eagle Rock Way / GO Pkng Lot',43.859852,-79.50593
 5493,'6187','King Rd / Bond Cres',43.941752,-79.468005
 5495,'6189','King Rd / Schomberg Rd',43.943741,-79.458623
 5496,'6190','King Rd / Schomberg Rd',43.943957,-79.458255
@@ -4083,7 +4083,7 @@
 5532,'6226','Bathurst St',43.973518,-79.489479
 5533,'6229','Old Colony Rd / Bayview Ave',43.939944,-79.42978
 5534,'6230','Mcnaughton Rd / Major Mackenzie Dr',43.852505,-79.527243
-5535,'6235','Finch Go Bus Terminal P3',43.782136,-79.415048
+5535,'6235','Finch GO Bus Terminal P3',43.782136,-79.415048
 5536,'6236','Teston Rd / Via Romano Blvd',43.880988,-79.481903
 5537,'6244','Wellington St E / Victoria St',43.999965,-79.465904
 5538,'6228','Woodbine Ave / Major Mackenzie Dr',43.887033,-79.367353
@@ -4122,7 +4122,7 @@
 5591,'6302','Hoover Pk Dr / Byers Pond Way',43.966607,-79.236421
 5592,'6303','Hoover Pk Dr / Jacob Way',43.966887,-79.237164
 5593,'6308','Enterprise Dr / Main St',43.855783,-79.308532
-5594,'6309','Rutherford Rd / Rutherford Go',43.839209,-79.500364
+5594,'6309','Rutherford Rd / Rutherford GO',43.839209,-79.500364
 5595,'6312','Woodbine By-Pass / Woodbine Av',43.888654,-79.368629
 5596,'6313','Woodbine Av / Murison Dr',43.89068,-79.368384
 5597,'6319','Main St Unionville / Unionville Gt',43.856381,-79.308222
@@ -4264,7 +4264,7 @@
 5936,'6391','Wellington St / Temperance St',43.999496,-79.468527
 5937,'6395','Bayview Av / College St',44.047013,-79.45343
 5938,'6396','Yonge St / Old Yonge St',44.083053,-79.487469
-5943,'9836','Finch Go Bus Terminal P1',43.782362,-79.415663
+5943,'9836','Finch GO Bus Terminal P1',43.782362,-79.415663
 5945,'6419','Fossil Hl Rd / Rutherford Rd',43.825889,-79.562802
 5946,'5430','Millard St / Hemlock Dr',43.97778,-79.240254
 5947,'5431','Hemlock Dr / Debborah Pl',43.978564,-79.236626
@@ -4318,10 +4318,10 @@
 5999,'6408','Davis Dr / Crossland Gt',44.051157,-79.497124
 6000,'6409','Woodspring Av / Aspenwood Dr',44.066282,-79.493565
 6001,'6412','Mulock Dr / Columbus Way',44.03496,-79.481689
-6002,'6423','Aurora Go Sta P#3',43.999881,-79.459411
-6003,'6424','Aurora Go Sta P#2',44.00016,-79.4595
+6002,'6423','Aurora GO Sta P#3',43.999881,-79.459411
+6003,'6424','Aurora GO Sta P#2',44.00016,-79.4595
 6004,'6425','Industrial Pkwy / Yonge St',43.981181,-79.462279
-6005,'6426','Newmarket Go Trml Plat 10',44.052791,-79.486244
+6005,'6426','Newmarket GO Trml Plat 10',44.052791,-79.486244
 6006,'6477','Shaftsbury Av / Elgin Mills Rd',43.887493,-79.452415
 6007,'6478','Fincham Av',43.891636,-79.241514
 6008,'6488','Hwy 7 / Town Ctr Blvd',43.853924,-79.339599

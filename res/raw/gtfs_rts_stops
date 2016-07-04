@@ -1554,7 +1554,7 @@
 1833,'1331','John St / Steelcase Rd',43.82494,-79.358667
 1834,'1332','Bur Oak Av / Swan Pk Rd',43.902596,-79.254047
 1835,'1333','John St',43.82315,-79.36669
-1836,'1334','Bur Oak Av / Greensborough Vlg',43.902364,-79.250078
+1836,'1334','Bur Oak Av / Greensborough Vlg',43.902322,-79.249557
 1837,'1335','John St / Leslie St',43.822506,-79.369824
 1838,'1336','Bur Oak Av / Alfred Paterson Dr',43.902358,-79.244123
 1839,'1337','John St / Rockingham Crt',43.821738,-79.372992
@@ -3129,10 +3129,19 @@
 3582,'2429','St John''s Sdrd / Trent St',44.022877,-79.45048
 3584,'2431','Sandford St / Stellick Av',44.03574,-79.468445
 3585,'2432','Sandford St / Savage Rd',44.033681,-79.470007
+3586,'2433','Savage Rd / Yonge St',44.032985,-79.474496
 3587,'2434','Sawmill Vly Dr / Joe Persechini',44.032165,-79.477831
 3588,'2435','Sawmill Vly Dr / Columbus Way',44.031464,-79.480677
+3589,'2436','Sawmill Vly Dr / Society Cres',44.030811,-79.483693
+3590,'2437','Sawmill Vly Dr / Society Cres',44.031039,-79.488807
+3591,'2438','Sawmill Vly Dr / Mulock Dr',44.032739,-79.489892
 3592,'2439','Mulock Dr / Yonge St',44.036089,-79.476288
 3593,'2440','Mulock Dr / Doubletree Ln',44.035022,-79.482342
+3594,'2441','Sawmill Vly Dr / Mulock Dr',44.032684,-79.490106
+3595,'2442','Sawmill Vly Dr / Society Cres',44.030723,-79.483581
+3596,'2443','Sawmill Vly Dr / Columbus Way',44.031316,-79.480874
+3597,'2444','Sawmill Vly Dr / Joe Persechini',44.031887,-79.478349
+3598,'2445','Sawmill Vly Dr / Yonge St',44.032747,-79.475722
 3600,'2447','Longford Dr / Newbury Dr',44.057863,-79.471872
 3601,'2448','Harrison Dr / Cherrywood Dr',44.060384,-79.473436
 3602,'2449','Harrison Dr / London Rd',44.06383,-79.475573
@@ -3354,6 +3363,7 @@
 3852,'4567','Newbridge Av / Grovewood St',43.938256,-79.47124
 3853,'4569','Newbridge Av / Bond Cres',43.939371,-79.466909
 3854,'4609','Wellington St / Mcleod Dr',43.995373,-79.487041
+3855,'4613','Savage Rd / Nelson Cir',44.033557,-79.470247
 3856,'4618','Wellington St / Timpson Dr',43.996087,-79.483445
 3857,'4621','Mulock Dr / College Mnr Dr',44.043226,-79.446418
 3858,'4622','Mulock Dr / College Mnr Dr',44.045312,-79.437716
@@ -3592,6 +3602,8 @@
 4122,'5698','Woodspring Av / Alfred Smith Way',44.059548,-79.492169
 4123,'5699','Woodspring Av / Bonshaw Av',44.062926,-79.492496
 4124,'6014','Harding Blvd / Brillinger St',43.866141,-79.440345
+4125,'5701','Aspenwood Dr / Marble Pl',44.067101,-79.488666
+4127,'5703','Aspenwood Dr / Coachwhip Trl',44.067174,-79.48887
 4129,'5705','Woodspring Av / Bonshaw Av',44.063214,-79.492756
 4130,'5706','Woodspring Av / Gilpin Dr',44.059879,-79.492302
 4131,'5707','Woodspring Av / William Booth Av',44.058609,-79.493416
@@ -4174,6 +4186,7 @@
 5649,'6050','Roy Rainey Av / Castlemore Av',43.899546,-79.28413
 5650,'6052','Mingay Av / Fred Mclaren Blvd',43.903955,-79.277002
 5651,'6054','Mingay Av / Edward Jeffreys Av',43.894034,-79.274349
+5652,'5303','Sawmill Vly Dr / Society Cres',44.031189,-79.489154
 5653,'5351','John West Way / Municipal Dr',44.005608,-79.4508
 5654,'5353','Dovedale Dr / Lowndes Av',44.217484,-79.461004
 5655,'5354','The Queensway / Crestview Dr',44.199701,-79.466076
@@ -4313,7 +4326,7 @@
 5996,'6128','The Queensway / Ravenshoe Rd',44.193407,-79.464578
 5997,'6129','Ravenshoe Rd',44.190741,-79.476278
 5998,'6188','King Rd / Parker Av',43.942508,-79.464255
-6000,'6409','Woodspring Av / Aspenwood Dr',44.066282,-79.493565
+6000,'6409','Woodspring Av / Aspenwood Dr',44.065866,-79.493402
 6001,'6412','Mulock Dr / Columbus Way',44.03496,-79.481689
 6002,'6423','Aurora GO Sta P#3',43.999881,-79.459411
 6003,'6424','Aurora GO Sta P#2',44.00016,-79.4595
@@ -4906,3 +4919,7 @@
 6776,'7090','Sykes Rd / Mcgregor Farm Trl',44.045597,-79.504314
 6783,'5661','Jefferson Sdrd / Alpaca Dr',43.9187,-79.467054
 6784,'6757','Honda Blvd / Woodbine Av Bypass',43.910176,-79.378322
+6787,'7099','Aspenwood Dr / Yonge St',44.067863,-79.484666
+6788,'7100','London Rd / Yonge St',44.064506,-79.482331
+6789,'7101','London Rd / Yonge St',44.064535,-79.481582
+6790,'7102','London Rd / Harrison Dr',44.063788,-79.475877

@@ -6,7 +6,7 @@
     <string name="gtfs_rts_timezone">America/Toronto</string>
     <string name="gtfs_rts_area_min_lat">43.720413</string>
     <string name="gtfs_rts_area_max_lat">44.337111</string>
-    <string name="gtfs_rts_area_min_lng">-79.68252</string>
+    <string name="gtfs_rts_area_min_lng">-79.682569</string>
     <string name="gtfs_rts_area_max_lng">-79.189057</string>
     <string name="gtfs_rts_color">0079C2</string>
 </resources>

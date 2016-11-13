@@ -96,7 +96,7 @@
 101,'9800','Yonge / Golf Links',43.990762,-79.465357
 102,'9801','Yonge / Golf Links',43.99008,-79.465388
 103,'9802','Yonge / Wellington',43.999943,-79.467575
-104,'9803','Yonge / Wellington',44.000178,-79.46778
+104,'9803','Yonge St / Wellington St',44.000178,-79.46778
 105,'9804','Yonge / Orchard Hts',44.008802,-79.469693
 106,'9805','Yonge / Orchard Hts',44.00852,-79.469833
 107,'9806','Yonge / Mulock',44.036862,-79.476015
@@ -3441,7 +3441,7 @@
 3936,'4864','Mt Albert Rd / Royal Oak Rd',44.133173,-79.3053
 3937,'4865','Royal Oak Rd / Stokes Rd',44.134416,-79.304803
 3938,'4866','Elizabeth St',44.135104,-79.305938
-3939,'4867','Ctr St / Main St',44.136116,-79.308259
+3939,'4867','Ctr St / Bank St',44.136739,-79.308382
 3940,'4868','Ctr St',44.140651,-79.309383
 3941,'4869','King St / Ctr St',44.142557,-79.31085
 3942,'4870','King St / Mainprize Cres',44.143321,-79.312886
@@ -3756,7 +3756,7 @@
 4625,'5198','Whites Hl Av / Walkerville Rd',43.895689,-79.232934
 4628,'5205','Loblaws',43.874089,-79.283893
 4650,'5230','Water St',43.87979,-79.263449
-4651,'5246','14th Av / Kennedy Rd',43.843384,-79.305969
+4651,'5246','Haggermans Corner',43.843384,-79.305968
 4652,'5247','Markville Mall Door # 7',43.870526,-79.28685
 4653,'5255','Costco',44.070644,-79.48926
 4654,'5256','Bed Bath & Beyond',44.069623,-79.488239
@@ -4338,7 +4338,7 @@
 6008,'6488','Hwy 7 / Town Ctr Blvd',43.853924,-79.339599
 6009,'6475','Hwy 27 / Langstaff Rd',43.791294,-79.625923
 6010,'6476','Langstaff Rd',43.792095,-79.624219
-6011,'6428','Metro Rd / Lennox Av',44.2976,-79.471891
+6011,'6428','Metro Rd / Lennox Av',44.297308,-79.472189
 6012,'6429','High St / Dalton Rd',44.3046,-79.362143
 6013,'6430','High St / Dalton Rd',44.304667,-79.362281
 6016,'6434','Leslie St',44.117524,-79.445018
@@ -4404,7 +4404,7 @@
 6079,'6502','Bayview Av / Bayview Pk Ln',43.943388,-79.428498
 6080,'6503','Bayview Pk Ln / Sunset Beach Bl',43.946147,-79.431111
 6081,'6504','Bloomfield Trl / Bloomington Rd',43.959879,-79.471171
-6082,'6505','Bloomifield Tral / Fern Vly',43.957797,-79.469794
+6082,'6505','Bloomifield Trl / Fern Vly Cre',43.957797,-79.469794
 6083,'6506','Bloomfield Trl / Coon''s Rd',43.957493,-79.466774
 6084,'6507','Coon''s Rd / Cynthia Cres',43.958064,-79.462977
 6085,'6508','Coon''s Rd / Cynthia Cres',43.958645,-79.460567
@@ -4440,7 +4440,7 @@
 6156,'6406','Honda Blvd',43.912733,-79.380689
 6157,'6407','Yonge St / Stouffville Rd',43.925991,-79.450276
 6161,'6473','Metro Rd / 1st Av',44.251559,-79.485874
-6164,'6554','Copper Crk Dr / 9th Line',43.867323,-79.228283
+6164,'6554','Copper Crk Dr',43.867323,-79.228283
 6165,'6552','Smartcentres Markham Boxgrove Plz',43.870637,-79.214231
 6166,'6553','Smartcentres Markham Boxgrove Stop',43.870306,-79.215469
 6168,'6577','Hollandview Trl / Mcmaster Av',44.014549,-79.450209
@@ -4541,7 +4541,7 @@
 6270,'6672','Vaughan Mills Rd / Royalpark Way',43.798807,-79.610073
 6271,'6673','Langstaff Rd / Crestlawn Gt',43.793758,-79.616381
 6272,'6682','Bathurst St',43.928001,-79.478508
-6273,'6679','King Rd / Spg Hl',43.932699,-79.509562
+6273,'6679','King Rd / Spg Hl Dr',43.932699,-79.509562
 6274,'6680','Keele St / Steeles Av',43.781775,-79.494723
 6275,'6683','Pugsley St / Ctr St',43.877247,-79.432612
 6276,'6685','Granton Dr / 16th Av',43.861744,-79.389181
@@ -4554,7 +4554,7 @@
 6283,'6684','Lakeland Cres / North Lk Rd',43.948173,-79.448765
 6287,'6688','Box Grv Bypass',43.85949,-79.223915
 6288,'6689','Rizal Av / Box Grv Bypass',43.862418,-79.224421
-6289,'6690','The Bridle Wlak / Host Av',43.889577,-79.303796
+6289,'6690','The Bridle Walk / Host Av',43.889577,-79.303796
 6290,'6691','The Bridle Walk / Madison Hts B',43.889973,-79.303903
 6291,'6692','Box Grv Bypass / 14th Av',43.861015,-79.224469
 6292,'6698','Hollandview Trl / Bridgenorth Dr',44.013702,-79.453043
@@ -4651,7 +4651,7 @@
 6408,'6795','Zenway Blvd / Hwy 27',43.777259,-79.62355
 6409,'6796','Metro Rd / Charles Cres',44.258029,-79.484863
 6410,'6797','Metro Rd / Golf Rd',44.258087,-79.484939
-6411,'6798','Keenedy Rd',43.872554,-79.306172
+6411,'6798','Kennedy Rd',43.872554,-79.306172
 6412,'6799','Kennedy Rd',43.872688,-79.306028
 6413,'6800','Carrick Av / Chartwell Cres',44.243582,-79.46163
 6414,'6801','Carrick Av',44.240686,-79.460841
@@ -4729,10 +4729,10 @@
 6548,'6879','Cornell Rouge Blvd / Autumn Glow Dr',43.893902,-79.219208
 6549,'6880','Cornell Rouge Blvd / William Foster',43.891293,-79.220402
 6550,'6881','Cornell Rouge Blvd / William Foster',43.89105,-79.220213
-6551,'6882','Cornell Rouge Blvd / Riverlands Ave',43.888137,-79.219002
-6552,'6883','Cornell Rouge Blvd / Riverlands Ave',43.887843,-79.218709
-6553,'6884','Cornell Rouge Blvd / Honey Gln Ave',43.885948,-79.218388
-6554,'6885','Cornell Rouge Blvd / Honey Gln Ave',43.885793,-79.218168
+6551,'6882','Cornell Rouge Blvd / Riverlands Av',43.888137,-79.219002
+6552,'6883','Cornell Rouge Blvd / Riverlands Av',43.887843,-79.218709
+6553,'6884','Cornell Rouge Blvd / Honey Gln Av',43.885948,-79.218388
+6554,'6885','Cornell Rouge Blvd / Honey Gln Av',43.885793,-79.218168
 6560,'6887','Keele St',43.869314,-79.515529
 6561,'6888','Martin Grv Rd / Langstaff Rd',43.792832,-79.619933
 6564,'9856','Davis Dr / Hwy 404',44.067627,-79.421104
@@ -4942,6 +4942,6 @@
 6799,'7108','1st Commerce Dr',44.013925,-79.415292
 6800,'7109','Martin Grv Rd / Hwy 27',43.80029,-79.627241
 6801,'7110','Kennedy St / Windham Trl',43.989468,-79.489872
-6802,'7111','Mt Albert Rd',44.112311,-79.394756
+6802,'7111','Mt Albert Rd',44.112198,-79.394995
 6803,'7112','Mt Albert Rd',44.112188,-79.394657
 6804,'7113','Huntington Rd / Langstaff Rd',43.786684,-79.651321

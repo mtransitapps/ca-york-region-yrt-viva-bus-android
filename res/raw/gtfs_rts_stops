@@ -2720,7 +2720,7 @@
 3110,'5445','Hoover Pk Dr / Mostar St',43.960802,-79.262449
 3111,'5446','Hoover Pk Dr / Sandiford Dr',43.96005,-79.265559
 3112,'5449','Hoover Pk Dr / Dorcas Gt',43.961599,-79.258688
-3113,'5450','Reeves Way Blvd / Hiram Johnson Rd',43.958614,-79.244966
+3113,'5450','Reeves Way Blvd / William Stark Rd',43.958681,-79.245769
 3114,'5451','Reeves Way Blvd / Joseph Todd Av',43.959183,-79.242335
 3115,'5452','Reeves Way Blvd / Hoover Pk Dr',43.964791,-79.243212
 3116,'5453','Reeves Way Blvd / Richard Underhill',43.960949,-79.241966
@@ -3146,7 +3146,7 @@
 3622,'2469','Queen St / Roxborough Rd',44.059755,-79.447852
 3623,'2523','Yonge St / North St',44.097778,-79.490753
 3624,'2526','Yonge St / Grn Ln',44.073095,-79.485036
-3625,'2527','Holland Lndg Rd',44.082909,-79.487152
+3625,'2527','Yonge St',44.082909,-79.487152
 3626,'2528','Yonge St / Mt Albert Rd',44.095346,-79.489949
 3627,'2529','Mt Albert Rd / Christopher St',44.095834,-79.486483
 3628,'2530','Mt Albert Rd / Valleyview Dr',44.096726,-79.482223
@@ -4514,8 +4514,8 @@
 6483,'7034','Wilfred Murison Av / William Berczy',43.886934,-79.307625
 6484,'7035','William Berczy Blvd / Wilfred Muris',43.886593,-79.307684
 6485,'7036','William Berczy Blvd / Beckett Av',43.884565,-79.306022
-6487,'9863','Enterprise Blvd / Mkt Dr',43.85003,-79.322129
-6488,'9864','Enterprise Blvd / Mkt Dr',43.849974,-79.321605
+6487,'9863','Enterprise Blvd / Post Rd',43.85003,-79.322128
+6488,'9864','Enterprise Blvd / Post Rd',43.849974,-79.321604
 6489,'7083','Pefferlaw Rd / Florence Dr',44.315436,-79.206296
 6490,'7089','Bathurst St / Sykes Rd',44.045108,-79.505057
 6491,'7090','Sykes Rd / Mcgregor Farm Trl',44.045597,-79.504314

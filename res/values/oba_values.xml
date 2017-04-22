@@ -4,7 +4,7 @@
     <string name="one_bus_away_authority">org.mtransit.android.ca_york_region_yrt_viva_bus.oba</string>
     <string name="one_bus_away_for_poi_authority">@string/gtfs_rts_authority</string>
     <string name="one_bus_away_prediction_url_and_stop_tag_and_api_key">http://oba.yrt.ca/api/where/arrivals-and-departures-for-stop/YRT_%1$s.json?minutesAfter=720&amp;minutesBefore=60&amp;key=%2$s</string>
-    <bool name="one_bus_away_stop_tag_is_stop_code">true</bool>
+    <bool name="one_bus_away_stop_tag_is_stop_code">false</bool><!-- STOP ID = STOP CODE NOW -->
     <string-array name="one_bus_away_schedule_head_sign_clean_regex">
         <item>(^[\\d]+[\\s]*)</item>
         <item>([\\s]*(\\-[\\s]*)(eb|wb|sb|nb|af|mo)$)</item>

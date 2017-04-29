@@ -5,7 +5,7 @@ York Region YRT Viva buses for MonTransit.
 Schedule. News. Service Alerts.
 ----------
 What's new in this version?:
-Schedule from January 8, 2017 to April 29, 2017.
+Schedule from April 30, 2017 to July 1, 2017.
 News from www.yrt.ca.
 Tweets from @YRTViva.
 ----------

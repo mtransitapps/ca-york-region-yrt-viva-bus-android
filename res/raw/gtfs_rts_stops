@@ -1,3 +1,4 @@
+16,'VNYN16SB','Virtual Stop For Yn16 Sb',43.856415,-79.43398
 1001,'1001','Red Maple Rd / Oneida Cres',43.843914,-79.424129
 1002,'1002','Red Maple Rd / Bantry Av',43.845371,-79.42455
 1003,'1003','Leslie St / Commerce Vly Dr',43.839218,-79.380768
@@ -2461,8 +2462,6 @@
 4127,'4127','The Queensway / Hollywood Dr',44.205378,-79.467495
 4128,'4128','Hwy 7 / North Rivermede Rd',43.805744,-79.482931
 4129,'4129','Hwy 7 / Bowes Rd',43.802496,-79.490286
-4130,'4130','Hwy 7 / Keele St',43.800579,-79.499136
-4131,'4131','Hwy 7 / Creditstone Rd',43.795965,-79.51758
 4132,'4132','Hwy 7 / Jane St',43.794411,-79.524229
 4133,'4133','Hwy 7 / Edgeley Blvd',43.792984,-79.530799
 4134,'4134','Hwy 7 / Nova Star Dr',43.788783,-79.551397
@@ -2482,8 +2481,6 @@
 4151,'4151','Hwy 7 / Nova Star Dr',43.788324,-79.552098
 4152,'4152','Hwy 7 / Interchange Way',43.792435,-79.531206
 4153,'4153','Hwy 7 / Jane St',43.793804,-79.524773
-4154,'4154','Hwy 7 / Creditstone Rd',43.795416,-79.518061
-4155,'4155','Hwy 7 / Keele St',43.799959,-79.499674
 4156,'4156','Hwy 7 / Baldwin Av',43.802164,-79.490613
 4157,'4157','Hwy 7 / Ctr St',43.805852,-79.482493
 4161,'4161','Hwy 7 / South Pk Rd',43.840513,-79.398532
@@ -2796,7 +2793,6 @@
 4598,'4598','Maple Sugar Ln / Sugarforest Dr',43.825641,-79.471335
 4599,'4599','Maple Sugar Ln / Daniel Reaman Cr',43.826334,-79.468038
 4600,'4600','Maple Sugar Ln / Thornhill Woods',43.827005,-79.464866
-4601,'4601','Yorkdale Rd',43.724142,-79.451621
 4602,'4602','Tierra Av / Treasure Rd',43.856469,-79.544107
 4603,'4603','Silverwood Av / Yorkland St',43.899402,-79.440335
 4604,'4604','Silverwood Av',43.899014,-79.442186
@@ -3316,7 +3312,6 @@
 5244,'5244','Pedersen Dr / Kirkvalley Cres',44.018652,-79.451846
 5245,'5245','Industrial Pkwy / Wellington St',44.002226,-79.456932
 5246,'5246','Haggermans Corner',43.843384,-79.305968
-5247,'5247','Markville Mall Door # 7',43.870526,-79.28685
 5249,'5249','Allaura Blvd',43.984794,-79.460005
 5250,'5250','Allaura Blvd / Edward St',43.987457,-79.459742
 5251,'5251','Edward St / Yonge St',43.986829,-79.46417
@@ -3441,7 +3436,6 @@
 5397,'5397','Hwy 48 / Woodfield Dr',44.31902,-79.267486
 5398,'5398','Hwy 48 / Virginia Blvd',44.315385,-79.283134
 5399,'5399','Hwy 48 / Pk Rd',44.306575,-79.32212
-5400,'5400','High St / East St',44.300033,-79.352764
 5401,'5401','High St / Middle St',44.303141,-79.357424
 5404,'5404','Dalton Rd / Woodriver Bend',44.312744,-79.366539
 5407,'5407','Metro Rd / Dalton Rd',44.32131,-79.370737
@@ -4162,6 +4156,7 @@
 6401,'6401','Red Maple Rd / 16th Av',43.85427,-79.426438
 6402,'6402','Jefferson Sdrd / Yonge St',43.922405,-79.449648
 6403,'6403','Bullock Dr / Laidlaw Blvd',43.8743,-79.280834
+6404,'6404','Canada''s Wonderland',43.846489,-79.539668
 6405,'6405','Honda Blvd',43.912534,-79.379852
 6406,'6406','Honda Blvd',43.912733,-79.380689
 6407,'6407','Yonge St / Stouffville Rd',43.925991,-79.450276
@@ -4399,7 +4394,6 @@
 6697,'6697','Jane St',43.833197,-79.533411
 6698,'6698','Hollandview Trl / Bridgenorth Dr',44.013702,-79.453043
 6699,'6699','Hwy 50 / Rutherford Rd',43.803215,-79.667265
-6701,'6701','Markville Mall Entrance 11',43.867464,-79.289711
 6702,'6702','Silver Maple Rd / Pexton Av',43.925026,-79.456966
 6703,'6703','Silver Maple Rd / Yonge St',43.92878,-79.452378
 6704,'6704','Stouffville Rd / Yonge St',43.926213,-79.449462
@@ -4771,6 +4765,14 @@
 7114,'7114','Leslie St',43.900932,-79.396565
 7115,'7115','Keele St / Maloy St',43.904638,-79.52362
 7116,'7116','15th Sideroad / Bathurst St',43.956129,-79.491439
+7118,'7118','Stouffville Rd / Gormley Rd E',43.939724,-79.395821
+7119,'7119','Stouffville Rd / Gormley Rd E',43.939546,-79.396025
+7120,'7120','Markville Mall Door #1',43.868789,-79.289437
+7121,'7121','15th Siderd / Bathurst St',43.956272,-79.491352
+7122,'7122','Davis Dr / South Lk Hosp',44.061384,-79.45184
+7123,'7123','Keele St / Hwy 7',43.800115,-79.499199
+7124,'7124','Main St / Mohawk Gt',43.975919,-79.226863
+7125,'7125','Main St / Eastern Gt Cr',43.975585,-79.227359
 9700,'9700','Hwy 7 / Martin Grv',43.775925,-79.608653
 9701,'9701','Hwy 7 / Kipling',43.778488,-79.597505
 9702,'9702','Hwy 7 / Kipling',43.778903,-79.597043
@@ -4787,7 +4789,6 @@
 9713,'9713','Interchange / Jane',43.789638,-79.524906
 9714,'9714','Interchange / Jane',43.789407,-79.524243
 9715,'9715','York University',43.775599,-79.500441
-9716,'9716','Keele St / Hwy 7',43.800088,-79.499188
 9717,'9717','Keele St / Hwy 7',43.799186,-79.499351
 9718,'9718','Ctr / Dufferin',43.8058,-79.473362
 9719,'9719','Ctr / Dufferin',43.805617,-79.475267
@@ -4926,3 +4927,9 @@
 9858,'9858','Hwy 7 / Creditstone Rd',43.795526,-79.518738
 9863,'9863','Enterprise Blvd / Post Rd',43.85003,-79.322128
 9864,'9864','Enterprise Blvd / Post Rd',43.849974,-79.321604
+10000,'VNYNBASB','Virtual Stop For Ynba Sb',43.849649,-79.432292
+100001,'VNBRYNSB','Virtual Stop For Bryn Sb',43.897133,-79.443353
+100002,'VNYNRONB','Virtual Stop For Ynro Nb',43.819518,-79.425063
+100003,'VNYNWDSB','Virtual Stop For Ynwd Sb',43.862689,-79.435443
+100004,'VNYNCLNB','Virtual Stop For Yncl Nb',43.80387,-79.421438
+100006,'VNYNCTNB','Virtual Stop For Ynct Nb',43.813065,-79.423578

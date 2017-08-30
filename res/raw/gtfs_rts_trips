@@ -1,55 +1,55 @@
-101,1,'E',1
-102,1,'W',1
-201,1,'E',2
-202,1,'W',2
-301,1,'E',3
-302,1,'W',3
-401,1,'E',4
-402,1,'W',4
-501,1,'E',5
-502,1,'W',5
-703,1,'N',7
-704,1,'S',7
-803,1,'N',8
-804,1,'S',8
-903,1,'N',9
-904,1,'S',9
-1001,1,'E',10
-1002,1,'W',10
-1203,1,'N',12
-1204,1,'S',12
-1303,1,'N',13
-1304,1,'S',13
-1401,1,'E',14
-1402,1,'W',14
-1501,1,'E',15
-1502,1,'W',15
-1601,1,'E',16
-1602,1,'W',16
-1801,1,'E',18
-1802,1,'W',18
-2003,1,'N',20
-2004,1,'S',20
+100,0,'Copper Crk',1
+101,0,'Richmond Hl Ctr Terminal',1
+201,0,'Finch Terminal',2
+200,0,'Markham Rd',2
+301,0,'Don Mills',3
+300,0,'York U',3
+401,0,'Vaughan Mills Mall',4
+400,0,'Woodbine',4
+500,0,'Finch Terminal',5
+501,0,'Gln Shields',5
+700,0,'Al Pallidini Community Ctr',7
+701,0,'Woodbine Ctr',7
+800,0,'Major Mackenzie',8
+801,0,'Steeles Ave',8
+901,0,'14th Ave',9
+900,0,'Stouffville',9
+1001,0,'Martin Grv',10
+1000,0,'York U',10
+1200,0,'Steeles AV',12
+1201,0,'Vaughan Mills Mall',12
+1300,0,'Napa Vly / Kleinburg',13
+1301,0,'Steeles AV',13
+1400,0,'Copper Crk',14
+1401,0,'Woodbine',14
+1500,0,'Millard St',15
+1501,0,'Yonge St',15
+1601,0,'Bathurst St',16
+1600,0,'Markham Stouffville Hosp',16
+1801,0,'Angus Gln Community Ctr',18
+1800,0,'Markham Stouffville Hosp',18
+2001,0,'Teston',20
+2000,0,'York University',20
 2100,0,'AM',21
 2101,0,'PM',21
-2203,1,'N',22
-2204,1,'S',22
-2303,1,'N',23
-2304,1,'S',23
-2403,1,'N',24
-2404,1,'S',24
-2501,1,'E',25
-2502,1,'W',25
+2200,0,'Maple GO',22
+2201,0,'Villanova HS',22
+2300,0,'Finch Terminal',23
+2301,0,'Teston Rd',23
+2401,0,'Don Mills Sta',24
+2400,0,'Honda Canada',24
+2501,0,'Harding Blvd',25
+2500,0,'Markham Stouffville Hosp',25
 2603,1,'N',26
 2604,1,'S',26
-2803,1,'N',28
-2804,1,'S',28
+2800,0,'Rutherford Rd',28
+2801,0,'Steeles Ave',28
 3101,1,'E',31
 3102,1,'W',31
-3203,1,'N',32
-3204,1,'S',32
-3301,1,'E',33
-3302,1,'W',33
+3201,0,'Seneca',32
+3200,0,'Stone Rd',32
+3300,0,'404 P&R',33
+3301,0,'Murray',33
 4001,1,'E',40
 4002,1,'W',40
 4101,1,'E',41
@@ -60,94 +60,165 @@
 4404,1,'S',44
 4503,1,'N',45
 4504,1,'S',45
-5003,1,'N',50
-5004,1,'S',50
-5103,1,'N',51
-5104,1,'S',51
-5203,1,'N',52
-5204,1,'S',52
-5403,1,'N',54
-5404,1,'S',54
-5501,1,'E',55
-5502,1,'W',55
-5601,1,'E',56
-5602,1,'W',56
-5701,1,'E',57
-5702,1,'W',57
-5803,1,'N',58
-5804,1,'S',58
-7701,1,'E',77
-7702,1,'W',77
-8001,1,'E',80
-8002,1,'W',80
-8100,0,'AM',81
-8101,0,'PM',81
-8203,1,'N',82
-8204,1,'S',82
-8303,1,'N',83
-8304,1,'S',83
+5001,0,'Newmarket Terminal',50
+5000,0,'Sutton',50
+5100,0,'Ferncroft',51
+5101,0,'Lk Dr S',51
+5201,0,'Newmarket Terminal',52
+5200,0,'Queensville',52
+5401,0,'East Gwillimbury GO Sta',54
+5400,0,'Yonge And Wellington',54
+5500,0,'404 Town Ctr',55
+5501,0,'Newmarket Terminal',55
+5600,0,'404 Town Ctr',56
+5601,0,'Newmarket Terminal',56
+5700,0,'404 Town Ctr',57
+5701,0,'Newmarket Terminal',57
+5801,0,'404 Town Ctr',58
+5800,0,'Mt Albert',58
+7701,0,'Finch Terminal',77
+7700,0,'Hwy 50',77
+8000,0,'Betty Roman',80
+8001,0,'Elgin West Community Ctr',80
+8100,0,'Bernard Terminal',81
+8101,0,'Jefferson Sdrd',81
+8200,0,'Commerce Vly Dr',82
+8201,0,'Elgin Mills',82
+8300,0,'Bernard Terminal',83
+8301,0,'Richmond Hl Ctr Terminal',83
 8403,1,'N',84
 8404,1,'S',84
-8501,1,'E',85
-8502,1,'W',85
-8603,1,'N',86
-8604,1,'S',86
-8701,1,'E',87
-8702,1,'W',87
-8803,1,'N',88
-8804,1,'S',88
-9003,1,'N',90
-9004,1,'S',90
-9103,1,'N',91
-9104,1,'S',91
+8500,0,'Leslie St',85
+8501,0,'Napa Vly',85
+8601,0,'Richmond Hl Ctr',86
+8600,0,'Shadow Falls',86
+8700,0,'Richmond Hl Ctr Terminal',87
+8701,0,'Vaughan Mills Mall',87
+8800,0,'Finch Terminal',88
+8801,0,'Seneca King',88
+9001,0,'Don Mills Sta',90
+9000,0,'Richmond Grn SS',90
+9100,0,'Finch Terminal',91
+9101,0,'Taylor Mills',91
 9803,1,'N',98
 9804,1,'S',98
-9903,1,'N',99
-9904,1,'S',99
-20101,1,'E',201
-20102,1,'W',201
-20201,1,'E',202
-20202,1,'W',202
-20301,1,'E',203
-20302,1,'W',203
+9901,0,'Bernard Terminal',99
+9900,0,'Finch Terminal',99
+20101,0,'16th Ave',201
+20100,0,'Markham GO STN',201
+20200,0,'Unionville GO STN',202
+20201,0,'Woodbine',202
+20300,0,'Box Grv',203
+20301,0,'Milliken GO',203
 20403,1,'N',204
 20404,1,'S',204
-22203,1,'N',222
-22204,1,'S',222
-22301,1,'E',223
-22302,1,'W',223
-24001,1,'E',240
-24002,1,'W',240
-24103,1,'N',241
-24104,1,'S',241
-24200,0,'AM',242
-24201,0,'PM',242
-24301,1,'E',243
-24302,1,'W',243
-30000,0,'AM',300
-30001,0,'PM',300
-30100,0,'AM',301
-30101,0,'PM',301
-30200,0,'AM',302
-30201,0,'PM',302
-30300,0,'AM',303
-30301,0,'PM',303
-30400,0,'AM',304
-30401,0,'PM',304
-32003,1,'N',320
-32004,1,'S',320
-36003,1,'N',360
-36004,1,'S',360
-42400,0,'AM',424
-42401,0,'PM',424
-46200,0,'AM',462
-46201,0,'PM',462
-52001,1,'E',520
-52002,1,'W',520
-52101,1,'E',521
-52102,1,'W',521
+22201,0,'404 Town Ctr Plz',222
+22200,0,'Aurora GO Sta',222
+22301,0,'Ford Wilson / Sawmill Vly',223
+22300,0,'Tannery',223
+24001,0,'Bernard Terminal',240
+24000,0,'Richmond Hl GO Sta',240
+24101,0,'Crosby',241
+24100,0,'Richmond Hl GO Sta',241
+24201,0,'Hillcrest Mall',242
+24200,0,'Richmond Hl GO Sta',242
+24301,0,'Redstone GO Shuttle',243
+24300,0,'Richmond Hl GO Sta',243
+30001,0,'Finch Terminal',300
+30000,0,'Town Ctr And Hwy 7',300
+30100,0,'Finch Terminal',301
+30101,0,'Mt Joy GO Sta',301
+30200,0,'Finch Terminal',302
+30201,0,'Main St Unionville',302
+30300,0,'Finch Terminal',303
+30301,0,'Mt Joy GO Sta',303
+30400,0,'Finch Terminal',304
+30401,0,'Mt Joy GO Sta',304
+32000,0,'Davis Dr P&R',320
+32001,0,'East Beaver Crk',320
+36001,0,'Vaughan Mills Mall',360
+36000,0,'Yorkdale Sta',360
+40100,0,'Brother Andre S 0',401
+40101,0,'Brother Andre S 1',401
+40200,0,'Pierre Elliot Trudeau / Bur Oak SS 0',402
+40201,0,'Pierre Elliot Trudeau / Bur Oak SS 1',402
+40500,0,'St Augustine S 0',405
+40501,0,'St Augustine S 1',405
+40600,0,'Markham District S 0',406
+40601,0,'Markham District S 1',406
+41000,0,'Markham District S 0',410
+41001,0,'Markham District S 1',410
+41100,0,'Markham District S 0',411
+41101,0,'Markham District S 1',411
+41201,0,'Thornlea S 1',412
+41300,0,'St Robert S 0',413
+41301,0,'St Robert S 1',413
+41500,0,'Stouffville HS 0',415
+41501,0,'Stouffville HS 1',415
+41800,0,'Pierre Elliot Trudeau S 0',418
+41801,0,'Pierre Elliot Trudeau S 1',418
+42000,0,'Newmarket HS 0',420
+42001,0,'Newmarket HS 1',420
+42300,0,'Newmarket HS 0',423
+42301,0,'Newmarket HS 1',423
+42400,0,'Keswick HS 0',424
+42401,0,'Keswick HS 1',424
+42500,0,'Huron Hts S 0',425
+42501,0,'Huron Hts S 1',425
+42600,0,'GW Williams S 0',426
+42601,0,'GW Williams S 1',426
+42700,0,'Sacred Heart S 0',427
+42701,0,'Sacred Heart S 1',427
+42800,0,'GW Williams S 0',428
+42901,0,'Aurora HS 1',429
+42900,0,'Old Colony 0',429
+43000,0,'Sacred Heart CHS S 0',430
+43001,0,'Sacred Heart CHS S 1',430
+43200,0,'Aurora HS 0',432
+44000,0,'St Theresa S 0',440
+44001,0,'St Theresa S 1',440
+44100,0,'Richmond Hl HS 0',441
+44101,0,'Richmond Hl HS 1',441
+44201,0,'Richmond Hl HS 1',442
+44300,0,'Langstaff SS 0',443
+44301,0,'Langstaff SS 1',443
+44400,0,'Commerce Vly 0',444
+44401,0,'Langstaff S 1',444
+44501,0,'Bernard Terminal 1',445
+44600,0,'St Theresa S 0',446
+44601,0,'St Theresa S 1',446
+44700,0,'St Theresa S 0',447
+44701,0,'St Theresa S 1',447
+44800,0,'Richmond Hl HS 0',448
+44801,0,'Richmond Hl HS 1',448
+44900,0,'Richmond Grn S 0',449
+44901,0,'Richmond Grn S 1',449
+45000,0,'St Theresa S 0',450
+45001,0,'St Theresa S 1',450
+45100,0,'Major Mackenzie 0',451
+45200,0,'Richmond Grn S 0',452
+45201,0,'Richmond Grn S 1',452
+46000,0,'Forest Dr 0',460
+46100,0,'Emily Carr S 0',461
+46101,0,'Emily Carr S 1',461
+46200,0,'Maple HS 0',462
+46201,0,'Maple HS 1',462
+46400,0,'St Joan Of Arc S 0',464
+46401,0,'St Joan Of Arc S 1',464
+46500,0,'St Joan Of Arc S 0',465
+46501,0,'St Joan Of Arc S 1',465
+46600,0,'Tommy Douglas SS 0',466
+46601,0,'Tommy Douglas SS 1',466
+52000,0,'404 Plz',520
+52001,0,'Upper Canada Mall',520
+52100,0,'404 Plz',521
+52101,0,'Upper Canada Mall',521
 52201,1,'E',522
 52202,1,'W',522
+56000,0,'Mapleglen',560
+56001,0,'Vaughan Mills',560
+56101,0,'Blue Willow',561
+56100,0,'Vaughan Mills',561
 58903,1,'N',589
 59004,1,'S',590
 60103,1,'N',601
@@ -164,31 +235,31 @@
 60604,1,'S',606
 60701,1,'E',607
 60702,1,'W',607
-76003,1,'N',760
-76004,1,'S',760
-1000401,1,'E',10004
-1000402,1,'W',10004
-1002203,1,'N',10022
-1002204,1,'S',10022
-1003301,1,'E',10033
-1003302,1,'W',10033
-1005701,1,'E',10057
-1005702,1,'W',10057
-1007701,1,'E',10077
-1007702,1,'W',10077
-1008303,1,'N',10083
-1008304,1,'S',10083
-1009103,1,'N',10091
-1009104,1,'S',10091
-2005501,1,'E',20055
-2005502,1,'W',20055
+76000,0,'Canada''s Wonderland',760
+76001,0,'Finch Terminal',760
+1000401,0,'Pine Vly',10004
+1000400,0,'Woodbine',10004
+1002201,0,'Newmarket Terminal',10022
+1002200,0,'York U',10022
+1003301,0,'Murray',10033
+1003300,0,'St John''s Sideroad',10033
+1005700,0,'404 Town Ctr',10057
+1005701,0,'Newmarket Terminal',10057
+1007700,0,'Finch Terminal',10077
+1007701,0,'Hwy 50',10077
+1008301,0,'Hillcrest Mall',10083
+1008300,0,'Richmond Grn HS',10083
+1009100,0,'Finch Terminal',10091
+1009101,0,'Subrisco',10091
+2005500,0,'404 Carpool',20055
+2005501,0,'Newmarket Terminal',20055
 2009003,1,'N',20090
 2009004,1,'S',20090
-2009103,1,'N',20091
-2009104,1,'S',20091
-3008501,1,'E',30085
-3008502,1,'W',30085
-5009104,1,'S',50091
-5009803,1,'N',50098
-98009903,1,'N',980099
-98009904,1,'S',980099
+2009100,0,'Oak Rdgs',20091
+2009101,0,'Richmond Hl Ctr Terminal',20091
+3008500,0,'Leslie St',30085
+3008501,0,'Vaughan Mills Mall',30085
+5009100,0,'Finch Terminal',50091
+5009800,0,'Newmarket Terminal',50098
+98009900,0,'Finch Terminal',980099
+98009901,0,'Grn Ln',980099

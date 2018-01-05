@@ -4935,9 +4935,9 @@
 7199,'7199','Pioneer Vlg Sta P5',43.77868,-79.511798
 7200,'7200','Hwy 407 Sta P3',43.782744,-79.523259
 7201,'7201','Hwy 407 Sta P6',43.782688,-79.523393
-7203,'7203','Smartcentres Pl Bus Terminal',43.79518,-79.527533
-7204,'7204','Smartcentres Pl Bus Terminal',43.796383,-79.525195
-7206,'7206','Smartcentres Pl Bus Terminal',43.796074,-79.524723
+7203,'7203','Smartcentres Pl Bus Terminal',43.795023,-79.527497
+7204,'7204','Smartcentres Pl Bus Terminal',43.79518,-79.527533
+7206,'7206','Smartcentres Pl Bus Terminal',43.79518,-79.527533
 7207,'7207','Smartcentres Pl Bus Terminal',43.795023,-79.527497
 7210,'7210','Major Mackenzie Dr / Poetry Dr',43.842827,-79.571313
 7211,'7211','Major Mackenzie Dr / Vellore Av',43.842457,-79.571919
@@ -4948,6 +4948,9 @@
 7217,'7217','Interchange Way / Hwy 7',43.791948,-79.530552
 7218,'7218','Interchange Way / Jane St',43.789421,-79.524233
 7219,'7219','Interchange Way / Jane St',43.789623,-79.524925
+7224,'7224','London Rd / Dorchester St',44.067357,-79.468658
+7225,'7225','Carlisle St / Primrose Ln',44.065686,-79.480459
+7226,'7226','Carlisle St / Primrose Ln',44.065889,-79.480668
 9700,'9700','Hwy 7 / Martin Grv',43.775925,-79.608653
 9701,'9701','Hwy 7 / Kipling',43.778488,-79.597505
 9702,'9702','Hwy 7 / Kipling',43.778903,-79.597043

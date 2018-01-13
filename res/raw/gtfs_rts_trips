@@ -215,6 +215,8 @@
 46501,0,'St Joan Of Arc S 1',465
 46600,0,'Tommy Douglas SS 0',466
 46601,0,'Tommy Douglas SS 1',466
+50101,0,'Downtown Brampton Terminal',501
+50100,0,'York U',501
 52000,0,'404 Plz',520
 52001,0,'Upper Canada Mall',520
 52100,0,'404 Plz',521
@@ -255,6 +257,8 @@
 1008300,0,'Richmond Grn HS',10083
 1009100,0,'Finch Terminal',10091
 1009101,0,'Subrisco',10091
+1050101,0,'Downtown Brampton Terminal',10501
+1050100,0,'York U',10501
 2005500,0,'404 Carpool',20055
 2005501,0,'Newmarket Terminal',20055
 2009003,0,'Beaver Crk',20090

@@ -107,7 +107,6 @@
 121,'9820','Richmond Hl Ctr P1',43.840199,-79.425598
 122,'9821','Richmond Hl Ctr P2',43.840195,-79.425775
 123,'9822','York University',43.776161,-79.500479
-126,'1021','Founders Rd / Steeles Av',43.778526,-79.503923
 129,'1151','15th Sdrd / Dufferin St',43.95229,-79.508964
 130,'1271','Yonge St / Aurora Hts Dr',44.003562,-79.468625
 131,'1326','Bur Oak Av / Markham Rd',43.900394,-79.265616
@@ -540,7 +539,7 @@
 587,'3353','Islington Av / Sevilla Blvd',43.835803,-79.621002
 588,'3354','New Westminster Dr / Clark Av',43.802277,-79.457845
 589,'3355','Islington Av / Rushworth Cres',43.839065,-79.623732
-590,'3356','New Westminster Dr / Coulter''s Mill',43.798247,-79.459539
+590,'3356','New Westminster Dr / Coulters Mill',43.798247,-79.459539
 591,'3357','Islington Av',43.840671,-79.625045
 592,'3358','New Westminster Dr / Joseph Aaron B',43.796188,-79.459378
 593,'3359','Islington Av / Nashville Rd',43.84417,-79.62841
@@ -597,7 +596,7 @@
 644,'3410','Islington Av / Wycliffe Av',43.814527,-79.596501
 645,'3411','Grn Ln / Aileen Av',43.823945,-79.388532
 646,'3412','Islington Av / Wycliffe Gt',43.811594,-79.591908
-647,'3413','Grn Ln / King''s College Rd',43.824733,-79.384864
+647,'3413','Grn Ln / Kings College Rd',43.824733,-79.384864
 648,'3414','Islington Av / Kiloran Av',43.807328,-79.587466
 649,'3415','Grn Ln / Huntington Pk Dr',43.82576,-79.380194
 650,'3416','Islington Av',43.801459,-79.585005
@@ -746,7 +745,6 @@
 807,'3622','Ansley Grv Rd / Snider Grn',43.79294,-79.561968
 808,'3624','Ansley Grv Rd / Chancellor Dr',43.795362,-79.562542
 809,'3626','Ansley Grv Rd',43.798104,-79.56316
-810,'3627','Steeles Av',43.778868,-79.506525
 811,'3628','Ansley Grv Rd / Misty Mdw Dr',43.800261,-79.563707
 813,'3630','Ansley Grv Rd / Belview Av',43.802632,-79.564024
 814,'3631','Steeles Av / Murray Ross Pkwy',43.776552,-79.516748
@@ -1125,7 +1123,7 @@
 1250,'4818','Major Mackenzie Dr / Ralph Chalmers',43.908408,-79.273045
 1251,'4819','Major Mackenzie Dr / Roy Rainey Av',43.90563,-79.285511
 1252,'4884','Grn Ln / Fallingbrooke Crt',43.830443,-79.377226
-1253,'4885','Grn Ln / King''s College Rd',43.82491,-79.38452
+1253,'4885','Grn Ln / Kings College Rd',43.82491,-79.38452
 1254,'4886','Grn Ln / Willowbrook Rd',43.823963,-79.389039
 1255,'4887','Willowbrook Rd / Holm Cres',43.82708,-79.389807
 1256,'4888','Willowbrook Rd / Ravencliffe Rd',43.828496,-79.391412
@@ -2242,7 +2240,7 @@
 2571,'3000','16th Av / Mccowan Rd',43.885446,-79.28854
 2572,'3001','16th Av / Stonebridge Dr',43.884331,-79.293463
 2573,'3002','16th Av / The Bridle Walk',43.88305,-79.299055
-2574,'3003','16th Av / Longwater Chase',43.881926,-79.303697
+2574,'3003','16th Av / William Berczy Blvd',43.881926,-79.303697
 2575,'3004','16th Av / Harbord St',43.880445,-79.310168
 2576,'3005','16th Av / Kennedy Rd',43.879645,-79.313892
 2577,'3006','16th Av / Normandale Rd',43.878027,-79.321309
@@ -2385,7 +2383,6 @@
 2749,'4169','Hwy 7 / Main St Unionville',43.861237,-79.309798
 2750,'4171','Unionville GO Sta P2',43.852154,-79.313954
 2751,'4172','Unionville GO Sta P3',43.852113,-79.314196
-2753,'4176','Hwy 7 / Kennedy Rd',43.862501,-79.30404
 2754,'4177','Hwy 7 / Swansea Rd',43.863806,-79.298558
 2755,'4178','Hwy 7',43.866113,-79.288545
 2756,'4179','Hwy 7 / Conservation Av',43.868842,-79.277746
@@ -2450,7 +2447,7 @@
 2823,'4348','Regent St / Oatlands Cres',43.881431,-79.450972
 2824,'4349','Regent St / Oxford St',43.88496,-79.451736
 2825,'4350','Mccallum Dr / Bathurst St',43.861875,-79.461103
-2826,'4351','Regent St / Theobald''s Cir',43.878953,-79.462097
+2826,'4351','Regent St / Theobalds Cir',43.878953,-79.462097
 2828,'4356','Main St Unionville / Fred Varley Dr',43.866125,-79.311164
 2829,'4357','Main St Unionville / Sta Ln',43.865089,-79.310458
 2830,'4358','Main St Unionville / Hwy 7',43.861005,-79.309422
@@ -2526,7 +2523,6 @@
 2912,'4711','9th Line / Rose Way',43.880494,-79.235156
 2913,'4712','Hwy 7 / Cosburn Rd',43.874455,-79.257238
 2915,'4715','Hwy 7 / Frontenac Dr',43.849433,-79.360991
-2916,'4716','Hwy 7 / Kennedy Rd',43.862909,-79.303425
 2917,'4717','Hwy 7',43.866433,-79.288041
 2918,'4718','Hwy 7',43.878932,-79.238146
 2919,'4719','Hwy 7 / Christman Crt',43.876169,-79.250125
@@ -3026,7 +3022,7 @@
 3514,'2265','Stone Rd / October Ln',43.994272,-79.442175
 3515,'2266','Stone Rd / Primeau Dr',43.993853,-79.444056
 3516,'2267','Stone Rd',43.993405,-79.446044
-3517,'2268','Stone Rd / Crow''s Nest Gt',43.994221,-79.449104
+3517,'2268','Stone Rd / Crows Nest Gt',43.994221,-79.449104
 3518,'2269','Stone Rd / Fife Rd',43.997306,-79.447388
 3519,'2270','Stone Rd / Hawtin Ln',43.998905,-79.445564
 3520,'2271','Stone Rd / Bayview Av',44.000706,-79.443694
@@ -3141,7 +3137,7 @@
 3638,'2540','Mt Albert Rd / Yonge St',44.095648,-79.48926
 3639,'2541','Yonge St / North St',44.097626,-79.490539
 3640,'2543','Yonge St / Thompson Dr',44.101178,-79.491401
-3641,'2544','Yonge St / Dutch Settler''s Crt',44.104226,-79.492225
+3641,'2544','Yonge St / Dutch Settlers Crt',44.104226,-79.492225
 3642,'2545','Yonge St / Beckett Av',44.10541,-79.492458
 3643,'2546','Yonge St / Doane Rd',44.109966,-79.492094
 3644,'2547','Yonge St / Parkside Dr',44.113506,-79.492816
@@ -3354,7 +3350,7 @@
 3885,'4666','Henderson Dr / Mcclellan Way',43.978116,-79.477578
 3886,'4667','Bathurst St / Henderson Dr',43.975434,-79.489746
 3887,'4668','Mcclellan Way / Mahogany Crt',43.971893,-79.479934
-3888,'4670','Kennedy St / Crk''s Mdw Ln',43.990575,-79.481856
+3888,'4670','Kennedy St / Creeks Mdw Ln',43.990575,-79.481856
 3889,'4675','Henderson Dr / Mcclenny Dr',43.976113,-79.486677
 3891,'4735','Conover Av / Borealis Av',44.013226,-79.442315
 3892,'4736','Haida Dr / Aurora Hts Dr',44.001491,-79.478525
@@ -3762,7 +3758,7 @@
 4550,'4102','The Queensway / Morton Av',44.233075,-79.465517
 4551,'4103','The Queensway / Henry St',44.236721,-79.463812
 4552,'4104','The Queensway / Silas Blvd',44.238479,-79.463601
-4553,'4105','The Queensway / Mel''s Ln',44.240644,-79.465666
+4553,'4105','The Queensway / Mels Ln',44.240644,-79.465666
 4554,'4106','The Queensway / Cedar St',44.241708,-79.468331
 4555,'4119','The Queensway / Cedar St',44.241549,-79.468278
 4556,'4120','The Queensway / Parkview Rd',44.240619,-79.465805
@@ -4193,6 +4189,7 @@
 5903,'6397','Wootten Way / Sir Tristram Pl',43.886412,-79.244927
 5904,'6398','Wootten Way / Ramona Blvd',43.888068,-79.245553
 5905,'6403','Bullock Dr / Laidlaw Blvd',43.8743,-79.280834
+5906,'6404','Canada''s Wonderland',43.846489,-79.539668
 5907,'6405','Honda Blvd',43.912534,-79.379852
 5908,'6409','Woodspring Av / Aspenwood Dr',44.065866,-79.493402
 5909,'6411','Yorkland St / Bernard Av',43.899319,-79.4393
@@ -4371,7 +4368,6 @@
 6170,'6738','Main St / Baker Hl Rd',43.965332,-79.274073
 6171,'6740','Keswick Marketplace',44.218081,-79.447218
 6172,'6741','Yonge St / Canyon Hl Av',43.895153,-79.442896
-6173,'6742','Founders Rd / Steeles Av',43.778436,-79.504152
 6176,'6745','London Rd / Dover Cres',44.068557,-79.464158
 6177,'6746','George St / Davis Dr',44.057331,-79.478273
 6178,'6554','Copper Crk Dr',43.867323,-79.228283
@@ -4429,7 +4425,7 @@
 6245,'6819','Woodbine Pk & Ride',44.191785,-79.437182
 6246,'6820','Dunning Av',43.990875,-79.463224
 6251,'6826','Ravenshoe Rd / Thornlodge Dr',44.194939,-79.45723
-6252,'6827','Angus Gln Blvd / Dancer''s Dr',43.890971,-79.318514
+6252,'6827','Angus Gln Blvd / Dancers Dr',43.890971,-79.318514
 6253,'6836','Angus Gln Blvd / Glengordon Cres',43.889157,-79.333999
 6254,'6837','Angus Gln Blvd / Royal County Down',43.887061,-79.333403
 6255,'6838','Angus Gln Blvd / Royal County Down',43.887154,-79.333408
@@ -4438,8 +4434,8 @@
 6264,'6822','Kennedy Rd / Wilfred Murison Av',43.884304,-79.315238
 6266,'6824','Wellington St / John West Way',44.003147,-79.452112
 6267,'6825','The Queensway / Simcoe Av',44.242708,-79.470541
-6268,'6829','Angus Gln Blvd / Potter''s Wheel Rd',43.890421,-79.322977
-6269,'6830','Angus Gln Blvd / Potter''s Wheel Rd',43.89035,-79.323107
+6268,'6829','Angus Gln Blvd / Potters Wheel Rd',43.890421,-79.322977
+6269,'6830','Angus Gln Blvd / Potters Wheel Rd',43.89035,-79.323107
 6270,'6831','Angus Gln Blvd / Stollery Pond Cre',43.893159,-79.333628
 6271,'6832','Angus Gln Blvd / Stollery Pond Cre',43.893029,-79.333521
 6273,'6840','Angus Gln Blvd / Royal Troon Cres',43.889539,-79.328127
@@ -4735,7 +4731,7 @@
 6943,'6808','Leslie St',44.192072,-79.46423
 6944,'6810','Leslie St / Holborn Rd',44.15703,-79.455228
 6951,'6823','Edward St',43.987513,-79.461196
-6955,'6828','Angus Gln Blvd / Prospector''s Dr',43.890723,-79.319968
+6955,'6828','Angus Gln Blvd / Prospectors Dr',43.890723,-79.319968
 6956,'6834','Angus Gln Blvd / Stollery Pond Cre',43.890436,-79.333511
 6957,'6833','Angus Gln Blvd / Stollery Pond Cre',43.890592,-79.333657
 6963,'7005','St Francis Av / Pompeii Rd',43.826346,-79.564777
@@ -4883,7 +4879,7 @@
 7611,'6264','Roy Rainy Ave / Hermitage Blvd',43.903151,-79.285093
 7612,'6321','Upper Yonge Pl',43.894181,-79.43992
 7613,'6322','Richmond Hl Commons Plz',43.891826,-79.44359
-7615,'6341','Major Mackenzie Dr / Ilan Ramon',43.864898,-79.468446
+7615,'6341','Major Mackenzie Dr / Via Romano Blvd',43.864898,-79.468446
 7620,'6289','Jefferson Sdrd / Silver Maple Rd',43.921096,-79.456222
 7621,'6299','Glenwoods Av / Woodbine Av',44.216466,-79.445661
 7623,'6301','Mary St / Wellington St',44.003134,-79.45068
@@ -4966,7 +4962,6 @@
 7750,'9839','Yonge St / Regatta Av',43.951671,-79.456268
 7751,'9840','Yonge St / Regatta Av',43.951598,-79.456443
 7752,'VNYN16SB','Virtual Stop For Yn16 Sb',43.856415,-79.43398
-7755,'6324','Ilan Ramon Av / Major Mackenzie Dr',43.863982,-79.468365
 7803,'5977','Main St Unionville / Enterprise Blv',43.856242,-79.308342
 7804,'5986','Cornell Pk Av / Walkerville Rd',43.889528,-79.232011
 7805,'5988','Stone Rd',43.993501,-79.447185
@@ -5048,7 +5043,6 @@
 7924,'7160','Edgeley Blvd / Cidermill Av',43.804687,-79.535578
 7925,'7161','Edgeley Blvd / Pennsylvania Av',43.802218,-79.534909
 7926,'7162','Edgeley Blvd',43.799554,-79.533847
-7927,'7163','Edgeley Blvd / Portage Pkwy',43.797233,-79.532907
 7928,'7164','Portage Pkwy / Applewood Cres',43.796425,-79.536315
 7929,'7165','Portage Pkwy / Applewood Cres',43.796195,-79.536652
 7930,'7166','Portage Pkwy / Chrislea Rd',43.794356,-79.542911
@@ -5124,3 +5118,5 @@
 8037,'VN603WB4','Vn603wb4',43.869831,-79.2747
 8038,'VN603WB5','Vn603wb5',43.865743,-79.290886
 8039,'VN603WB6','Vn603wb6',43.863887,-79.299052
+8040,'7227','Huntington Rd / Trade Vly Dr',43.794366,-79.652994
+8042,'7228','Mon Sheong Court',43.902072,-79.44344

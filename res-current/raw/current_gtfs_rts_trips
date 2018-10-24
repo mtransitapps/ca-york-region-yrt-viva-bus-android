@@ -1,196 +1,196 @@
-100,0,'Copper Crk',1
-101,0,'Richmond Hl Ctr Terminal',1
-201,0,'Finch Terminal',2
-200,0,'Markham Rd',2
-300,0,'Don Mills',3
-301,0,'Pioneer Vlg Terminal',3
-401,0,'Vaughan Mills Mall',4
-400,0,'Woodbine',4
-500,0,'Finch Terminal',5
-501,0,'Gln Shields',5
-700,0,'Al Pallidini Community Ctr',7
-701,0,'Woodbine Ctr',7
-800,0,'Major Mackenzie',8
-801,0,'Steeles Ave',8
-901,0,'14th Ave',9
-900,0,'Stouffville',9
-1001,0,'Kipling',10
-1000,0,'SmartCentres Pl',10
-1200,0,'Steeles Ave',12
-1201,0,'Vaughan Mills Mall',12
-1300,0,'Napa Vly / Kleinburg',13
-1301,0,'Steeles Ave',13
-1400,0,'Copper Crk',14
-1401,0,'Woodbine',14
-1500,0,'Millard St',15
-1501,0,'Yonge St',15
-1601,0,'Bathurst St',16
-1600,0,'Markham Stouffville Hosp',16
-1801,0,'Angus Gln Community Ctr',18
-1800,0,'Markham Stouffville Hosp',18
-2001,0,'Pioneer Vlg',20
-2000,0,'Teston',20
-2104,0,'Vaughan Mills Terminal',21
-2103,0,'Vellore',21
-2201,0,'Maple GO Sta',22
-2200,0,'Seneca College King Campus',22
-2300,0,'Finch Terminal',23
-2301,0,'Teston Rd',23
-2401,0,'Don Mills Sta',24
-2400,0,'Honda Canada',24
-2501,0,'Harding Blvd',25
-2500,0,'Markham Stouffville Hosp',25
+101,0,'Copper Crk',1
+102,0,'Richmond Hl Ctr Terminal',1
+202,0,'Finch Terminal',2
+201,0,'Markham Rd',2
+301,0,'Don Mills',3
+302,0,'Pioneer Vlg Terminal',3
+402,0,'Vaughan Mills Mall',4
+401,0,'Woodbine',4
+501,0,'Finch Terminal',5
+502,0,'Gln Shields',5
+703,0,'Al Pallidini Community Ctr',7
+704,0,'Woodbine Ctr',7
+803,0,'Major Mackenzie',8
+804,0,'Steeles Ave',8
+904,0,'14th Ave',9
+903,0,'Stouffville',9
+1002,0,'Kipling',10
+1001,0,'SmartCentres Pl',10
+1204,0,'Steeles Ave',12
+1203,0,'Vaughan Mills Mall',12
+1303,0,'Napa Vly / Kleinburg',13
+1304,0,'Steeles Ave',13
+1401,0,'Copper Crk',14
+1402,0,'Woodbine',14
+1501,0,'Millard St',15
+1502,0,'Yonge St',15
+1602,0,'Bathurst St',16
+1601,0,'Markham Stouffville Hosp',16
+1802,0,'Angus Gln Community Ctr',18
+1801,0,'Markham Stouffville Hosp',18
+2004,0,'Pioneer Vlg',20
+2003,0,'Teston',20
+2104000,0,'Vaughan Mills Terminal',21
+2103000,0,'Vellore',21
+2204,0,'Maple GO Sta',22
+2203,0,'Seneca College King Campus',22
+2304,0,'Finch Terminal',23
+2303,0,'Teston Rd',23
+2404,0,'Don Mills Sta',24
+2403,0,'Honda Canada',24
+2502,0,'Harding Blvd',25
+2501,0,'Markham Stouffville Hosp',25
 2603,0,'Brandon Gt',26
 2604,0,'SmartCentres Pl',26
-2800,0,'Rutherford Rd',28
-2801,0,'Steeles Ave',28
-3101,0,'East',31
-3102,0,'West',31
-3201,0,'Seneca',32
-3200,0,'Stone Rd',32
-3300,0,'404 P&R',33
-3301,0,'Murray',33
-4001,0,'Markville Mall',40
-4002,0,'Woodbine Ave',40
-4101,0,'Markham',41
-4102,0,'Markville Mall',41
-4204,0,'Berczy',42
-4203,0,'Unionville GO Sta',42
-4403,0,'Grn Ln',44
-4404,0,'Newmarket Terminal',44
-4504,0,'Markville Mall',45
-4503,0,'Mingay',45
-5001,0,'Newmarket Terminal',50
-5000,0,'Sutton',50
-5100,0,'Ferncroft',51
-5101,0,'Lk Dr S',51
-5201,0,'Newmarket Terminal',52
-5200,0,'Queensville',52
-5401,0,'East Gwillimbury GO Sta',54
-5400,0,'Yonge & Wellington',54
-5500,0,'404 Town Ctr',55
-5501,0,'Newmarket Terminal',55
-5600,0,'404 Town Ctr',56
-5601,0,'Newmarket Terminal',56
-5700,0,'404 Town Ctr',57
-5701,0,'Newmarket Terminal',57
-5801,0,'404 Town Ctr',58
-5800,0,'Mt Albert',58
+2803,0,'Rutherford Rd',28
+2804,0,'Steeles Ave',28
+3101000,0,'East',31
+3102000,0,'West',31
+3204,0,'Seneca',32
+3203,0,'Stone Rd',32
+3301,0,'404 P&R',33
+3302,0,'Murray',33
+4001000,0,'Markville Mall',40
+4002000,0,'Woodbine Ave',40
+4101000,0,'Markham',41
+4102000,0,'Markville Mall',41
+4204000,0,'Berczy',42
+4203000,0,'Unionville GO Sta',42
+4403000,0,'Grn Ln',44
+4404000,0,'Newmarket Terminal',44
+4504000,0,'Markville Mall',45
+4503000,0,'Mingay',45
+5004,0,'Newmarket Terminal',50
+5003,0,'Sutton',50
+5103,0,'Ferncroft',51
+5104,0,'Lk Dr S',51
+5204,0,'Newmarket Terminal',52
+5203,0,'Queensville',52
+5403,0,'East Gwillimbury GO Sta',54
+5404,0,'Yonge & Wellington',54
+5501,0,'404 Town Ctr',55
+5502,0,'Newmarket Terminal',55
+5601,0,'404 Town Ctr',56
+5602,0,'Newmarket Terminal',56
+5701,0,'404 Town Ctr',57
+5702,0,'Newmarket Terminal',57
+5804,0,'404 Town Ctr',58
+5803,0,'Mt Albert',58
 7701,0,'Finch Terminal',77
-7700,0,'Hwy 50',77
-8000,0,'Betty Roman',80
-8001,0,'Elgin West Community Ctr',80
-8100,0,'Bernard Terminal',81
-8101,0,'Jefferson Sdrd',81
-8200,0,'Commerce Vly Dr',82
-8201,0,'Elgin Mills',82
-8300,0,'Bernard Terminal',83
-8301,0,'Richmond Hl Ctr Terminal',83
-8403,0,'North',84
-8404,0,'South',84
-8500,0,'Leslie St',85
-8501,0,'Napa Vly',85
-8601,0,'Richmond Hl Ctr',86
-8600,0,'Shadow Falls',86
-8700,0,'Richmond Hl Ctr Terminal',87
-8701,0,'Vaughan Mills Mall',87
-8800,0,'Finch Terminal',88
-8801,0,'Seneca King',88
-9001,0,'Don Mills Sta',90
-9000,0,'Richmond Grn SS',90
-9100,0,'Finch Terminal',91
-9101,0,'Taylor Mills',91
-9600,0,'Newmarket Terminal',96
-9601,0,'Pioneer Vlg Terminal',96
+7702,0,'Hwy 50',77
+8001,0,'Betty Roman',80
+8002,0,'Elgin West Community Ctr',80
+81011,0,'Bernard Terminal',81
+81013,0,'Jefferson Sdrd',81
+8204,0,'Commerce Vly Dr',82
+8203,0,'Elgin Mills',82
+8303,0,'Bernard Terminal',83
+8304,0,'Richmond Hl Ctr Terminal',83
+8403000,0,'North',84
+8404000,0,'South',84
+8501,0,'Leslie St',85
+8502,0,'Napa Vly',85
+8604,0,'Richmond Hl Ctr',86
+8603,0,'Shadow Falls',86
+8701,0,'Richmond Hl Ctr Terminal',87
+8702,0,'Vaughan Mills Mall',87
+8804,0,'Finch Terminal',88
+8803,0,'Seneca King',88
+9004,0,'Don Mills Sta',90
+9003,0,'Richmond Grn SS',90
+9104,0,'Finch Terminal',91
+9103,0,'Taylor Mills',91
+9603,0,'Newmarket Terminal',96
+9604,0,'Pioneer Vlg Terminal',96
 9804,0,'Bernard Terminal',98
 9803,0,'Grn Ln',98
-9901,0,'Bernard Terminal',99
-9900,0,'Finch Terminal',99
-10500,0,'Major Mackenzie',105
-10501,0,'Sheppard West Sta',105
-10701,0,'Pioneer Vlg Terminal',107
-10700,0,'Teston',107
-16500,0,'Canada Dr',165
-16501,0,'Pioneer Vlg Terminal',165
+9903,0,'Bernard Terminal',99
+9904,0,'Finch Terminal',99
+10503,0,'Major Mackenzie',105
+10504,0,'Sheppard West Sta',105
+10704,0,'Pioneer Vlg Terminal',107
+10703,0,'Teston',107
+16503,0,'Canada Dr',165
+16504,0,'Pioneer Vlg Terminal',165
 20101,0,'16th Ave',201
-20100,0,'Markham GO STN',201
-20200,0,'Unionville GO STN',202
-20201,0,'Woodbine',202
-20300,0,'Box Grv',203
-20301,0,'Milliken GO',203
-20403,0,'Berczy',204
-20404,0,'Unionville GO Sta',204
-22200,0,'Aurora GO Sta',222
-22201,0,'William Graham Dr',222
-22301,0,'Ford Wilson / Sawmill Vly',223
-22300,0,'Tannery',223
-24001,0,'Bernard Terminal',240
-24000,0,'Richmond Hl GO Sta',240
-24101,0,'Crosby',241
-24100,0,'Richmond Hl GO Sta',241
-24201,0,'Hillcrest Mall',242
-24200,0,'Richmond Hl GO Sta',242
+20102,0,'Markham GO STN',201
+20201,0,'Unionville GO STN',202
+20202,0,'Woodbine',202
+20301,0,'Box Grv',203
+20302,0,'Milliken GO',203
+20403000,0,'Berczy',204
+20404000,0,'Unionville GO Sta',204
+22204,0,'Aurora GO Sta',222
+22203,0,'William Graham Dr',222
+22302,0,'Ford Wilson / Sawmill Vly',223
+22301,0,'Tannery',223
+24002,0,'Bernard Terminal',240
+24001,0,'Richmond Hl GO Sta',240
+24103,0,'Crosby',241
+24104,0,'Richmond Hl GO Sta',241
+242013,0,'Hillcrest Mall',242
+242011,0,'Richmond Hl GO Sta',242
 24301,0,'Redstone GO Shuttle',243
-24300,0,'Richmond Hl GO Sta',243
-30001,0,'Finch Terminal',300
-30000,0,'Town Ctr & Hwy 7',300
-30100,0,'Finch Terminal',301
-30101,0,'Mt Joy GO Sta',301
-30200,0,'Finch Terminal',302
-30201,0,'Main St Unionville',302
-30300,0,'Finch Terminal',303
-30301,0,'Mt Joy GO Sta',303
-30400,0,'Finch Terminal',304
-30401,0,'Mt Joy GO Sta',304
-32000,0,'Davis Dr P&R',320
-32001,0,'East Beaver Crk',320
-52000,0,'404 Plz',520
-52001,0,'Upper Canada Mall',520
-52100,0,'404 Plz',521
-52101,0,'Upper Canada Mall',521
+24302,0,'Richmond Hl GO Sta',243
+300013,0,'Finch Terminal',300
+300011,0,'Town Ctr & Hwy 7',300
+301011,0,'Finch Terminal',301
+301013,0,'Mt Joy GO Sta',301
+302011,0,'Finch Terminal',302
+302013,0,'Main St Unionville',302
+303011,0,'Finch Terminal',303
+303013,0,'Mt Joy GO Sta',303
+304011,0,'Finch Terminal',304
+304013,0,'Mt Joy GO Sta',304
+32003,0,'Davis Dr P&R',320
+32004,0,'East Beaver Crk',320
+52001,0,'404 Plz',520
+52002,0,'Upper Canada Mall',520
+52101,0,'404 Plz',521
+52102,0,'Upper Canada Mall',521
 52201,0,'East',522
 52202,0,'West',522
-58903,0,'Bernard / Dunlop St',589
-59004,0,'Hillcrest Mall',590
+58903000,0,'Bernard / Dunlop St',589
+59004000,0,'Hillcrest Mall',590
 60104,0,'Finch Terminal',601
 60103,0,'Newmarket Terminal',601
 60204,0,'Finch Terminal',602
 60203,0,'Newmarket Terminal',602
 60301,0,'Markham Stouffville Hosp',603
-60302,0,'Pioneer Vlg',603
+60302,0,'Richmond Hl Ctr',603
 60404,0,'Finch Terminal',604
 60403,0,'Unionville GO Sta',604
-60503,0,'Martin Grv',605
-60504,0,'Richmond Hl Ctr',605
+60502,0,'Martin Grv',605
+60501,0,'Richmond Hl Ctr Terminal',605
 60604,0,'Don Mills Sta',606
 60603,0,'McCowan Rd',606
 60701,0,'Hwy 404 P&R',607
 60702,0,'Newmarket Terminal',607
-76000,0,'Canada''s Wonderland',760
-76001,0,'Finch Terminal',760
-1000401,0,'Pine Vly',10004
-1000400,0,'Woodbine',10004
-1003301,0,'Murray',10033
-1003300,0,'St John''s Sideroad',10033
-1005700,0,'404 Town Ctr',10057
-1005701,0,'Newmarket Terminal',10057
-1007700,0,'Finch Terminal',10077
-1007701,0,'Hwy 50',10077
-1008301,0,'Hillcrest Mall',10083
-1008300,0,'Richmond Grn HS',10083
-1009100,0,'Finch Terminal',10091
-1009101,0,'Subrisco',10091
-2005500,0,'404 Carpool',20055
-2005501,0,'Newmarket Terminal',20055
+76003,0,'Canada''s Wonderland',760
+76004,0,'Finch Terminal',760
+989904,0,'Finch Terminal',9899
+989903,0,'Grn Ln',9899
+1000402,0,'Pine Vly',10004
+1000401,0,'Woodbine',10004
+1003302,0,'Murray',10033
+1003301,0,'St John''s Sideroad',10033
+1005701,0,'404 Town Ctr',10057
+1005702,0,'Newmarket Terminal',10057
+1007701,0,'Finch Terminal',10077
+1007702,0,'Hwy 50',10077
+1008304,0,'Hillcrest Mall',10083
+1008303,0,'Richmond Grn HS',10083
+1009104,0,'Finch Terminal',10091
+1009103,0,'Subrisco',10091
+2005501,0,'404 Carpool',20055
+2005502,0,'Newmarket Terminal',20055
 2009003,0,'Beaver Crk',20090
 2009004,0,'Don Mills Sta',20090
-2009100,0,'Oak Rdgs',20091
-2009101,0,'Richmond Hl Ctr Terminal',20091
-2010701,0,'Pioneer Vlg Terminal',20107
-2010700,0,'Rutherford GO Sta',20107
-3008500,0,'Leslie St',30085
-3008501,0,'Vaughan Mills Mall',30085
-5009100,0,'Finch Terminal',50091
-5009800,0,'Newmarket Terminal',50098
-98009900,0,'Finch Terminal',980099
-98009901,0,'Grn Ln',980099
+2009103,0,'Oak Rdgs',20091
+2009104,0,'Richmond Hl Ctr Terminal',20091
+2010704,0,'Pioneer Vlg Terminal',20107
+2010703,0,'Rutherford GO Sta',20107
+3008501,0,'Leslie St',30085
+3008502,0,'Vaughan Mills Mall',30085
+5009104,0,'Finch Terminal',50091
+5009803,0,'Newmarket Terminal',50098

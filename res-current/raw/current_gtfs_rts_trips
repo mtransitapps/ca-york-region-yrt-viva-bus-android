@@ -120,8 +120,8 @@
 20302,0,'Milliken GO',203
 20403000,0,'Berczy',204
 20404000,0,'Unionville GO Sta',204
-22204,0,'Aurora GO Sta',222
-22203,0,'William Graham Dr',222
+222011,0,'Aurora GO Sta',222
+222013,0,'William Graham Dr',222
 24002,0,'Bernard Terminal',240
 24001,0,'Richmond Hl GO Sta',240
 24103,0,'Crosby',241
@@ -174,8 +174,8 @@
 42700,0,'Sacred Heart S 0',427
 42701,0,'Sacred Heart S 1',427
 42800,0,'GW Williams S 0',428
-42901,0,'Aurora HS 1',429
-42900,0,'Old Colony 0',429
+42900,0,'Aurora HS 0',429
+42901,0,'Sunset Beach 1',429
 43000,0,'Sacred Heart CHS S 0',430
 43001,0,'Sacred Heart CHS S 1',430
 43200,0,'Aurora HS 0',432
@@ -232,8 +232,8 @@
 60603,0,'McCowan Rd',606
 60701,0,'Hwy 404 P&R',607
 60702,0,'Newmarket Terminal',607
-76003,0,'Canada''s Wonderland',760
 76004,0,'Finch Terminal',760
+76003,0,'Vaughan Mills',760
 989904,0,'Finch Terminal',9899
 989903,0,'Grn Ln',9899
 1000402,0,'Pine Vly',10004

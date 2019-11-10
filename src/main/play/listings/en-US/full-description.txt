@@ -1,15 +1,3 @@
-Title: York Region YRT Viva Bus - Mo…
-----------
-Short description:
-York Region YRT Viva buses for MonTransit.
-Schedule. News. Service Alerts.
-----------
-What's new in this version?:
-Schedule from November 3, 2019 to December 21, 2019.
-News from www.yrt.ca.
-Tweets from @YRTViva.
-----------
-Full description:
 This application adds York Region YRT Viva buses information to MonTransit.
 
 This app contains the buses schedule (offline & real-time) and the latest news from www.yrt.ca, YouTube and @YRTViva on Twitter.
@@ -18,7 +6,7 @@ YRT Viva serves the York Region in Ontario, Canada.
 
 Once this application is installed, the MonTransit app will display buses information (schedule...).
 
-This application only has a temporary icon and no screen: download the MonTransit app (free) in the "More ..." section bellow or by following this Google Play link http://goo.gl/pCk5mV
+This application only has a temporary icon: download the MonTransit app (free) in the "More ..." section bellow or by following this Google Play link http://goo.gl/pCk5mV
 
 You can install this application on the SD card but it is not recommended.
 
@@ -32,17 +20,3 @@ This app is not related with York Region Transit and Viva.
 
 Permissions:
 - Other: required for real-time schedule & service alerts and to read news from www.yrt.ca, YouTube and Twitter.
-----------
-Application type: Applications
-----------
-Category: Transportation
-----------
-Content rating: Low Maturity
-----------
-Website: https://github.com/mtransitapps/ca-york-region-yrt-viva-bus-android
-----------
-Email: mtransit.apps+GooglePlay@gmail.com
-----------
-Phone: 
-----------
-Privacy Policy:

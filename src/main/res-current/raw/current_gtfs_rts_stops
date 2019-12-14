@@ -1860,7 +1860,7 @@
 3303,'3303','Bathurst St / Gamble Rd',43.902646,-79.472012
 3305,'3305','Bathurst St / Major Mackenzie Dr',43.866649,-79.463053
 3306,'3306','Bathurst St / Worth Blvd',43.822734,-79.453069
-3307,'3307','Bathurst St / Westmount Blvd',43.820542,-79.452534
+3307,'3307','Bathurst St / Westmount Blvd',43.820475,-79.452505
 3309,'3309','Bathurst St / Ctr St',43.811518,-79.450245
 3310,'3310','Bathurst St / East Promenade',43.807404,-79.449447
 3312,'3312','Bathurst St / Clark Av',43.80293,-79.448472
@@ -2410,9 +2410,9 @@
 4017,'4017','Dufferin St / Beverley Gln Blvd',43.809511,-79.475228
 4018,'4018','Dufferin St / Racco Pkwy',43.813011,-79.475871
 4019,'4019','Dufferin St / Langstaff Rd',43.823754,-79.478308
-4021,'4021','Ctr St / Carl Tennen St',43.807685,-79.464586
+4021,'4021','Ctr St / Carl Tennen St',43.807642,-79.464577
 4022,'4022','Ctr St',43.808679,-79.460211
-4023,'4023','Ctr St / New Westminster Dr',43.809226,-79.457601
+4023,'4023','Ctr St / New Westminster Dr',43.809223,-79.457557
 4024,'4024','Promenade Terminal P1',43.809682,-79.454219
 4025,'4025','Promenade Terminal P2',43.809727,-79.453986
 4026,'4026','Promenade Terminal P4',43.809497,-79.453914
@@ -2434,8 +2434,8 @@
 4045,'4045','Ctr St / Bathurst St',43.811062,-79.449522
 4046,'4046','Ctr St / New Westminster Dr',43.809612,-79.457009
 4047,'4047','Ctr St',43.80898,-79.459805
-4048,'4048','Ctr St / Vaughan Blvd',43.808041,-79.464009
-4049,'4049','Ctr St / Concord Rd',43.807051,-79.468572
+4048,'4048','Ctr St / Vaughan Blvd',43.808044,-79.464081
+4049,'4049','Ctr St / Concord Rd',43.807055,-79.468684
 4050,'4050','Ravenshoe Rd / West Pk Hts',44.192727,-79.467242
 4051,'4051','Lk Dr / Ravenshoe Rd',44.19112,-79.479074
 4052,'4052','Lk Dr / Robert St',44.195623,-79.480174
@@ -2508,7 +2508,7 @@
 4131,'4131','Hwy 7 / Creditstone Rd',43.795965,-79.51758
 4132,'4132','Hwy 7 / Jane St',43.794411,-79.524229
 4133,'4133','Hwy 7 / Edgeley Blvd',43.792984,-79.530799
-4134,'4134','Hwy 7 / Nova Star Dr',43.788783,-79.551397
+4134,'4134','Hwy 7 / Nova Star Dr',43.788788,-79.551476
 4135,'4135','Hwy 7 / Aberdeen Av',43.785815,-79.565951
 4136,'4136','Hwy 7 / Wigwoss Dr',43.782995,-79.579118
 4137,'4137','Hwy 7 / Bruce St',43.781858,-79.584121
@@ -2520,9 +2520,9 @@
 4146,'4146','Hwy 7',43.774917,-79.613178
 4147,'4147','Hwy 7 / Woodstream Blvd',43.77661,-79.605681
 4148,'4148','Hwy 7 / Bruce St',43.781775,-79.583721
-4149,'4149','Hwy 7 / Helen St',43.782567,-79.579933
+4149,'4149','Hwy 7 / Helen St',43.782506,-79.579982
 4150,'4150','Hwy 7 / Marycroft Av',43.785177,-79.567414
-4151,'4151','Hwy 7 / Nova Star Dr',43.788324,-79.552098
+4151,'4151','Hwy 7 / Nova Star Dr',43.788354,-79.552058
 4152,'4152','Hwy 7 / Interchange Way',43.792435,-79.531206
 4153,'4153','Hwy 7 / Jane St',43.793804,-79.524773
 4154,'4154','Hwy 7 / Creditstone Rd',43.795416,-79.518061
@@ -3667,7 +3667,7 @@
 5747,'5747','Dufferin St / District Av',43.846454,-79.484093
 5748,'5748','Dufferin St / Rutherford Rd',43.842854,-79.483277
 5749,'5749','Hwy 400 Carpool Lot',43.84615,-79.550223
-5750,'5750','Bathurst St / Beverley Gln Blvd',43.814911,-79.451155
+5750,'5750','Bathurst St / Beverley Gln Blvd',43.814913,-79.451233
 5751,'5751','Bathurst St / Beverley Gln Blvd',43.814571,-79.450745
 5760,'5760','Denison St / Eastvale Dr',43.845047,-79.251161
 5761,'5761','Denison St / Bussa Rd',43.845875,-79.249524
@@ -4055,7 +4055,7 @@
 6234,'6234','Reeves Way Blvd / Northway Av',43.955606,-79.251185
 6235,'6235','Finch GO Bus Terminal P3',43.782136,-79.415048
 6236,'6236','Teston Rd / Via Romano Blvd',43.880988,-79.481903
-6237,'6237','Ctr St / Wade Gt',43.806675,-79.469164
+6237,'6237','Ctr St / Wade Gt',43.806677,-79.469121
 6238,'6238','Confederation Pkwy / Ten Oaks Blvd',43.835793,-79.492457
 6239,'6239','Confederation Pkwy / Camden Dr',43.834415,-79.492749
 6240,'6240','Clearmeadow Blvd / Bathurst',44.035776,-79.497105

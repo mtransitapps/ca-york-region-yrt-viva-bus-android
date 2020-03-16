@@ -10,7 +10,7 @@
         <item>([\\s]*(\\-[\\s]*)(eb|wb|sb|nb|af|mo)$)</item>
     </string-array>
     <string-array name="one_bus_away_schedule_head_sign_clean_replacement">
-        <item></item> <!-- empty string (remove) -->
-        <item></item> <!-- empty string (remove) -->
+        <item /> <!-- empty string (remove) -->
+        <item /> <!-- empty string (remove) -->
     </string-array>
 </resources>

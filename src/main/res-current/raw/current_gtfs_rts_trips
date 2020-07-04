@@ -26,8 +26,6 @@
 1801,0,'Markham Stouffville Hosp',18
 2004,0,'Pioneer Vlg',20
 2003,0,'Teston',20
-2104000,0,'Vaughan Mills Terminal',21
-2103000,0,'Vellore',21
 2304,0,'Finch Terminal',23
 2303,0,'Teston Rd',23
 2404,0,'Don Mills Sta',24
@@ -35,8 +33,8 @@
 2502,0,'Harding Blvd',25
 2501,0,'Markham Stouffville Hosp',25
 2603,0,'Brandon Gt',26
-2604,0,'Vaughan Mills Mall',26
-3204,0,'Bathurst',32
+2604,0,'SmartVMC Bus Terminal',26
+3204,0,'Seneca',32
 3203,0,'Stone Rd',32
 3302,0,'Murray',33
 3301,0,'State Farm',33
@@ -80,7 +78,7 @@
 9803,0,'Grn Ln',98
 9903,0,'Bernard Terminal',99
 9904,0,'Finch Terminal',99
-10503,0,'Rutherford',105
+10503,0,'Major Mackenzie',105
 10504,0,'Sheppard West Sta',105
 10704,0,'Pioneer Vlg Terminal',107
 10703,0,'Teston',107
@@ -106,14 +104,8 @@
 300011,0,'Town Ctr & Hwy 7',300
 303011,0,'Finch Terminal',303
 303013,0,'Mt Joy GO Sta',303
-52001,0,'404 Plz',520
-52002,0,'Upper Canada Mall',520
-52101,0,'404 Plz',521
-52102,0,'Upper Canada Mall',521
 52201,0,'East',522
 52202,0,'West',522
-58903000,0,'Bernard / Dunlop St',589
-59004000,0,'Hillcrest Mall',590
 60104,0,'Finch Terminal',601
 60103,0,'Newmarket Terminal',601
 60301,0,'Markham Stouffville Hosp',603

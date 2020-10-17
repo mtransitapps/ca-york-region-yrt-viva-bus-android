@@ -1175,23 +1175,23 @@
 2466,'2466','Main St / Bexhill Rd',44.064472,-79.462935
 2467,'2467','Main St / Davis Dr',44.059253,-79.461343
 2469,'2469','Queen St / Roxborough Rd',44.059755,-79.447852
-2470,'2470','Yonge St / Beresford Dr',43.844171,-79.430692
+2470,'2470','Yonge St / Beresford Dr',43.844229,-79.430649
 2471,'2471','Yonge St / Northern Hts Dr',43.849136,-79.431882
-2472,'2472','Yonge St / Spruce Av',43.851313,-79.432415
-2474,'2474','Yonge St',43.855217,-79.433354
+2472,'2472','Yonge St / Spruce Av',43.851295,-79.432374
+2474,'2474','Yonge St',43.855265,-79.43334
 2475,'2475','Yonge St / Weldrick Rd',43.860326,-79.433911
-2476,'2476','Yonge St / Clarissa Dr',43.862016,-79.43493
+2476,'2476','Yonge St / Clarissa Dr',43.861968,-79.434891
 2477,'2477','Yonge St / May Av',43.863936,-79.435358
-2478,'2478','Yonge St / Harding Blvd',43.866548,-79.436011
+2478,'2478','Yonge St / Harding Blvd',43.866482,-79.435931
 2479,'2479','Yonge St / Elmwood Av',43.869336,-79.436646
 2481,'2481','Yonge St / Lorne Av',43.874235,-79.437717
 2482,'2482','Yonge St / Ctr St',43.876169,-79.438224
 2483,'2483','Yonge St / Dunlop St',43.878261,-79.438754
 2485,'2485','Yonge St / Levendale Rd',43.882565,-79.439731
-2486,'2486','Yonge St / Trayborn Dr',43.884967,-79.440311
-2487,'2487','Yonge St / Industrial Rd',43.886646,-79.440643
+2486,'2486','Yonge St / Trayborn Dr',43.884941,-79.440261
+2487,'2487','Yonge St / Industrial Rd',43.886598,-79.440604
 2489,'2489','Yonge St / Silverwood Dr',43.898348,-79.443383
-2490,'2490','Yonge St',43.901543,-79.444186
+2490,'2490','Yonge St',43.901573,-79.444081
 2491,'2491','Yonge St / Devonsleigh Blvd',43.904698,-79.444891
 2493,'2493','Yonge St / Jefferson Forest Dr',43.913846,-79.447089
 2494,'2494','Yonge St / Townwood Dr',43.916541,-79.447782
@@ -1298,7 +1298,7 @@
 2668,'2668','Yonge St / Stouffville Rd',43.926214,-79.450616
 2670,'2670','Yonge St / Townwood Dr',43.916596,-79.448117
 2671,'2671','Yonge St / Tower Hl Rd',43.914257,-79.447534
-2672,'2672','Yonge St / Oxford St',43.886951,-79.441024
+2672,'2672','Yonge St / Oxford St',43.886954,-79.441063
 2673,'2673','Rollinghill Rd / Skywood Dr',43.911111,-79.459239
 2674,'2674','Rollinghill Rd / Tower Hl Rd',43.913656,-79.460927
 2675,'2675','Tower Hl Rd / Mockingbird Dr',43.914955,-79.456688
@@ -2417,11 +2417,11 @@
 4255,'4255','High Tech Rd / Nahanni Dr',43.842451,-79.420176
 4256,'4256','High Tech Rd / Silver Linden Dr',43.842757,-79.415058
 4257,'4257','High Tech Rd / Ferris St',43.842623,-79.416696
-4258,'4258','Yonge St / Yongehurst Rd',43.862805,-79.435462
-4259,'4259','Yonge St',43.855783,-79.433837
-4260,'4260','Yonge St / Spruce Av',43.851524,-79.432782
+4258,'4258','Yonge St / Yongehurst Rd',43.862826,-79.435526
+4259,'4259','Yonge St',43.855794,-79.433883
+4260,'4260','Yonge St / Spruce Av',43.851521,-79.432818
 4261,'4261','Yonge St / Oak Av',43.850093,-79.432397
-4262,'4262','Yonge St / Edgar Av',43.848429,-79.432016
+4262,'4262','Yonge St / Edgar Av',43.848431,-79.432098
 4264,'4264','Aberdeen Av / Misty Mdw Dr',43.797446,-79.572029
 4265,'4265','Major Mackenzie Dr / Cedar Av',43.873121,-79.428468
 4266,'4266','Major Mackenzie Dr / Richard Person',43.887097,-79.361836
@@ -2653,7 +2653,7 @@
 4621,'4621','Mulock Dr / College Mnr Dr',44.043226,-79.446418
 4622,'4622','Mulock Dr / College Mnr Dr',44.045312,-79.437716
 4623,'4623','Yonge St / Harding Blvd',43.866738,-79.436362
-4624,'4624','Yonge St / Hopkins St',43.869491,-79.436989
+4624,'4624','Yonge St / Hopkins St',43.869505,-79.437086
 4625,'4625','Islington Av / Turning Leaf Dr',43.818772,-79.603197
 4626,'4626','Islington Av / Sonoma Blvd',43.821969,-79.607108
 4630,'4630','Richmond Grn HS',43.902467,-79.398484
@@ -2705,7 +2705,7 @@
 4684,'4684','Yonge St / Kennedy St',43.994172,-79.466302
 4685,'4685','Yonge St / Gilbert Dr',43.977941,-79.46255
 4686,'4686','Yonge St / Rdg Rd',43.972606,-79.461297
-4688,'4688','Yonge St / Nottingham Dr',43.904892,-79.445265
+4688,'4688','Yonge St / Nottingham Dr',43.90495,-79.445298
 4689,'4689','Yonge St / Rdg Rd',43.972623,-79.461004
 4690,'4690','Yonge St / Trayborn Dr',43.884919,-79.44057
 4691,'4691','Newmarket Terminal P6',44.053076,-79.487077
@@ -2720,7 +2720,7 @@
 4701,'4701','Hwy 7 / Windridge Dr',43.872073,-79.26482
 4703,'4703','Hwy 7 / Robinson St',43.870427,-79.271936
 4704,'4704','Hwy 7 / Laidlaw Blvd',43.869189,-79.27729
-4705,'4705','Yonge St / Brookside Rd',43.89885,-79.443834
+4705,'4705','Yonge St / Brookside Rd',43.898838,-79.443908
 4707,'4707','Church St / Russell Stover Crt',43.880567,-79.25103
 4711,'4711','9th Line / Rose Way',43.880494,-79.235156
 4712,'4712','Hwy 7 / Cosburn Rd',43.874455,-79.257238
@@ -4369,7 +4369,7 @@
 9785,'9785','Yonge / Crosby',43.88046,-79.439272
 9786,'9786','Yonge / Crosby',43.8795,-79.439322
 9787,'9787','Yonge / Elgin Mills',43.89019,-79.441477
-9788,'9788','Yonge / Elgin Mills',43.888958,-79.441512
+9788,'9788','Yonge / Elgin Mills',43.888943,-79.44141
 9789,'9789','Bernard Terminal P2',43.894363,-79.442077
 9790,'9790','Yonge / Bernard',43.894655,-79.442522
 9791,'9791','Yonge / Bernard',43.89403,-79.44265

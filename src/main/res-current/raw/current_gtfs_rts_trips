@@ -14,9 +14,11 @@
 804,0,'Steeles Ave',8
 904,0,'14th Ave',9
 903,0,'Stouffville',9
+1002,0,'Kipling',10
+1001,0,'SmartVMC Bus Terminal',10
 1204,0,'Steeles Ave',12
 1203,0,'Vaughan Mills Mall',12
-1303,0,'Napa Vly',13
+1303,0,'Napa Vly / Kleinburg',13
 1304,0,'Steeles Ave',13
 1401,0,'Copper Crk',14
 1402,0,'Woodbine',14
@@ -26,6 +28,10 @@
 1801,0,'Markham Stouffville Hosp',18
 2004,0,'Pioneer Vlg',20
 2003,0,'Teston',20
+2104000,0,'Vaughan Mills Terminal',21
+2103000,0,'Vellore',21
+2204,0,'Maple GO Sta',22
+2203,0,'Seneca College King Campus',22
 2304,0,'Finch Terminal',23
 2303,0,'Teston Rd',23
 2404,0,'Don Mills Sta',24
@@ -54,6 +60,8 @@
 5502,0,'Newmarket Terminal',55
 5601,0,'404 Town Ctr',56
 5602,0,'Newmarket Terminal',56
+5804,0,'404 Town Ctr',58
+5803,0,'Mt Albert',58
 7701,0,'Finch Terminal',77
 7702,0,'Hwy 50',77
 8001,0,'Betty Roman',80
@@ -98,6 +106,8 @@
 303013,0,'Mt Joy GO Sta',303
 304011,0,'Finch Terminal',304
 304013,0,'Mt Joy GO Sta',304
+305013,0,'Box Grv',305
+305011,0,'Finch Terminal',305
 40100,0,'Brother Andre S 0',401
 40101,0,'Brother Andre S 1',401
 40200,0,'Pierre Elliot Trudeau / Bur Oak SS 0',402

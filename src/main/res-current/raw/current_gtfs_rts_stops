@@ -635,7 +635,7 @@
 1740,'1740','Yonge St / Kennedy St',43.994063,-79.466121
 1744,'1744','Yonge St / Church St',43.996631,-79.466738
 1745,'1745','Wellington St / Berczy St',44.001138,-79.460693
-1746,'1746','Wellington St / Industrial Pkwy',44.001909,-79.456992
+1746,'1746','Wellington St / Ind Pkwy',44.001909,-79.456992
 1747,'1747','John West Way / Wellington St',44.003907,-79.45109
 1748,'1748','John West Way / Amberhill Way',44.006021,-79.45028
 1749,'1749','John West Way / Ochalski Rd',44.009352,-79.450217
@@ -645,7 +645,7 @@
 1755,'1755','John West Way / Evelyn Buck Ln',44.010099,-79.450634
 1756,'1756','John West Way / Municipal Dr',44.007526,-79.449775
 1757,'1757','John West Way / Wellington St',44.003543,-79.451138
-1758,'1758','Wellington St / Industrial Pkwy',44.002018,-79.457317
+1758,'1758','Wellington St / Ind Pkwy',44.002018,-79.457317
 1759,'1759','Wellington St / Berczy St',44.001278,-79.460502
 1761,'1761','Yonge St / Murray Dr',43.986869,-79.464662
 1763,'1763','9th Line / Donald Cousens Pkwy',43.905538,-79.241082
@@ -1189,7 +1189,7 @@
 2483,'2483','Yonge St / Dunlop St',43.878261,-79.438754
 2485,'2485','Yonge St / Levendale Rd',43.882565,-79.439731
 2486,'2486','Yonge St / Trayborn Dr',43.884941,-79.440261
-2487,'2487','Yonge St / Industrial Rd',43.886598,-79.440604
+2487,'2487','Yonge St / Ind Rd',43.886598,-79.440604
 2489,'2489','Yonge St / Silverwood Dr',43.89848,-79.443299
 2490,'2490','Yonge St',43.901573,-79.444081
 2491,'2491','Yonge St / Devonsleigh Blvd',43.904543,-79.444742
@@ -1738,9 +1738,9 @@
 3263,'3263','Woodbine Av / 14th Av',43.831869,-79.353594
 3264,'3264','Woodbine Av / John St',43.825433,-79.35187
 3265,'3265','Victoria Pk Av / Steeles Av',43.816952,-79.341823
-3267,'3267','Victoria Pk Av / I.B.M',43.818425,-79.342479
+3267,'3267','Victoria Pk Av / IBM',43.818425,-79.342479
 3268,'3268','Victoria Pk Av / Telson Rd',43.819458,-79.343213
-3269,'3269','Victoria Pk Av / I.B.M',43.818571,-79.342749
+3269,'3269','Victoria Pk Av / IBM',43.818571,-79.342749
 3270,'3270','Victoria Pk Av / Steeles Av',43.815915,-79.341562
 3272,'3272','Woodbine Av / Esna Pk Dr',43.825126,-79.351427
 3273,'3273','Bathurst St / Steeles Av',43.793017,-79.44571
@@ -2733,7 +2733,7 @@
 4674,'4674','Red Maple / High Tech Rd',43.841795,-79.422889
 4675,'4675','Henderson Dr / Mcclenny Dr',43.976113,-79.486677
 4676,'4676','Yonge St / Levendale Rd',43.882786,-79.440034
-4678,'4678','Yonge St / Industrial Pkwy',43.980635,-79.462813
+4678,'4678','Yonge St / Ind Pkwy',43.980635,-79.462813
 4679,'4679','Yonge St',44.034363,-79.475434
 4680,'4680','Grn Ln / Yonge St',44.072654,-79.485451
 4681,'4681','Yonge St / Valhalla Crt',44.006481,-79.469345
@@ -3560,7 +3560,7 @@
 5987,'5987','Trench St',43.869987,-79.449496
 5988,'5988','Stone Rd',43.993501,-79.447185
 5989,'5989','Carlton Rd / Liebeck Cres',43.869915,-79.333086
-5991,'5991','Emily Carr S.S',43.817326,-79.594782
+5991,'5991','Emily Carr SS',43.817326,-79.594782
 5992,'5992','Apple Crk Blvd / Hollingham Rd',43.86014,-79.33846
 6000,'6000','Bayview Av',43.905557,-79.422572
 6001,'6001','Bayview Av / 19th Av',43.910831,-79.423973

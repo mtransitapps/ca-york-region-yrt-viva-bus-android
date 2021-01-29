@@ -309,18 +309,18 @@
 1373,'1373','Clark Av / Yonge St',43.806919,-79.423692
 1374,'1374','Bur Oak Av / Markham Rd',43.90004,-79.266418
 1375,'1375','Clark Av / Springfield Way',43.806887,-79.426676
-1377,'1377','Clark Av / Charles St',43.806663,-79.432727
+1377,'1377','Clark Av / Charles St',43.806692,-79.432699
 1378,'1378','Clark Av / Hilda Av',43.80593,-79.436265
 1380,'1380','Clark Av / Atkinson Av',43.805047,-79.440512
 1381,'1381','Bur Oak Av / Mingay Av',43.89872,-79.27512
-1382,'1382','Clark Av / York Hl Blvd',43.804206,-79.444742
+1382,'1382','Clark Av / York Hl Blvd',43.804204,-79.444741
 1383,'1383','Bur Oak Av / Dogwood St',43.897616,-79.280051
 1384,'1384','Clark Av / Bathurst St',43.803492,-79.449365
 1385,'1385','Bur Oak Av / Roy Rainey Av',43.89694,-79.28314
 1386,'1386','Clark Av / South Promenade',43.803107,-79.451124
 1388,'1388','Clark Av / New Westminster Dr',43.802068,-79.457324
 1389,'1389','Bur Oak Av / Mccowan Rd',43.894899,-79.290704
-1390,'1390','Clark Av',43.802239,-79.460434
+1390,'1390','Clark Av',43.802265,-79.460446
 1391,'1391','Bur Oak Av / Hillwood St',43.89455,-79.293171
 1392,'1392','Clark Av / Judith Av',43.800809,-79.46458
 1393,'1393','Bur Oak Av / Stonebridge Dr',43.894326,-79.296676
@@ -339,7 +339,7 @@
 1407,'1407','Bur Oak Av / Fairlawn Av',43.889605,-79.311703
 1408,'1408','Clark Av',43.802128,-79.460335
 1409,'1409','Bur Oak Av / Mccaul St',43.889234,-79.313366
-1410,'1410','Clark Av / New Westminster Dr',43.801941,-79.458189
+1410,'1410','Clark Av / New Westminster Dr',43.801931,-79.458114
 1411,'1411','Kennedy Rd / Castlemore Av',43.893878,-79.317779
 1412,'1412','Clark Av',43.801771,-79.457123
 1413,'1413','Major Mackenzie Dr / Angus Gln Blv',43.894416,-79.333537
@@ -350,9 +350,9 @@
 1419,'1419','Calvert Rd / Woodbine Av',43.871714,-79.363383
 1420,'1420','Clark Av / York Hl Blvd',43.804005,-79.445075
 1421,'1421','Woodbine Av / Rodick Rd',43.876569,-79.364737
-1422,'1422','Clark Av / Atkinson Av',43.80489,-79.440149
+1422,'1422','Clark Av / Atkinson Av',43.804899,-79.440044
 1423,'1423','Rodick Rd / Rachel Cres',43.87708,-79.362234
-1424,'1424','Clark Av / Hilda Av',43.805535,-79.437089
+1424,'1424','Clark Av / Hilda Av',43.805531,-79.437017
 1425,'1425','Rodick Rd / Pilgrim Dr',43.877173,-79.360496
 1426,'1426','Clark Av / Charles St',43.806408,-79.433292
 1427,'1427','Rodick Rd / Rachel Cres',43.876642,-79.358776

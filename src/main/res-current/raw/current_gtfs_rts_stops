@@ -13,11 +13,11 @@
 1013,'1013','Commerce Vly Dr',43.840397,-79.376974
 1014,'1014','Commerce Vly Dr',43.839784,-79.378873
 1016,'1016','Commerce Vly Dr / Leslie St',43.839414,-79.381612
-1018,'1018','Commerce Vly Dr / South Pk Rd',43.840189,-79.383285
-1020,'1020','South Pk Rd / Commerce Vly Dr',43.840137,-79.383881
-1022,'1022','South Pk Rd / Pond Dr',43.839276,-79.38645
-1024,'1024','South Pk Rd / Pk Common Blvd',43.838226,-79.388521
-1026,'1026','South Pk Rd',43.838584,-79.390983
+1018,'1018','Commerce Vly Dr / S Pk Rd',43.840189,-79.383285
+1020,'1020','S Pk Rd / Commerce Vly Dr',43.840137,-79.383881
+1022,'1022','S Pk Rd / Pond Dr',43.839276,-79.38645
+1024,'1024','S Pk Rd / Pk Common Blvd',43.838226,-79.388521
+1026,'1026','S Pk Rd',43.838584,-79.390983
 1028,'1028','Times Av / Galleria Pkwy',43.839852,-79.391724
 1029,'1029','High Tech Rd / Red Maple Rd',43.841807,-79.423364
 1030,'1030','Times Av / Hwy 7',43.84196,-79.391539
@@ -164,15 +164,15 @@
 1179,'1179','Murray Dr / Seaton Dr',43.985275,-79.476161
 1180,'1180','Times Av / Galleria Pkwy',43.840135,-79.391904
 1181,'1181','Murray Dr / Glass Dr',43.983615,-79.474501
-1182,'1182','South Pk Rd / Times Av',43.838787,-79.391533
+1182,'1182','S Pk Rd / Times Av',43.838787,-79.391533
 1183,'1183','Murray Dr / Nisbet Dr',43.984286,-79.469866
-1184,'1184','South Pk Rd / Pk Common Blvd',43.838129,-79.388262
+1184,'1184','S Pk Rd / Pk Common Blvd',43.838129,-79.388262
 1185,'1185','Murray Dr / Mosaics Av',43.986094,-79.466976
-1186,'1186','South Pk Rd / Pond Dr',43.838841,-79.386521
+1186,'1186','S Pk Rd / Pond Dr',43.838841,-79.386521
 1187,'1187','Wellington St / Yonge St',43.999805,-79.467392
-1188,'1188','South Pk Rd / Commerce Vly Dr',43.840264,-79.384056
+1188,'1188','S Pk Rd / Commerce Vly Dr',43.840264,-79.384056
 1189,'1189','Wellington St / George St',43.998714,-79.472162
-1190,'1190','Commerce Vly Dr / South Pk Rd',43.840172,-79.383564
+1190,'1190','Commerce Vly Dr / S Pk Rd',43.840172,-79.383564
 1191,'1191','Wellington St / Haida Dr',43.997919,-79.475881
 1192,'1192','Commerce Vly Dr / Leslie St',43.83931,-79.381316
 1193,'1193','Wellington St / Murray Dr',43.996918,-79.479627
@@ -317,7 +317,7 @@
 1383,'1383','Bur Oak Av / Dogwood St',43.897616,-79.280051
 1384,'1384','Clark Av / Bathurst St',43.803492,-79.449365
 1385,'1385','Bur Oak Av / Roy Rainey Av',43.89694,-79.28314
-1386,'1386','Clark Av / South Promenade',43.803107,-79.451124
+1386,'1386','Clark Av / S Promenade',43.803107,-79.451124
 1388,'1388','Clark Av / New Westminster Dr',43.802068,-79.457324
 1389,'1389','Bur Oak Av / Mccowan Rd',43.894899,-79.290704
 1390,'1390','Clark Av',43.802265,-79.460446
@@ -343,7 +343,7 @@
 1411,'1411','Kennedy Rd / Castlemore Av',43.893878,-79.317779
 1412,'1412','Clark Av',43.801771,-79.457123
 1413,'1413','Major Mackenzie Dr / Angus Gln Blv',43.894416,-79.333537
-1414,'1414','Clark Av / South Promenade',43.802786,-79.451552
+1414,'1414','Clark Av / S Promenade',43.802786,-79.451552
 1415,'1415','Calvert Rd / Thackeray Crt',43.872927,-79.356833
 1416,'1416','Clark Av / Bathurst St',43.80359,-79.447408
 1417,'1417','Calvert Rd / Townson Rd',43.872207,-79.359846
@@ -636,15 +636,15 @@
 1744,'1744','Yonge St / Church St',43.996631,-79.466738
 1745,'1745','Wellington St / Berczy St',44.001138,-79.460693
 1746,'1746','Wellington St / Ind Pkwy',44.001909,-79.456992
-1747,'1747','John West Way / Wellington St',44.003907,-79.45109
-1748,'1748','John West Way / Amberhill Way',44.006021,-79.45028
-1749,'1749','John West Way / Ochalski Rd',44.009352,-79.450217
-1750,'1750','John West Way / Hollidge Blvd',44.011154,-79.450828
+1747,'1747','John W Way / Wellington St',44.003907,-79.45109
+1748,'1748','John W Way / Amberhill Way',44.006021,-79.45028
+1749,'1749','John W Way / Ochalski Rd',44.009352,-79.450217
+1750,'1750','John W Way / Hollidge Blvd',44.011154,-79.450828
 1751,'1751','Hollidge Blvd',44.012308,-79.447163
 1752,'1752','Hollidge Blvd / Bayview Av',44.012601,-79.445908
-1755,'1755','John West Way / Evelyn Buck Ln',44.010099,-79.450634
-1756,'1756','John West Way / Municipal Dr',44.007526,-79.449775
-1757,'1757','John West Way / Wellington St',44.003543,-79.451138
+1755,'1755','John W Way / Evelyn Buck Ln',44.010099,-79.450634
+1756,'1756','John W Way / Municipal Dr',44.007526,-79.449775
+1757,'1757','John W Way / Wellington St',44.003543,-79.451138
 1758,'1758','Wellington St / Ind Pkwy',44.002018,-79.457317
 1759,'1759','Wellington St / Berczy St',44.001278,-79.460502
 1761,'1761','Yonge St / Murray Dr',43.986869,-79.464662
@@ -766,10 +766,10 @@
 1917,'1917','Leslie St / Greenhill Av',43.87368,-79.389898
 1918,'1918','Leslie St / Headford Av',43.869555,-79.388736
 1919,'1919','Leslie St / 16th Av',43.862688,-79.387151
-1920,'1920','Leslie St / West Beaver Crk Rd',43.857149,-79.38573
-1921,'1921','Leslie St / West Wilmot St',43.852986,-79.384694
+1920,'1920','Leslie St / W Beaver Crk Rd',43.857149,-79.38573
+1921,'1921','Leslie St / W Wilmot St',43.852986,-79.384694
 1922,'1922','Leslie St',43.851036,-79.384155
-1923,'1923','Leslie St / West Pearce St',43.848726,-79.383603
+1923,'1923','Leslie St / W Pearce St',43.848726,-79.383603
 1924,'1924','Leslie St / Hwy 7',43.844713,-79.382563
 1925,'1925','Leslie St / Minthorn Crt',43.842087,-79.381863
 1926,'1926','Leslie St / Commerce Vly Dr',43.838835,-79.381062
@@ -787,9 +787,9 @@
 1940,'1940','Leslie St / Lyndhurst Dr',43.826464,-79.370977
 1941,'1941','Leslie St / 14th Ln',43.829853,-79.372363
 1942,'1942','Leslie St / Summerdale Dr',43.831661,-79.377225
-1945,'1945','Leslie St / East Pearce St',43.848278,-79.383111
-1946,'1946','Leslie St / East Wilmot St',43.852543,-79.384221
-1947,'1947','Leslie St / East Beaver Crk Rd',43.856769,-79.385268
+1945,'1945','Leslie St / E Pearce St',43.848278,-79.383111
+1946,'1946','Leslie St / E Wilmot St',43.852543,-79.384221
+1947,'1947','Leslie St / E Beaver Crk Rd',43.856769,-79.385268
 1948,'1948','Leslie St',43.85951,-79.386068
 1950,'1950','Leslie St / Orlando Av',43.869131,-79.388258
 1951,'1951','Leslie St / Staples Av',43.873207,-79.389439
@@ -898,7 +898,7 @@
 2068,'2068','Gorham St',44.05824,-79.424518
 2069,'2069','Gorham St / Nicholson Rd',44.057436,-79.427316
 2070,'2070','Gorham St / Leslie St',44.05704,-79.429251
-2071,'2071','Gorham St / East Hl Crt',44.056323,-79.432287
+2071,'2071','Gorham St / E Hl Crt',44.056323,-79.432287
 2072,'2072','Gorham St / Carlson Dr',44.055649,-79.435311
 2073,'2073','Gorham St / Alexander Rd',44.054233,-79.441474
 2074,'2074','Gorham St / Muriel St',44.053445,-79.444792
@@ -1116,21 +1116,21 @@
 2353,'2353','Lakeland Cres',43.947338,-79.451443
 2354,'2354','Lakeland Cres / Paddle Gt',43.948083,-79.448115
 2355,'2355','Lakeland Cres / Sylvan Cres',43.949059,-79.4436
-2356,'2356','North Lk Rd / Kaitlin Dr',43.952004,-79.439451
-2357,'2357','North Lk Rd / Wildwood Av',43.952912,-79.436636
-2358,'2358','North Lk Rd / Fergus Av',43.953313,-79.434831
-2359,'2359','North Lk Rd / Olde Bayview Av',43.953778,-79.432681
+2356,'2356','N Lk Rd / Kaitlin Dr',43.952004,-79.439451
+2357,'2357','N Lk Rd / Wildwood Av',43.952912,-79.436636
+2358,'2358','N Lk Rd / Fergus Av',43.953313,-79.434831
+2359,'2359','N Lk Rd / Olde Bayview Av',43.953778,-79.432681
 2369,'2369','Sunset Beach Rd / Yonge St',43.943385,-79.453234
 2370,'2370','Sunset Beach Rd / Lk Av',43.94291,-79.449758
 2371,'2371','Sunset Beach Rd / Perry Ln',43.942737,-79.446073
 2372,'2372','Sunset Beach Rd / English Oak Dr',43.943294,-79.443019
 2373,'2373','Sunset Beach Rd / Pk Cres',43.944679,-79.436848
 2374,'2374','Sunset Beach Rd / Pk Cres',43.945212,-79.434212
-2379,'2379','North Lk Rd / Fergus Av',43.953429,-79.434733
-2380,'2380','North Lk Rd / Wildwood Av',43.952947,-79.436894
-2381,'2381','North Lk Rd / Kaitlin Dr',43.952204,-79.438964
-2382,'2382','North Lk Rd / Lakeland Cres',43.951616,-79.441043
-2387,'2387','North Lk Rd / Yonge St',43.94665,-79.454569
+2379,'2379','N Lk Rd / Fergus Av',43.953429,-79.434733
+2380,'2380','N Lk Rd / Wildwood Av',43.952947,-79.436894
+2381,'2381','N Lk Rd / Kaitlin Dr',43.952204,-79.438964
+2382,'2382','N Lk Rd / Lakeland Cres',43.951616,-79.441043
+2387,'2387','N Lk Rd / Yonge St',43.94665,-79.454569
 2388,'2388','Ashfield Dr / Bayswater Av',43.951657,-79.4516
 2389,'2389','Lorridge St / Bayswater Av',43.953097,-79.446542
 2390,'2390','Worthington Av / Lorridge St',43.955676,-79.448692
@@ -1211,7 +1211,7 @@
 2517,'2517','Yonge St / William Roe Blvd',44.039916,-79.476668
 2518,'2518','Yonge St',44.05851,-79.48104
 2519,'2519','Yonge St / Kingston Rd',44.060872,-79.481709
-2523,'2523','Yonge St / North St',44.097778,-79.490753
+2523,'2523','Yonge St / N St',44.097778,-79.490753
 2526,'2526','Yonge St / Grn Ln',44.073095,-79.485036
 2527,'2527','Yonge St',44.082909,-79.487152
 2528,'2528','Yonge St / Mt Albert Rd',44.095346,-79.489949
@@ -1227,7 +1227,7 @@
 2538,'2538','Mt Albert Rd / Stonehill Blvd',44.096944,-79.481909
 2539,'2539','Mt Albert Rd / Hl St',44.096184,-79.485332
 2540,'2540','Mt Albert Rd / Yonge St',44.095648,-79.48926
-2541,'2541','Yonge St / North St',44.097626,-79.490539
+2541,'2541','Yonge St / N St',44.097626,-79.490539
 2543,'2543','Yonge St / Thompson Dr',44.101178,-79.491401
 2544,'2544','Holland Lndg CC',44.104226,-79.492225
 2545,'2545','Yonge St / Beckett Av',44.10541,-79.492458
@@ -1507,22 +1507,22 @@
 2909,'2909','16th Av / Valleymede Dr',43.860144,-79.396414
 2910,'2910','16th Av / Granton Dr',43.861649,-79.389549
 2911,'2911','16th Av / Leslie St',43.862243,-79.387236
-2912,'2912','West Beaver Crk Rd',43.855393,-79.392512
-2913,'2913','West Beaver Crk Rd / West Wilmot',43.851542,-79.392786
-2914,'2914','West Beaver Crk Rd',43.84981,-79.390391
-2915,'2915','West Beaver Crk Rd / Pollard St',43.849049,-79.388852
-2916,'2916','West Beaver Crk Rd / Pearce St',43.847532,-79.387699
-2917,'2917','West Beaver Crk Rd / Wertheim Crt',43.845184,-79.387067
+2912,'2912','W Beaver Crk Rd',43.855393,-79.392512
+2913,'2913','W Beaver Crk Rd / W Wilmot',43.851542,-79.392786
+2914,'2914','W Beaver Crk Rd',43.84981,-79.390391
+2915,'2915','W Beaver Crk Rd / Pollard St',43.849049,-79.388852
+2916,'2916','W Beaver Crk Rd / Pearce St',43.847532,-79.387699
+2917,'2917','W Beaver Crk Rd / Wertheim Crt',43.845184,-79.387067
 2918,'2918','Commerce Vly Dr / Hwy 7',43.842921,-79.386451
 2919,'2919','Commerce Vly Dr',43.841869,-79.384588
-2920,'2920','East Beaver Crk Rd / Hwy 7',43.846134,-79.378186
-2921,'2921','East Beaver Crk / York Blvd',43.848472,-79.377728
-2922,'2922','East Beaver Crk Rd / East Pearce',43.849772,-79.37715
-2923,'2923','East Beaver Crk Rd / Fulton Way',43.852442,-79.377688
-2924,'2924','East Beaver Crk Rd / Wilmot St',43.854637,-79.378289
-2925,'2925','East Beaver Crk Rd / Sims Cres',43.856457,-79.378927
-2926,'2926','East Beaver Crk Rd',43.857955,-79.380736
-2927,'2927','Mural St / East Beaver Crk Rd',43.858202,-79.383506
+2920,'2920','E Beaver Crk Rd / Hwy 7',43.846134,-79.378186
+2921,'2921','E Beaver Crk / York Blvd',43.848472,-79.377728
+2922,'2922','E Beaver Crk Rd / E Pearce',43.849772,-79.37715
+2923,'2923','E Beaver Crk Rd / Fulton Way',43.852442,-79.377688
+2924,'2924','E Beaver Crk Rd / Wilmot St',43.854637,-79.378289
+2925,'2925','E Beaver Crk Rd / Sims Cres',43.856457,-79.378927
+2926,'2926','E Beaver Crk Rd',43.857955,-79.380736
+2927,'2927','Mural St / E Beaver Crk Rd',43.858202,-79.383506
 2928,'2928','Cranston Pk Av / Mcnaughton Rd',43.858994,-79.523833
 2929,'2929','Cranston Pk Av / Cunningham Dr',43.861794,-79.52569
 2930,'2930','Melville Av / Maple Mdws Ln',43.865214,-79.530141
@@ -1662,7 +1662,7 @@
 3084,'3084','16th Av / Vlg Pkwy',43.875314,-79.332325
 3085,'3085','16th Av / Normandale Rd',43.876502,-79.32702
 3086,'3086','16th Av / Normandale Rd',43.877689,-79.321988
-3097,'3097','Mccowan Rd / South Unionville Av',43.860703,-79.282748
+3097,'3097','Mccowan Rd / S Unionville Av',43.860703,-79.282748
 3098,'3098','Mccowan Rd / Hwy 7',43.866977,-79.284319
 3099,'3099','Mccowan Rd / Raymerville Dr',43.88148,-79.287801
 3100,'3100','Mccowan Rd / 16th Av',43.88504,-79.288694
@@ -1674,7 +1674,7 @@
 3109,'3109','Mccowan Rd / 16th Av',43.885418,-79.289102
 3110,'3110','Mccowan Rd / Manhattan Dr',43.881911,-79.288264
 3111,'3111','Mccowan Rd / Southdale Dr',43.865022,-79.284126
-3112,'3112','Mccowan Rd / South Unionville Av',43.861045,-79.283167
+3112,'3112','Mccowan Rd / S Unionville Av',43.861045,-79.283167
 3117,'3117','Markham Rd / New Delhi Dr',43.847631,-79.253439
 3118,'3118','Markham Rd / Kirkham Dr',43.851073,-79.254259
 3119,'3119','Markham Rd',43.853275,-79.254791
@@ -1706,13 +1706,13 @@
 3212,'3212','Renfrew Dr / Valleywood Dr',43.856428,-79.361693
 3213,'3213','Valleywood Dr / Allstate Pkwy',43.85415,-79.366978
 3214,'3214','Allstate Pkwy / Centurian Dr',43.851836,-79.367102
-3215,'3215','East Valhalla Dr / Hwy 7',43.847806,-79.364187
+3215,'3215','E Valhalla Dr / Hwy 7',43.847806,-79.364187
 3216,'3216','Cochrane Dr / Cochrane Dr',43.847329,-79.360976
 3217,'3217','Cochrane Dr / Hwy 7',43.84881,-79.361105
 3218,'3218','Frontenac Dr',43.851153,-79.361944
 3219,'3219','Centurian Dr / Frontenac Dr',43.852416,-79.36371
 3220,'3220','Centurian Dr / Allstate Pkwy',43.851761,-79.366642
-3221,'3221','Cochrane Dr / East Valhalla Dr',43.846326,-79.364429
+3221,'3221','Cochrane Dr / E Valhalla Dr',43.846326,-79.364429
 3222,'3222','Cochrane Dr',43.84485,-79.36632
 3223,'3223','Cochrane Dr',43.843354,-79.364935
 3224,'3224','Cochrane Dr',43.843118,-79.362305
@@ -1724,7 +1724,7 @@
 3230,'3230','Cochrane Dr',43.843235,-79.362132
 3231,'3231','Cochrane Dr',43.843518,-79.365022
 3232,'3232','Cochrane Dr',43.844796,-79.366134
-3233,'3233','Cochrane Dr / East Valhalla Dr',43.84638,-79.363746
+3233,'3233','Cochrane Dr / E Valhalla Dr',43.84638,-79.363746
 3234,'3234','Allstate Pkwy / Valleywood Dr',43.853717,-79.36776
 3235,'3235','Valleywood Dr',43.854408,-79.365364
 3236,'3236','Valleywood Dr',43.854787,-79.363704
@@ -1773,7 +1773,7 @@
 3306,'3306','Bathurst St / Worth Blvd',43.822544,-79.453091
 3307,'3307','Bathurst St / Westmount Blvd',43.820475,-79.452505
 3309,'3309','Bathurst St / Ctr St',43.811349,-79.450243
-3310,'3310','Bathurst St / East Promenade',43.807404,-79.449447
+3310,'3310','Bathurst St / E Promenade',43.807404,-79.449447
 3312,'3312','Bathurst St / Clark Av',43.80293,-79.448472
 3313,'3313','Vaughan Mills Term P:2',43.827344,-79.533979
 3314,'3314','Bathurst St / Milner Gt',43.79966,-79.447654
@@ -2127,12 +2127,12 @@
 3850,'3850','Rivermede Rd / Rayette Rd',43.809523,-79.497891
 3851,'3851','Rivermede Rd / Bowes Rd',43.810126,-79.49334
 3852,'3852','Rivermede Rd / Ortona Crt',43.81105,-79.488801
-3853,'3853','North Rivermede Rd / Rivermede Rd',43.812324,-79.483488
-3854,'3854','North Rivermede Rd / Audia Crt',43.81399,-79.483036
-3855,'3855','North Rivermede Rd / Bradwick Dr',43.816101,-79.483328
-3856,'3856','North Rivermede Rd / Bradwick Dr',43.817638,-79.483649
-3857,'3857','North Rivermede Rd / Connie Cres',43.819729,-79.484149
-3858,'3858','North Rivermede Rd / Langstaff Rd',43.822119,-79.484674
+3853,'3853','N Rivermede Rd / Rivermede Rd',43.812324,-79.483488
+3854,'3854','N Rivermede Rd / Audia Crt',43.81399,-79.483036
+3855,'3855','N Rivermede Rd / Bradwick Dr',43.816101,-79.483328
+3856,'3856','N Rivermede Rd / Bradwick Dr',43.817638,-79.483649
+3857,'3857','N Rivermede Rd / Connie Cres',43.819729,-79.484149
+3858,'3858','N Rivermede Rd / Langstaff Rd',43.822119,-79.484674
 3859,'3859','Langstaff Rd / Spinnaker Way',43.82149,-79.49081
 3860,'3860','Langstaff Rd / Planchet Rd',43.81979,-79.498673
 3861,'3861','Basaltic Rd / Planchet Rd',43.821098,-79.498794
@@ -2151,12 +2151,12 @@
 3874,'3874','Basaltic Rd / Planchet Rd',43.821165,-79.499001
 3875,'3875','Planchet Rd / Langstaff Rd',43.819961,-79.499131
 3876,'3876','Langstaff Rd / Connie Cres',43.821206,-79.491262
-3877,'3877','North Rivermede Rd / Langstaff Rd',43.822144,-79.484858
-3878,'3878','North Rivermede Rd / Connie Cres',43.820147,-79.484354
-3879,'3879','North Rivermede Rd / Bradwick Dr',43.818274,-79.483929
-3880,'3880','North Rivermede Rd / Bradwick Dr',43.816444,-79.483525
-3881,'3881','North Rivermede Rd / Audia Crt',43.814118,-79.48316
-3882,'3882','North Rivermede Rd / Rivermede Rd',43.812259,-79.483627
+3877,'3877','N Rivermede Rd / Langstaff Rd',43.822144,-79.484858
+3878,'3878','N Rivermede Rd / Connie Cres',43.820147,-79.484354
+3879,'3879','N Rivermede Rd / Bradwick Dr',43.818274,-79.483929
+3880,'3880','N Rivermede Rd / Bradwick Dr',43.816444,-79.483525
+3881,'3881','N Rivermede Rd / Audia Crt',43.814118,-79.48316
+3882,'3882','N Rivermede Rd / Rivermede Rd',43.812259,-79.483627
 3883,'3883','Rivermede Rd / Ortona Crt',43.811377,-79.488189
 3884,'3884','Rivermede Rd / Bowes Rd',43.810347,-79.492702
 3885,'3885','Rivermede Rd / Rayette Rd',43.809708,-79.497367
@@ -2311,7 +2311,7 @@
 4047,'4047','Ctr St / Taiga Dr',43.808844,-79.460624
 4048,'4048','Ctr St / Vaughan Blvd',43.808044,-79.464081
 4049,'4049','Ctr St / Concord Rd',43.807055,-79.468684
-4050,'4050','Ravenshoe Rd / West Pk Hts',44.192727,-79.467242
+4050,'4050','Ravenshoe Rd / W Pk Hts',44.192727,-79.467242
 4051,'4051','Lk Dr / Ravenshoe Rd',44.19112,-79.479074
 4052,'4052','Lk Dr / Robert St',44.195623,-79.480174
 4053,'4053','Lk Dr / Walter Dr',44.19975,-79.478255
@@ -2356,7 +2356,7 @@
 4124,'4124','The Queensway / Cameron Cres',44.229109,-79.465366
 4125,'4125','The Queensway / Riverglen Dr',44.225835,-79.464469
 4127,'4127','The Queensway / Hollywood Dr',44.205378,-79.467495
-4128,'4128','Hwy 7 / North Rivermede Rd',43.805744,-79.482931
+4128,'4128','Hwy 7 / N Rivermede Rd',43.805744,-79.482931
 4129,'4129','Hwy 7 / Bowes Rd',43.802496,-79.490286
 4130,'4130','Hwy 7 / Keele St',43.800579,-79.499136
 4131,'4131','Hwy 7 / Creditstone Rd',43.795965,-79.51758
@@ -2383,7 +2383,7 @@
 4155,'4155','Hwy 7 / Keele St',43.799959,-79.499674
 4156,'4156','Hwy 7 / Baldwin Av',43.802164,-79.490613
 4157,'4157','Hwy 7 / Ctr St',43.805852,-79.482493
-4161,'4161','Hwy 7 / South Pk Rd',43.840513,-79.398532
+4161,'4161','Hwy 7 / S Pk Rd',43.840513,-79.398532
 4162,'4162','Hwy 7 / Pond Dr',43.842582,-79.3896
 4163,'4163','Hwy 7 / Cochrane Dr',43.848961,-79.361786
 4164,'4164','Hwy 7 / Rodick Rd',43.852304,-79.346435
@@ -2466,7 +2466,7 @@
 4285,'4285','Chancellor Dr / Aberdeen Av',43.795134,-79.571916
 4287,'4287','Yonge St / Westwood Ln',43.84459,-79.431204
 4289,'4289','The Shops On Steeles',43.812704,-79.358781
-4293,'4293','East Gwillimbury GO Sta P:11',44.078486,-79.456474
+4293,'4293','E Gwillimbury GO Sta P:11',44.078486,-79.456474
 4295,'4295','Ashberry Blvd / Weston Rd',43.834626,-79.557307
 4297,'4297','Ashberry Blvd / Oland Dr',43.835093,-79.554735
 4298,'4298','Hwy 7 / Rodick Rd',43.852697,-79.345806
@@ -2532,7 +2532,7 @@
 4407,'4407','Mccallum Dr / Tomlin Cres',43.862576,-79.45862
 4411,'4411','Al Palladini CC',43.816642,-79.597969
 4420,'4420','Bayview Av / Penrose St',44.043727,-79.452594
-4422,'4422','Promenade Cir / East Promenade',43.807584,-79.450141
+4422,'4422','Promenade Cir / E Promenade',43.807584,-79.450141
 4424,'4424','Aberdeen Av / Andrea Ln',43.802193,-79.568099
 4425,'4425','Kennedy St / Bathurst St',43.989197,-79.492884
 4426,'4426','Bloomington Rd / Bloomfield Trl',43.960436,-79.471117
@@ -2594,12 +2594,12 @@
 4510,'4510','Worthington Av / Ashfield Dr',43.955097,-79.452865
 4511,'4511','Worthington Av / Yonge St',43.954934,-79.455648
 4512,'4512','Worthington Av / Yonge St',43.955085,-79.45675
-4513,'4513','Wood Rim Dr / North Lk Rd',43.951159,-79.44296
+4513,'4513','Wood Rim Dr / N Lk Rd',43.951159,-79.44296
 4514,'4514','Wood Rim Dr / Aloe Av',43.95468,-79.442549
 4515,'4515','Wood Rim Dr / Worthington Av',43.956254,-79.44292
 4516,'4516','Wood Rim Dr / Aloe Av',43.954356,-79.442618
-4517,'4517','Wood Rim Dr / North Lk Rd',43.951473,-79.442938
-4518,'4518','North Lk Rd / Lakeland Cres',43.95139,-79.441484
+4517,'4517','Wood Rim Dr / N Lk Rd',43.951473,-79.442938
+4518,'4518','N Lk Rd / Lakeland Cres',43.95139,-79.441484
 4519,'4519','Jefferson Forest Dr / Arden Vly',43.915537,-79.441366
 4520,'4520','Shadow Falls Dr / Wolf Trl Cres',43.913066,-79.435952
 4521,'4521','Jefferson Forest Dr / Shadow Falls',43.913428,-79.43276
@@ -2786,7 +2786,7 @@
 4747,'4747','Wellington St / Hilldale Rd',43.996381,-79.483089
 4748,'4748','Wellington St / Mcdonald Dr',43.997046,-79.480009
 4749,'4749','Wellington St / Wells St',44.000489,-79.463921
-4750,'4750','Wellington St / John West Way',44.003497,-79.450674
+4750,'4750','Wellington St / John W Way',44.003497,-79.450674
 4751,'4751','Wellington St / Bayview Av',44.004852,-79.444109
 4752,'4752','Wellington St / Mary St',44.003193,-79.451138
 4753,'4753','Conover Av / Spg Farm Rd',44.016091,-79.443418
@@ -2843,7 +2843,7 @@
 4822,'4822','Gateway Dr / Skipton Trl',44.017014,-79.455019
 4823,'4823','Hollandview Trl / Steckley St',44.012761,-79.454578
 4824,'4824','Hollandview Trl / Bridgenorth Dr',44.013818,-79.45309
-4825,'4825','Hollidge Blvd / John West Way',44.01136,-79.451327
+4825,'4825','Hollidge Blvd / John W Way',44.01136,-79.451327
 4826,'4826','St John''s Sdrd / Bayview Av',44.023379,-79.448414
 4827,'4827','St John''s Sdrd / Earl Stewart Dr',44.02253,-79.451021
 4829,'4829','Bayview Av',44.007131,-79.444124
@@ -2905,7 +2905,7 @@
 4931,'4931','Leslie St / Elgin Mills Rd',43.898855,-79.396041
 4932,'4932','Leslie St',43.895963,-79.395299
 4933,'4933','Leslie St',43.895489,-79.394941
-4934,'4934','Elgin West CC',43.89286,-79.468666
+4934,'4934','Elgin W CC',43.89286,-79.468666
 4935,'4935','Shaftsbury Av / Painted Rock Av',43.895251,-79.466186
 4940,'4940','Parkview Vlg',43.966728,-79.257832
 4941,'4941','9th Line / Sunset Blvd',43.967054,-79.256331
@@ -3161,13 +3161,13 @@
 5330,'5330','Willowbrook Rd / Bayview Av',43.828204,-79.40266
 5331,'5331','Grn Ln / Huntington Pk Dr',43.829421,-79.378479
 5332,'5332','Promenade Term P:3',43.809631,-79.453891
-5336,'5336','West Promenade / New Westminster Dr',43.806182,-79.455437
+5336,'5336','W Promenade / New Westminster Dr',43.806182,-79.455437
 5337,'5337','Thornhill CC',43.819746,-79.400847
 5341,'5341','Alex Doner Cr / Crossland Gt',44.046084,-79.490572
 5343,'5343','Larratt Ln / Canyon Hl Av',43.890199,-79.459894
 5349,'5349','Pearson Av',43.839511,-79.436984
 5350,'5350','Pearson Av',43.839268,-79.437065
-5351,'5351','John West Way / Municipal Dr',44.005608,-79.4508
+5351,'5351','John W Way / Municipal Dr',44.005608,-79.4508
 5354,'5354','The Queensway / Crestview Dr',44.199701,-79.466076
 5355,'5355','Leslie St / Queensville Sdrd',44.138368,-79.450585
 5356,'5356','Leslie St / Milne Ln',44.134902,-79.449653
@@ -3210,7 +3210,7 @@
 5430,'5430','Millard St / Hemlock Dr',43.97778,-79.240254
 5431,'5431','Hemlock Dr / Debborah Pl',43.978564,-79.236626
 5432,'5432','Hemlock Dr / Hazelnut Pl',43.979783,-79.23477
-5433,'5433','Tenth Line / North St',43.978188,-79.232072
+5433,'5433','Tenth Line / N St',43.978188,-79.232072
 5434,'5434','Tenth Line / Aintree Dr',43.977926,-79.231851
 5435,'5435','Tenth Line / Katherine Cres',43.971253,-79.231286
 5436,'5436','Tenth Line / Hoover Pk Dr',43.968019,-79.230573
@@ -3283,8 +3283,8 @@
 5538,'5538','Raymerville Dr / Cobbler Cres',43.887351,-79.266779
 5539,'5539','Raymerville Dr / Sanderling Dr',43.885715,-79.266431
 5540,'5540','Raymerville Dr / Snider Dr',43.883238,-79.265999
-5545,'5545','John West Way / Civic Sq Gt',44.008027,-79.449795
-5546,'5546','John West Way / Hollandview Trl',44.008411,-79.450093
+5545,'5545','John W Way / Civic Sq Gt',44.008027,-79.449795
+5546,'5546','John W Way / Hollandview Trl',44.008411,-79.450093
 5547,'5547','Wellington St / Bayview Av',44.004867,-79.444889
 5549,'5549','Mulock Dr / Willowick Dr',44.041436,-79.449653
 5550,'5550','Rouge Bank Dr / 9th Line',43.863808,-79.23145
@@ -3476,7 +3476,7 @@
 5859,'5859','Metro Rd / Gwendolyn Blvd',44.237937,-79.470912
 5860,'5860','Metro Rd / Gdn Av',44.235232,-79.467643
 5861,'5861','Woodspring Av / Ford Wilson Blvd',44.056179,-79.499455
-5862,'5862','Woodspring Av / Art West Av',44.056254,-79.499746
+5862,'5862','Woodspring Av / Art W Av',44.056254,-79.499746
 5863,'5863','Elgin Mills Rd / Prince Regent St',43.903251,-79.375154
 5865,'5865','Larkin Av / Sawyer Cres',43.893439,-79.24042
 5866,'5866','Ravenshoe Rd',44.191636,-79.472201
@@ -3623,8 +3623,8 @@
 6116,'6116','Denison St / Coxworth Av',43.842574,-79.259527
 6117,'6117','Denison St / Middlefield Rd',43.841419,-79.264677
 6118,'6118','Pickering Cres',44.047194,-79.435186
-6119,'6119','Bayview Av / North Lk Rd',43.954521,-79.432348
-6120,'6120','North Lk Rd / Olde Bayview Av',43.953954,-79.432413
+6119,'6119','Bayview Av / N Lk Rd',43.954521,-79.432348
+6120,'6120','N Lk Rd / Olde Bayview Av',43.953954,-79.432413
 6121,'6121','Reeves Way Blvd',43.957196,-79.248884
 6122,'6122','Bur Oak Av / Maybreeze Rd',43.902395,-79.241849
 6125,'6125','Harding Blvd / Kersey Cres',43.867447,-79.445492
@@ -3692,10 +3692,10 @@
 6219,'6219','Old Colony Rd / Nantucket Dr',43.939313,-79.44726
 6220,'6220','Old Colony Rd / Yonge St',43.939973,-79.453278
 6221,'6221','Lady Fenyrose Av / Midvale Hts',43.877361,-79.484685
-6222,'6222','Metro Rd North / Joel Av',44.310084,-79.42737
-6223,'6223','Metro Rd North / Joel Av',44.309998,-79.427453
-6224,'6224','Metro Rd North / Alexander Blvd',44.318416,-79.385234
-6225,'6225','Metro Rd North / Alexander Blvd',44.318274,-79.385352
+6222,'6222','Metro Rd N / Joel Av',44.310084,-79.42737
+6223,'6223','Metro Rd N / Joel Av',44.309998,-79.427453
+6224,'6224','Metro Rd N / Alexander Blvd',44.318416,-79.385234
+6225,'6225','Metro Rd N / Alexander Blvd',44.318274,-79.385352
 6226,'6226','Bathurst St',43.973518,-79.489479
 6228,'6228','Woodbine Av / Major Mackenzie Dr',43.887033,-79.367353
 6229,'6229','Old Colony Rd / Bayview Av',43.939944,-79.42978
@@ -3714,7 +3714,7 @@
 6242,'6242','Yonge St / Elderberry Tr',43.968505,-79.460309
 6243,'6243','Beaver Crk Rd W / Granton Crt',43.856532,-79.387494
 6244,'6244','Wellington St E / Victoria St',43.999965,-79.465904
-6260,'6260','15th Sdrd / East Of 1280 15th Sdrd',43.953855,-79.501583
+6260,'6260','15th Sdrd / E Of 1280 15th Sdrd',43.953855,-79.501583
 6261,'6261','Bristol Rd / Vanden Bergh Blvd',44.070604,-79.467017
 6262,'6262','Huron Hts Dr / Hl Gt',44.068168,-79.444239
 6263,'6263','Huron Hts Dr / Hl Gt',44.068049,-79.444236
@@ -3961,10 +3961,10 @@
 6634,'6634','Hwy 7 / Leslie St',43.84415,-79.382711
 6635,'6635','Hwy 7 / Leslie St',43.844696,-79.382009
 6636,'6636','Hwy 7 / Times Av',43.841994,-79.392058
-6637,'6637','Hwy 7 / Commerce Vly Dr West',43.843161,-79.386826
-6638,'6638','Hwy 7 / Commerce Vly Dr East',43.845217,-79.37832
-6639,'6639','Hwy 7 / East Beaver Crk',43.845621,-79.377773
-6640,'6640','Hwy 7 / West Beaver Crk Rd',43.84379,-79.386052
+6637,'6637','Hwy 7 / Commerce Vly Dr W',43.843161,-79.386826
+6638,'6638','Hwy 7 / Commerce Vly Dr E',43.845217,-79.37832
+6639,'6639','Hwy 7 / E Beaver Crk',43.845621,-79.377773
+6640,'6640','Hwy 7 / W Beaver Crk Rd',43.84379,-79.386052
 6641,'6641','Hwy 7 / Valleymede Dr',43.842433,-79.39149
 6642,'6642','Melville Av / Rutherford Rd',43.83453,-79.522426
 6643,'6643','Cunningham Dr / Carron Av',43.857388,-79.536018
@@ -4002,7 +4002,7 @@
 6681,'6681','Lebovic Campus Dr / Gesher Cres',43.854702,-79.462001
 6682,'6682','Bathurst St',43.928001,-79.478508
 6683,'6683','Pugsley St / Ctr St',43.877247,-79.432612
-6684,'6684','Lakeland Cres / North Lk Rd',43.948173,-79.448765
+6684,'6684','Lakeland Cres / N Lk Rd',43.948173,-79.448765
 6688,'6688','Box Grv Bypass',43.85949,-79.223915
 6692,'6692','Box Grv Bypass / 14th Av',43.861015,-79.224469
 6693,'6693','Ilan Ramon Blvd / George Kirby St',43.84998,-79.463049
@@ -4015,11 +4015,11 @@
 6713,'6713','Millard St / Baker Hl Blvd',43.96972,-79.276455
 6714,'6714','Millard St / Langen Gt',43.971009,-79.271618
 6715,'6715','Millard St / Winlane Dr',43.972838,-79.26731
-6716,'6716','Millard St / West Lawn Cres',43.974287,-79.262574
+6716,'6716','Millard St / W Lawn Cres',43.974287,-79.262574
 6717,'6717','Millard St / Glad Pk Av',43.974932,-79.259437
 6718,'6718','Stouffer St / Main St',43.973448,-79.238453
 6719,'6719','Main St / Palmwood Gt',43.967462,-79.265058
-6720,'6720','Main St / West Lawn Cres',43.968513,-79.260017
+6720,'6720','Main St / W Lawn Cres',43.968513,-79.260017
 6721,'6721','Main St / Fairview Av',43.969241,-79.256705
 6722,'6722','Main St / Mill St',43.971391,-79.246891
 6723,'6723','Main St / Pk Dr',43.972184,-79.243459
@@ -4036,8 +4036,8 @@
 6744,'6744','Autumn Hl Blvd / Chopin Blvd',43.836018,-79.466166
 6751,'6751','Clegg Rd',43.851481,-79.344489
 6752,'6752','Clegg Rd',43.851553,-79.341141
-6753,'6753','Clegg Rd / South Town Ctr Blvd',43.85214,-79.338149
-6754,'6754','Clegg Rd / South Town Ctr Blvd',43.852532,-79.337831
+6753,'6753','Clegg Rd / S Town Ctr Blvd',43.85214,-79.338149
+6754,'6754','Clegg Rd / S Town Ctr Blvd',43.852532,-79.337831
 6755,'6755','Ctr St / Atkinson Av',43.812325,-79.442814
 6756,'6756','Honda Blvd / Woodbine Av',43.910622,-79.378651
 6757,'6757','Honda Blvd / Woodbine Av',43.910176,-79.378322
@@ -4076,12 +4076,12 @@
 6812,'6812','Leslie St',43.865758,-79.387789
 6813,'6813','Hwy 7 / Donald Cousens Pkwy',43.88235,-79.214597
 6815,'6815','Markland St',43.88218,-79.37246
-6816,'6816','Major Mackenzie Dr East / Greenspir',43.906053,-79.282835
+6816,'6816','Major Mackenzie Dr E / Greenspir',43.906053,-79.282835
 6820,'6820','Dunning Av',43.990875,-79.463224
 6821,'6821','Kennedy Rd / Beckett Av',43.881422,-79.314435
 6822,'6822','Kennedy Rd / Wilfred Murison Av',43.884304,-79.315238
 6823,'6823','Edward St',43.987513,-79.461196
-6824,'6824','Wellington St / John West Way',44.003147,-79.452112
+6824,'6824','Wellington St / John W Way',44.003147,-79.452112
 6825,'6825','The Queensway / Simcoe Av',44.242708,-79.470541
 6827,'6827','Angus Gln Blvd / Dancers Dr',43.890971,-79.318514
 6828,'6828','Angus Gln Blvd / Prospectors Dr',43.890723,-79.319968
@@ -4110,7 +4110,7 @@
 6868,'6868','Cornell Ctr Blvd / Morning Dove',43.89788,-79.224081
 6869,'6869','Kennedy Rd / Beckett Av',43.882335,-79.31512
 6870,'6870','Kennedy Rd / Wilfred Murison Av',43.884853,-79.31597
-6872,'6872','South Town Ctr Blvd / Clegg Rd',43.852561,-79.338258
+6872,'6872','S Town Ctr Blvd / Clegg Rd',43.852561,-79.338258
 6875,'6875','White''s Hl Av / Cornell Ctr Bl',43.896422,-79.223223
 6876,'6876','Cornell Ctr Av / Gas Lamp Ln',43.899053,-79.224368
 6877,'6877','Cornell Rouge Blvd / White''s Hl A',43.89618,-79.219657
@@ -4290,7 +4290,7 @@
 7116,'7116','15th Sideroad / Bathurst St',43.956129,-79.491439
 7120,'7120','Markville Mall',43.868789,-79.289437
 7121,'7121','15th Siderd / Bathurst St',43.956272,-79.491352
-7122,'7122','Davis Dr / South Lk Hosp',44.061384,-79.45184
+7122,'7122','Davis Dr / S Lk Hosp',44.061384,-79.45184
 7123,'7123','Keele St / Hwy 7',43.799931,-79.499094
 7124,'7124','Main St / Mohawk Gt',43.975919,-79.226863
 7125,'7125','Main St / Eastern Gt Cr',43.975585,-79.227359
@@ -4323,8 +4323,8 @@
 7190,'7190','Allen Rd / Rimrock Rd',43.757967,-79.465148
 7191,'7191','Allen Rd / Rimrock Rd',43.757578,-79.464767
 7192,'7192','Sheppard Av W / Dufferin St',43.750558,-79.462635
-7193,'7193','Sheppard West Sta',43.748682,-79.46159
-7194,'7194','Sheppard West Sta',43.749718,-79.462293
+7193,'7193','Sheppard W Sta',43.748682,-79.46159
+7194,'7194','Sheppard W Sta',43.749718,-79.462293
 7195,'7195','Pioneer Vlg Sta P:1',43.77902,-79.512542
 7196,'7196','Pioneer Vlg Sta P:2',43.778872,-79.512496
 7197,'7197','Pioneer Vlg Sta P:3',43.778709,-79.512468
@@ -4429,12 +4429,12 @@
 9725,'9725','Hwy 7 / Bayview',43.84019,-79.405394
 9726,'9726','Hwy 7 / Valleymede',43.842282,-79.391193
 9727,'9727','Hwy 7 / Valleymede',43.84207,-79.392761
-9728,'9728','Hwy 7 / West Beaver Crk',43.843494,-79.386044
-9729,'9729','Hwy 7 / West Beaver Crk',43.843223,-79.387352
+9728,'9728','Hwy 7 / W Beaver Crk',43.843494,-79.386044
+9729,'9729','Hwy 7 / W Beaver Crk',43.843223,-79.387352
 9730,'9730','Hwy 7 / Leslie',43.844456,-79.381701
 9731,'9731','Hwy 7 / Leslie',43.844221,-79.383281
-9732,'9732','Hwy 7 / East Beaver Crk',43.845498,-79.377206
-9733,'9733','Hwy 7 / East Beaver Crk',43.845323,-79.378708
+9732,'9732','Hwy 7 / E Beaver Crk',43.845498,-79.377206
+9733,'9733','Hwy 7 / E Beaver Crk',43.845323,-79.378708
 9734,'9734','Hwy 7 / Allstate',43.848661,-79.363611
 9735,'9735','Hwy 7 / Allstate',43.848623,-79.363986
 9736,'9736','Hwy 7 / Woodbine',43.849755,-79.35856
@@ -4511,7 +4511,7 @@
 9826,'9826','Yonge / Savage',44.026442,-79.47364
 9833,'9833','Hwy 7 / Galsworthy',43.871371,-79.267082
 9834,'9834','Hwy 7 / Galsworthy Dr',43.871474,-79.267589
-9837,'9837','Hwy 7 / South Pk Rd',43.840549,-79.399105
+9837,'9837','Hwy 7 / S Pk Rd',43.840549,-79.399105
 9838,'9838','Hwy 7 / Chalmers Rd',43.840774,-79.397566
 9839,'9839','Yonge St / Regatta Av',43.951671,-79.456268
 9840,'9840','Yonge St / Regatta Av',43.951598,-79.456443
@@ -4520,8 +4520,8 @@
 9843,'9843','Davis Dr / Longford Dr',44.056854,-79.471363
 9844,'9844','Davis Dr / Longford Dr',44.056539,-79.472961
 9846,'9846','Davis Dr / Main St',44.058968,-79.462024
-9847,'9847','South Lk Hosp',44.06151,-79.450687
-9848,'9848','South Lk Hosp',44.061098,-79.452237
+9847,'9847','S Lk Hosp',44.06151,-79.450687
+9848,'9848','S Lk Hosp',44.061098,-79.452237
 9849,'9849','Davis Dr / Huron Hts Dr',44.062665,-79.445031
 9850,'9850','Davis Dr / Huron Hts Dr',44.062811,-79.445322
 9851,'9851','Davis Dr / Leslie St',44.065884,-79.431204
@@ -4532,8 +4532,8 @@
 9856,'9856','Davis Dr / Hwy 404',44.067627,-79.421104
 9857,'9857','Hwy 7 / Creditstone Rd',43.795846,-79.517005
 9858,'9858','Hwy 7 / Creditstone Rd',43.795526,-79.518738
-9859,'9859','Vaughan Metropolitan Ctr Eastbound',43.793416,-79.527503
-9860,'9860','Vaughan Metropolitan Ctr Westbound',43.793432,-79.52785
+9859,'9859','Vaughan Metropolitan Ctr EB',43.793416,-79.527503
+9860,'9860','Vaughan Metropolitan Ctr WB',43.793432,-79.52785
 9861,'9861','Hwy 7 / Kennedy Rd',43.862761,-79.302829
 9862,'9862','Hwy 7 / Kennedy Rd',43.862602,-79.304799
 9863,'9863','Enterprise Blvd / Post Rd',43.85003,-79.322128
@@ -4546,15 +4546,15 @@
 9870,'9870','Hwy 7 / Sciberras Rd',43.860383,-79.314641
 9872,'9872','Bathurst & Hwy 7',43.832032,-79.453751
 9873,'9873','Bathurst & Hwy 7',43.832096,-79.454167
-9874,'9874','Disera-Promenade Eastbound',43.810051,-79.454153
-9875,'9875','Disera-Promenade Westbound',43.810014,-79.454532
-9876,'9876','Commerce Eastbound',43.792409,-79.532686
-9877,'9877','Commerce Westbound',43.792094,-79.534405
-9878,'9878','Wigwoss Helen Eastbound',43.78284,-79.578866
-9879,'9879','Wigwoss Helen Westbound',43.782625,-79.580427
-9880,'9880','Taiga Eastbound',43.808758,-79.460025
-9881,'9881','Taiga Westbound',43.808484,-79.461616
-9882,'9882','Yonge & Davis Northbound',44.054427,-79.480251
-9883,'9883','Yonge & Davis Southbound',44.054173,-79.480265
+9874,'9874','Disera-Promenade EB',43.810051,-79.454153
+9875,'9875','Disera-Promenade WB',43.810014,-79.454532
+9876,'9876','Commerce EB',43.792409,-79.532686
+9877,'9877','Commerce WB',43.792094,-79.534405
+9878,'9878','Wigwoss Helen EB',43.78284,-79.578866
+9879,'9879','Wigwoss Helen WB',43.782625,-79.580427
+9880,'9880','Taiga EB',43.808758,-79.460025
+9881,'9881','Taiga WB',43.808484,-79.461616
+9882,'9882','Yonge & Davis NB',44.054427,-79.480251
+9883,'9883','Yonge & Davis SB',44.054173,-79.480265
 9884,'9884','Hwy 7 / Main St Unionville',43.861433,-79.30894
 9885,'9885','Hwy 7 / Main St Unionville',43.861588,-79.30933

@@ -5,12 +5,33 @@
     <string name="one_bus_away_for_poi_authority">@string/gtfs_rts_authority</string>
     <string name="one_bus_away_prediction_url_and_stop_tag_and_api_key">https://oba.yrt.ca/api/where/arrivals-and-departures-for-stop/YRT_%1$s.json?minutesAfter=720&amp;minutesBefore=60&amp;key=%2$s</string>
     <bool name="one_bus_away_stop_tag_is_stop_code">false</bool><!-- STOP ID = STOP CODE NOW -->
+    <string name="one_bus_away_head_sign_clean_rts_regex_and_trip_and_rln">(?=(^|\W))((\\w{2}-)?%1$s|%2$s)(?=(\W|$))</string>
     <string-array name="one_bus_away_schedule_head_sign_clean_regex">
-        <item>(^[\\d]+[\\s]*)</item>
-        <item>([\\s]*(\\-[\\s]*)(eb|wb|sb|nb|af|mo)$)</item>
+        <item>((.+) - (\\w{2}))</item> <!-- PARSER-SYNC -->
+        <item>((?&lt;=(^|\\W))(special)(?=(\W|$)))</item> <!-- PARSER-SYNC -->
+        <item>( - )</item> <!-- PARSER-SYNC -->
     </string-array>
     <string-array name="one_bus_away_schedule_head_sign_clean_replacement">
-        <item /> <!-- empty string (remove) -->
-        <item /> <!-- empty string (remove) -->
+        <item>$3-$2</item> <!-- PARSER-SYNC -->
+        <item /> <!-- PARSER-SYNC -->
+        <item>&#160;</item> <!-- space --><!-- PARSER-SYNC -->
+    </string-array>
+    <string-array name="one_bus_away_trip_head_sign_match_oba_regex">
+        <item>( - EB)</item>
+        <item>( - WB)</item>
+        <item>( - NB)</item>
+        <item>( - SB)</item>
+        <item>( - MO)</item> <!-- AM -->
+        <item>( - AF)</item> <!-- PM -->
+        <item>(.*)</item> <!-- ELSE, all trips head-signs match -->
+    </string-array>
+    <string-array name="one_bus_away_trip_head_sign_match_gtfs_regex">
+        <item>(^EB-)</item>
+        <item>(^WB-)</item>
+        <item>(^NB-)</item>
+        <item>(^SB-)</item>
+        <item>(^MO-)</item> <!-- AM -->
+        <item>(^AF-)</item> <!-- PM -->
+        <item>(.*)</item> <!-- ELSE, all trips head-signs match -->
     </string-array>
 </resources>

@@ -1997,7 +1997,9 @@
 3632,'3632','Ansley Grv Rd / Aberdeen Av',43.803008,-79.564192
 3633,'3633','Steeles Av / Jane St',43.775467,-79.522088
 3635,'3635','Steeles Av / Adesso Dr',43.774423,-79.526648
+3636,'3636','Ansley Grv Rd',43.798486,-79.563487
 3637,'3637','Steeles Av / Norfinch Dr',43.773467,-79.531612
+3638,'3638','Ansley Grv Rd / Chancellor Dr',43.795873,-79.562859
 3639,'3639','Steeles Av',43.772108,-79.538326
 3642,'3642','Steeles Av / Director Crt',43.771676,-79.540444
 3644,'3644','Steeles Av / Old Weston Rd',43.771103,-79.543089
@@ -2805,8 +2807,6 @@
 4766,'4766','9th Line / Northvale Rd',43.899888,-79.239967
 4767,'4767','Bur Oak Av / Cornell Pk Av',43.889773,-79.230522
 4768,'4768','Bur Oak Av / Cornell Pk Av',43.889539,-79.230233
-4772,'4772','Vellore Woods Blvd / Shadetree Cres',43.833194,-79.550662
-4773,'4773','Vellore Woods Blvd / Ashberry Blvd',43.835622,-79.550744
 4778,'4778','Fossil Hl Rd / St Urbain Dr',43.83151,-79.564432
 4779,'4779','Fossil Hl Rd / Davos Rd',43.83343,-79.564474
 4780,'4780','Fossil Hl Rd / Davos Rd',43.833869,-79.564625
@@ -3597,7 +3597,6 @@
 6064,'6064','Lebovic Campus Dr / Thomas Cook Av',43.853103,-79.469861
 6065,'6065','Thomas Cook Av / Marc Santi Blvd',43.849295,-79.469605
 6066,'6066','Thomas Cook Av / Rutherford Rd',43.845481,-79.47039
-6068,'6068','Eagle Rock Way',43.860772,-79.502518
 6069,'6069','Crosby Av / Bayview Av',43.885157,-79.418293
 6071,'6071','Crosby Av / Newkirk Rd',43.882548,-79.428701
 6072,'6072','Lebovic Campus Dr / Ilan Ramon Blvd',43.85433,-79.464239
@@ -3605,18 +3604,14 @@
 6076,'6076','Frontenac Dr / Hwy 7',43.849634,-79.361439
 6077,'6077','Bur Oak Av / 9th Line',43.902247,-79.240989
 6078,'6078','9th Line / Sunset Blvd',43.967389,-79.256552
-6089,'6089','Mcnaughton Rd / Eagle Crt',43.863255,-79.50248
 6090,'6090','Fairview Mall Dr / Godstone Rd',43.779576,-79.345935
 6091,'6091','Boxwood Cres',43.856569,-79.243854
 6092,'6092','Bur Oak Av',43.892145,-79.30507
 6093,'6093','Wellington St',44.002749,-79.454002
 6095,'6095','Major Mackenzie Dr / Sir Benson Dr',43.862312,-79.482129
 6096,'6096','Major Mackenzie Dr / Sir Benson Dr',43.861967,-79.482866
-6097,'6097','Mcnaughton Rd / Falvo St',43.861626,-79.511168
-6098,'6098','Mcnaughton Rd / Falvo St',43.861488,-79.511085
 6099,'6099','Grn Ln Ctr',44.071061,-79.487458
 6100,'6100','Dufferin St / Gln Shields Av',43.793155,-79.471432
-6102,'6102','Mcnaughton Rd / Keele St',43.861157,-79.513409
 6105,'6105','Kenilworth Gt / Outer Banks Dr',43.875932,-79.231531
 6106,'6106','Kenilworth Gt / Michelina Terr',43.876717,-79.22746
 6107,'6107','Stoney Stanton Rd / Hwy 7',43.878956,-79.228648
@@ -3659,7 +3654,6 @@
 6174,'6174','Church St / Yonge St',43.996796,-79.466688
 6183,'6183','Victoria St / Wellingtion St W',43.999731,-79.465688
 6185,'6185','Major Mackenzie Dr / Ilan Ramon Blv',43.864623,-79.468887
-6186,'6186','Eagle Rock Way',43.859852,-79.50593
 6187,'6187','King Rd / Bond Cres',43.941752,-79.468005
 6188,'6188','King Rd / Parker Av',43.942508,-79.464255
 6189,'6189','King Rd / Schomberg Rd',43.943741,-79.458623
@@ -3935,23 +3929,12 @@
 6602,'6602','Woodbine Av',43.899746,-79.377247
 6603,'6603','Woodbine Av / Elgin Mills Rd',43.901278,-79.377272
 6605,'6605','Major Mackenzie Dr / Colborne Av',43.875363,-79.418196
-6606,'6606','Vellore Woods Blvd',43.828179,-79.551425
-6607,'6607','Vellore Woods Blvd',43.831408,-79.551166
-6608,'6608','Davos Rd / Fiorentina Av',43.834026,-79.560575
-6609,'6609','Davos Rd / Fossil Hl Rd',43.833769,-79.564287
-6610,'6610','Davos Rd / Kingsview Rd',43.833744,-79.566769
-6611,'6611','Davos Rd / Vellore Av',43.833862,-79.569396
-6612,'6612','Vellore Av / Amy Wood Rd',43.83722,-79.569468
-6613,'6613','Vellore Av / Maria Antonia Rd',43.83901,-79.570178
-6614,'6614','Vellore Av / Via Toscana',43.841492,-79.571112
-6615,'6615','Vellore Av / Major Mackenzie Dr',43.842485,-79.571399
 6619,'6619','Major Mackenzie Dr / Weston Rd',43.845018,-79.560167
 6620,'6620','Vellore Av / Euro Pl',43.842008,-79.571375
 6621,'6621','Vellore Av / Mediterra Dr',43.840566,-79.570925
 6622,'6622','Vellore Av / Maria Antonia Rd',43.838877,-79.570187
 6623,'6623','Vellore Av / Bellini Av',43.837153,-79.569503
 6624,'6624','Vellore Av / Davos Rd',43.834084,-79.569542
-6627,'6627','Vellore Woods Blvd / Comdel Blvd',43.829867,-79.55177
 6628,'6628','Vellore Woods Blvd',43.828105,-79.551598
 6629,'6629','Hollidge Blvd / Hollandview Trl',44.011232,-79.453509
 6630,'6630','Hollandview Trl / Steckley St',44.012698,-79.454444
@@ -4131,23 +4114,15 @@
 6895,'6895','Davos Rd / Via Campanile',43.833918,-79.577432
 6896,'6896','Davos Rd / Via Avellino Rd',43.833789,-79.579582
 6897,'6897','Davos Rd / Monteverde Way',43.833019,-79.583063
-6898,'6898','Poetry Dr / Major Mackenzie Dr',43.842869,-79.571797
-6900,'6900','Poetry Dr / Flourish St',43.844646,-79.57251
-6902,'6902','Poetry Dr / Garyscholl Rd',43.846425,-79.573711
-6903,'6903','Poetry Dr / Gallant Pl',43.8475,-79.574739
-6905,'6905','Poetry Dr / Stormont Tr',43.84944,-79.575961
-6908,'6908','Stanton Av / Poetry Dr',43.851653,-79.576173
-6909,'6909','Stanton Av / Silver Stirling Cres',43.852252,-79.574125
-6912,'6912','Stanton Av / Virtue Cres',43.85296,-79.57091
-6913,'6913','Stanton Av / Trammel Dr',43.854153,-79.567319
-6915,'6915','Stanton Av / Parisienne Rd',43.854889,-79.565283
-6917,'6917','Canada Dr / Weston Rd',43.855643,-79.562823
-6918,'6918','Canada Dr / Vellore Pk Av',43.856133,-79.560034
-6919,'6919','Canada Dr / Summit Dr',43.857335,-79.556092
-6920,'6920','Cityview Blvd / Venice Gt',43.855967,-79.553458
-6921,'6921','Cityview Blvd / Lormel Gt',43.853756,-79.552881
-6922,'6922','Cityview Blvd / Retreat Blvd',43.850365,-79.552338
-6923,'6923','Cityview Blvd',43.848177,-79.553861
+6899,'6899','Poetry Dr / Flourish St',43.84439,-79.572068
+6901,'6901','Poetry Dr / Garyscholl Rd',43.846183,-79.573203
+6904,'6904','Poetry Dr / Gallant Pl',43.848,-79.574717
+6906,'6906','Poetry Dr / Stormont Tr',43.849911,-79.575455
+6907,'6907','Poetry Dr / Stanton Av',43.851392,-79.576184
+6910,'6910','Stanton Av / Silver Sterling Cres',43.852008,-79.573995
+6911,'6911','Stanton Av / Virtue Cres',43.852527,-79.571482
+6914,'6914','Stanton Av / Trammel Dr',43.853979,-79.566892
+6916,'6916','Stanton Av / Weston Rd',43.855378,-79.563308
 6924,'6924','Town Ctr Blvd / Hwy 7',43.854009,-79.339064
 6925,'6925','Millard St / Azimuth Ln',43.971364,-79.271145
 6926,'6926','Millard St / Winlane Dr',43.973048,-79.267602
@@ -4408,6 +4383,9 @@
 7325,'7325','Yonge St / 19th Av',43.907563,-79.445549
 7326,'7326','Yonge St / Gamble Rd',43.908107,-79.446084
 7327,'7327','Yonge St / Elgin Mills Rd',43.889039,-79.441599
+7328,'7328','Caldari Rd / Riverock Gt',43.82748,-79.529929
+7329,'7329','Riverock Gt / Caldari Rd',43.827745,-79.530415
+7330,'7330','Yonge St / Hunters Gln Rd',43.96891,-79.460094
 8010,'8010','Major Mackenzie Dr / Prospector''s D',43.89695,-79.321227
 9700,'9700','Hwy 7 / Martin Grv',43.775925,-79.608653
 9701,'9701','Hwy 7 / Kipling',43.778488,-79.597505

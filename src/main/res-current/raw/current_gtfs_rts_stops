@@ -1281,7 +1281,6 @@
 2774,'2774','Trench St / Major Mackenzie Dr',43.86894,-79.44905
 2775,'2775','Harding Blvd / Lilley Crt',43.867894,-79.448577
 2776,'2776','Harding Blvd / Kersey Cres',43.867271,-79.445925
-2777,'2777','Harding Blvd / Addison St',43.86639,-79.437562
 2780,'2780','Kersey Cres / Don Head Vlg Blvd',43.86483,-79.447055
 2781,'2781','Kersey Cres / May Av',43.862705,-79.446477
 2782,'2782','Kersey Cres / Yongehurst Rd',43.860887,-79.445821
@@ -1432,6 +1431,8 @@
 2938,'2938','Jane St / Roseheath Dr',43.853307,-79.537308
 2939,'2939','Jane St / Cunningham Dr',43.856894,-79.538119
 2940,'2940','Jane St / Brandon Gt Dr',43.862294,-79.53929
+2941,'2941','Brandon Gt Dr / Melville Av',43.862855,-79.535406
+2942,'2942','Melville Av / Cranston Pk Av',43.865088,-79.53004
 2945,'2945','Major Mackenzie Dr / Avro Rd',43.851972,-79.526266
 2946,'2946','Major Mackenzie Dr / Netherford Rd',43.853061,-79.520817
 2947,'2947','Major Mackenzie Dr / Gram St',43.853799,-79.517283
@@ -1742,7 +1743,6 @@
 3416,'3416','Islington Av',43.801459,-79.585005
 3417,'3417','Grn Ln / Huntington Pk Dr',43.829448,-79.37823
 3418,'3418','Islington Av / Hayhoe Ln',43.799455,-79.58489
-3419,'3419','Grn Ln / Leslie St',43.83118,-79.376441
 3420,'3420','Islington Av / Gamble St',43.797414,-79.584798
 3421,'3421','Simonston Blvd / German Mills Rd',43.817466,-79.36857
 3422,'3422','Islington Av / Hartman Av',43.795805,-79.584717
@@ -1978,6 +1978,7 @@
 3821,'3821','Jane St / Bagg St',43.819467,-79.529804
 3822,'3822','Jane St / Locke St',43.82349,-79.530738
 3824,'3824','Jane St / Rutherford Rd',43.830627,-79.532409
+3826,'3826','Springside Rd / Parktree Dr',43.838741,-79.53126
 3827,'3827','Melville Av / Springside Rd',43.840137,-79.52895
 3829,'3829','Melville Av / Avro Rd',43.846546,-79.530617
 3830,'3830','Melville Av / Major Mackenzie Dr',43.850142,-79.531689
@@ -1989,6 +1990,7 @@
 3836,'3836','Melville Av / Avro Rd',43.846959,-79.530933
 3837,'3837','Melville Av / Norwood Av',43.8439,-79.530493
 3838,'3838','Melville Av / Springside Rd',43.840125,-79.529151
+3839,'3839','Springside Rd / Parktree Dr',43.838937,-79.530693
 3841,'3841','Jane St / Rutherford Rd',43.831187,-79.532934
 3842,'3842','Jane St / Riverock Gt',43.827908,-79.53213
 3843,'3843','Jane St / Locke St',43.824221,-79.53123
@@ -2012,8 +2014,6 @@
 3864,'3864','Basaltic Rd / Jacob Keffer Pkwy',43.830148,-79.498796
 3865,'3865','Basaltic Rd',43.832846,-79.499188
 3866,'3866','Westburne Dr',43.836939,-79.500366
-3867,'3867','Westburne Dr / Rutherford Rd',43.838016,-79.501915
-3868,'3868','Westburne Dr / Rutherford Rd',43.837853,-79.502071
 3869,'3869','Westburne Dr / Moyal Crt',43.836124,-79.500148
 3870,'3870','Basaltic Rd',43.832534,-79.499323
 3871,'3871','Basaltic Rd / Jacob Keffer Pkwy',43.829193,-79.498699
@@ -2109,6 +2109,13 @@
 3968,'3968','Keele St / Dina Rd',43.839456,-79.508947
 3969,'3969','Keele St / Rutherford Rd',43.836633,-79.508349
 3970,'3970','Melville Av / Parktree Dr',43.838385,-79.525604
+3971,'3971','Tierra Av / Jane St',43.856999,-79.539611
+3972,'3972','Tierra Av / Discovery Trl',43.856733,-79.541733
+3973,'3973','Tierra Av / John Deisman Blvd',43.856022,-79.547137
+3974,'3974','John Deisman Blvd / America Av',43.858275,-79.548354
+3975,'3975','America Av / Treasure Rd',43.85973,-79.546471
+3976,'3976','America Av / Discovery Trl',43.86142,-79.543865
+3977,'3977','America Av / Jane St',43.862437,-79.540371
 3978,'3978','America Av / Coast Av',43.861699,-79.543344
 3979,'3979','America Av / Treasure Rd',43.859781,-79.546593
 3980,'3980','America Av / John Deisman Blvd',43.858524,-79.548248
@@ -2175,6 +2182,17 @@
 4047,'4047','Ctr St / Taiga Dr',43.808844,-79.460624
 4048,'4048','Ctr St / Vaughan Blvd',43.808044,-79.464081
 4049,'4049','Ctr St / Concord Rd',43.807055,-79.468684
+4050,'4050','Ravenshoe Rd / W Pk Hts',44.192727,-79.467242
+4051,'4051','Lk Dr / Ravenshoe Rd',44.19112,-79.479074
+4052,'4052','Lk Dr / Robert St',44.195623,-79.480174
+4053,'4053','Lk Dr / Walter Dr',44.19975,-79.478255
+4054,'4054','Walter Dr',44.20157,-79.470009
+4055,'4055','Walter Dr / The Queensway',44.201804,-79.467043
+4056,'4056','Joe Dales Dr / Thornlodge Dr',44.199596,-79.459601
+4057,'4057','Thornlodge Dr / Crittenden Dr',44.197414,-79.458649
+4058,'4058','Thornlodge Dr / Ravenshoe Rd',44.194985,-79.457637
+4059,'4059','Ravenshoe Rd / Laurendale Av',44.194318,-79.460238
+4060,'4060','Ravenshoe Rd / The Queensway',44.193456,-79.464175
 4061,'4061','The Queensway / Brecken Dr',44.195363,-79.464685
 4062,'4062','The Queensway / Joe Dales Dr',44.198763,-79.465477
 4063,'4063','The Queensway / Walter Dr',44.20179,-79.466329
@@ -2186,6 +2204,10 @@
 4075,'4075','The Queensway / Riverglen Dr',44.225852,-79.464237
 4079,'4079','Simcoe Av / Metro Rd',44.241546,-79.474026
 4080,'4080','Simcoe Av',44.242134,-79.472568
+4097,'4097','Biscayne Blvd / Oakmeadow Blvd',44.222799,-79.454328
+4098,'4098','Biscayne Blvd / Bessborough Rd',44.222917,-79.458958
+4099,'4099','Biscayne Blvd / Bessborough Rd',44.222849,-79.459018
+4100,'4100','Biscayne Blvd / Hodgins Av',44.22367,-79.46223
 4101,'4101','The Queensway / Lakeview Blvd',44.209188,-79.46661
 4102,'4102','The Queensway / Morton Av',44.233075,-79.465517
 4103,'4103','The Queensway / Henry St',44.236721,-79.463812
@@ -2416,6 +2438,7 @@
 4496,'4496','Bernard Av / Yorkland St',43.89525,-79.439307
 4497,'4497','Tower Hl Rd / Yonge St',43.913892,-79.447832
 4499,'4499','Melville Av / Eddington Pl',43.84233,-79.53006
+4500,'4500','Mcnaughton Rd / Cranston Pk Av',43.858369,-79.52319
 4501,'4501','Brandon Gt Dr / Jane St',43.862774,-79.538804
 4510,'4510','Worthington Av / Ashfield Dr',43.955097,-79.452865
 4511,'4511','Worthington Av / Yonge St',43.954934,-79.455648
@@ -2480,6 +2503,7 @@
 4598,'4598','Maple Sugar Ln / Sugarforest Dr',43.825641,-79.471335
 4599,'4599','Maple Sugar Ln / Daniel Reaman Cr',43.826334,-79.468038
 4600,'4600','Maple Sugar Ln / Thornhill Woods',43.827005,-79.464866
+4602,'4602','Tierra Av / Treasure Rd',43.856469,-79.544107
 4603,'4603','Silverwood Av / Yorkland St',43.899402,-79.440335
 4604,'4604','Silverwood Av',43.899041,-79.441911
 4605,'4605','Yorkland St / Squire Dr',43.895895,-79.439046
@@ -2593,6 +2617,8 @@
 4797,'4797','Major Mackenzie Dr / Roy Rainey Av',43.905177,-79.286528
 4798,'4798','Major Mackenzie Dr / Kennedy Rd',43.897339,-79.319462
 4799,'4799','Major Mackenzie Dr / Mingay Av',43.90711,-79.278404
+4801,'4801','Mcnaughton Rd / Keele St',43.860881,-79.51437
+4802,'4802','Mcnaughton Rd / St Joan Of Arc Av',43.85999,-79.519793
 4803,'4803','Melville Av / Hudson Dr',43.848272,-79.531081
 4804,'4804','Melville Av / Hudson Dr',43.848507,-79.531342
 4806,'4806','Major Mackenzie Dr / Hwy 48',43.909726,-79.269161
@@ -2883,6 +2909,7 @@
 5318,'5318','Yonge St / Drewry Av',43.7872,-79.417496
 5324,'5324','Main St Unionville / Hwy 7',43.861805,-79.309783
 5326,'5326','Church St',43.880359,-79.252256
+5328,'5328','Joe Dales Dr / Laurendale Av',44.19944,-79.462805
 5330,'5330','Willowbrook Rd / Bayview Av',43.828204,-79.40266
 5331,'5331','Grn Ln / Huntington Pk Dr',43.829421,-79.378479
 5332,'5332','Promenade Term P:3',43.809631,-79.453891
@@ -2898,6 +2925,16 @@
 5358,'5358','Leslie St / Milne Ln',44.135002,-79.449518
 5359,'5359','Leslie St / Queensville Sdrd',44.138426,-79.450405
 5360,'5360','The Queensway / Ravenshoe Rd',44.193089,-79.464181
+5361,'5361','Biscayne Blvd / Hodgins Av',44.223566,-79.462592
+5362,'5362','Biscayne Blvd / Oakmeadow Blvd',44.222855,-79.453659
+5363,'5363','Biscayne Blvd / Roselm Av',44.223328,-79.451599
+5364,'5364','Biscayne Blvd / Woodbine Av',44.225064,-79.447067
+5365,'5365','Woodbine Av / Riverglen Dr',44.228758,-79.447279
+5366,'5366','Woodbine Av / Arlington Dr',44.234018,-79.448582
+5367,'5367','Woodbine Av / Pollock Rd',44.236411,-79.449232
+5368,'5368','Wexford Dr / Woodbine Av',44.24036,-79.451398
+5369,'5369','Wexford Dr / Ladyburn Dr',44.240077,-79.455008
+5370,'5370','Natanya Blvd / Verona Cres',44.243205,-79.457011
 5376,'5376','Metro Rd / Woodbine Av',44.301479,-79.466224
 5382,'5382','Metro Rd / Dalton Rd',44.321215,-79.370801
 5384,'5384','Dalton Rd / Grew Blvd',44.315114,-79.367412
@@ -3077,7 +3114,12 @@
 5803,'5803','Queen Filomena Av / Giordano Way',43.872787,-79.46811
 5804,'5804','Queen Filomena Av / Bathurst St',43.872984,-79.465494
 5805,'5805','Queen Filomena Av / Bathurst St',43.873114,-79.465521
+5806,'5806','Mcnaughton Rd / St Joan Of Arc Av',43.860255,-79.519195
+5807,'5807','Mcnaughton Rd / Cranston Pk Av',43.858739,-79.523087
 5809,'5809','Meville Av / Major Mackenzie Dr',43.850405,-79.532006
+5810,'5810','Drummond Dr / Longwood Dr',43.865753,-79.525093
+5811,'5811','Drummond Dr / St Joan Of Arc Av',43.866673,-79.520434
+5812,'5812','Drummond Dr / Keele St',43.867415,-79.515731
 5824,'5824','Hwy 27 / Royalpark Way',43.806527,-79.629071
 5829,'5829','Elgin Mills Rd / John Birchall Rd',43.899651,-79.391956
 5830,'5830','Elgin Mills Rd / Leslie St',43.898848,-79.395253
@@ -3100,9 +3142,12 @@
 5855,'5855','9th Line',43.925651,-79.246719
 5856,'5856','9th Line',43.919984,-79.244991
 5857,'5857','9th Line',43.919986,-79.245332
+5859,'5859','Metro Rd / Gwendolyn Blvd',44.237937,-79.470912
+5860,'5860','Metro Rd / Gdn Av',44.235232,-79.467643
 5861,'5861','Woodspring Av / Ford Wilson Blvd',44.056179,-79.499455
 5863,'5863','Elgin Mills Rd / Prince Regent St',43.903251,-79.375154
 5865,'5865','Larkin Av / Sawyer Cres',43.893439,-79.24042
+5866,'5866','Ravenshoe Rd',44.191636,-79.472201
 5867,'5867','Rutherford Rd / Blue Grouse Rd',43.844851,-79.47304
 5868,'5868','Rutherford Rd / Crimson Forest Dr',43.844183,-79.476325
 5869,'5869','Weston Rd / Major Mackenzie Dr',43.844173,-79.56058
@@ -3174,6 +3219,7 @@
 6010,'6010','Autumn Hl Blvd / Redmond Dr',43.836394,-79.477867
 6011,'6011','Autumn Hl Blvd / Redmond Dr',43.836269,-79.478157
 6013,'6013','Harding Blvd / Brillinger St',43.866219,-79.440378
+6014,'6014','Harding Blvd / Brillinger St',43.866141,-79.440345
 6015,'6015','Wright St / Yonge St',43.877887,-79.439378
 6021,'6021','Bayview Av / Bethesda Sdrd',43.950389,-79.428141
 6022,'6022','Bayview Av / Old Colony Rd',43.940148,-79.429576
@@ -3215,6 +3261,7 @@
 6126,'6126','Mccowan Rd',43.875043,-79.286547
 6127,'6127','Mccowan Rd',43.874173,-79.286102
 6128,'6128','The Queensway / Ravenshoe Rd',44.193407,-79.464578
+6129,'6129','Ravenshoe Rd',44.190741,-79.476278
 6131,'6131','Leslie St / Wellington St',44.011629,-79.418834
 6133,'6133','Weston Rd / Hwy 7',43.790033,-79.547397
 6145,'6145','Hwy 7 / Saddle Crk Dr',43.841219,-79.39534
@@ -3292,6 +3339,7 @@
 6270,'6270','Martin Grv Rd / Brunello Gt',43.756009,-79.601594
 6271,'6271','Martin Grv Rd / Brunello Gt',43.756097,-79.601838
 6272,'6272','Peter Rupert Av',43.850389,-79.494044
+6273,'6273','Vaughan Mills Term P:5',43.827081,-79.534583
 6274,'6274','16th Av / Cachet Woods Crt',43.866711,-79.369575
 6276,'6276','Metro Rd N / 1st Av',44.251115,-79.485641
 6279,'6279','Rutherford Rd / Grand Trunk Av',43.842052,-79.486606
@@ -3309,6 +3357,7 @@
 6315,'6315','Woodspring Av / Grn Ln',44.070713,-79.493941
 6329,'6329','Metro Rd / Kennedy Rd',44.312081,-79.416863
 6330,'6330','Metro Rd / Kennedy Rd',44.312306,-79.416306
+6332,'6332','Bass Pro Mills Dr / Edgeley Blvd',43.821269,-79.541873
 6333,'6333','Major Mackenzie Dr / Via Renzo',43.882037,-79.385776
 6334,'6334','Major Mackenzie Rd / Via Renzo',43.881611,-79.386694
 6335,'6335','Gamble Rd / Colesbrook Rd',43.904807,-79.460531
@@ -3415,6 +3464,8 @@
 6477,'6477','Shaftsbury Av / Elgin Mills Rd',43.887493,-79.452415
 6478,'6478','Fincham Av',43.891636,-79.241514
 6479,'6479','The Queensway',44.197545,-79.465518
+6481,'6481','Woodbine Av / Riveredge Dr',44.232006,-79.448077
+6482,'6482','Woodbine Av / Wexford Dr',44.239702,-79.45004
 6483,'6483','Dalton Rd',44.313486,-79.366529
 6485,'6485','Metro Rd / Elmwood Rd',44.30351,-79.459257
 6486,'6486','Metro Rd / Elmwood Rd',44.303924,-79.45894
@@ -3441,7 +3492,7 @@
 6562,'6562','Keele St / King Rd',43.928413,-79.528048
 6564,'6564','Kirby Rd / Ravineview Dr',43.893688,-79.512896
 6565,'6565','Ravineview Dr / Beaverbrook Cres',43.891804,-79.51395
-6566,'6566','Ravineview Dr / Beaverbrook Cres',43.891639,-79.516068
+6566,'6566','Ravineview Dr / Beaverbrook Cres',43.891577,-79.516222
 6567,'6567','Ravineview Dr / Vista Gt',43.890323,-79.51833
 6568,'6568','Ravineview Dr / Vista Gt',43.889888,-79.518155
 6569,'6569','Ravineview Dr / Canyon Gt Cres',43.888452,-79.517802
@@ -3558,6 +3609,8 @@
 6797,'6797','Metro Rd / Golf Rd',44.258087,-79.484939
 6798,'6798','Kennedy Rd',43.872554,-79.306172
 6799,'6799','Kennedy Rd',43.872688,-79.306028
+6800,'6800','Carrick Av / Chartwell Cres',44.243696,-79.461566
+6801,'6801','Carrick Av',44.240686,-79.460841
 6802,'6802','Glenwoods Av',44.212895,-79.461788
 6803,'6803','Creditstone Rd / Graniteridge Rd',43.827681,-79.522692
 6804,'6804','Creditstone Rd / Graniteridge Rd',43.828376,-79.522827
@@ -3619,7 +3672,7 @@
 6890,'6890','Pine Vly Dr / Major Mackenzie Dr',43.839563,-79.586173
 6891,'6891','Major Mackenzie Dr / Woodend Pl',43.840486,-79.581976
 6892,'6892','Major Mackenzie Dr / Via Campanile',43.841472,-79.576877
-6893,'6893','Via Campanile / Via Borghese',43.839719,-79.575866
+6893,'6893','Via Campanile / Via Borghese',43.839615,-79.575918
 6894,'6894','Via Campanile / Maria Antonia Dr',43.837537,-79.576148
 6895,'6895','Davos Rd / Via Campanile',43.833918,-79.577432
 6896,'6896','Davos Rd / Via Avellino Rd',43.833789,-79.579582
@@ -3793,7 +3846,6 @@
 7307,'7307','Keele St',43.90066,-79.52312
 7308,'7308','Hwy 7 / Costa Av',43.796163,-79.515118
 7310,'7310','Davis Dr / Eagle St',44.053567,-79.485781
-7311,'7311','Addison St / Harding Blvd',43.866772,-79.437928
 7312,'7312','Prospector''s Dr / Major Mackenzie D',43.8969,-79.320831
 7313,'7313','Newmarket Term P:1',44.052538,-79.486222
 7314,'7314','Newmarket Term P:3',44.052774,-79.486673
@@ -3812,6 +3864,9 @@
 7328,'7328','Caldari Rd / Riverock Gt',43.82748,-79.529929
 7329,'7329','Riverock Gt / Caldari Rd',43.827745,-79.530415
 7330,'7330','Yonge St / Hunters Gln Rd',43.96891,-79.460094
+7332,'7332','Addison St / Harding Blvd',43.866432,-79.437973
+7333,'7333','Hopkins St / Yonge St',43.86933,-79.43751
+7344,'7344','Grn Ln / Alexis Rd',43.830524,-79.376936
 8010,'8010','Major Mackenzie Dr / Prospector''s D',43.89695,-79.321227
 9700,'9700','Hwy 7 / Martin Grv',43.775925,-79.608653
 9701,'9701','Hwy 7 / Kipling',43.778488,-79.597505

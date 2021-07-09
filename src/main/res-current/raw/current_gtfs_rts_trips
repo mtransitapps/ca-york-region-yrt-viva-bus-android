@@ -97,6 +97,10 @@
 30400,0,'MO-Finch Term',304
 30501,0,'AF-Box Grv',305
 30500,0,'MO-Finch Term',305
+42401,0,'AF-Keswick HS',424
+42400,0,'MO-Keswick HS',424
+46201,0,'AF-Maple HS',462
+46200,0,'MO-Maple HS',462
 52200,0,'EB-Markham Local EB',522
 52201,0,'WB-Markham Local WB',522
 60100,0,'NB-Newmarket Term',601
@@ -107,6 +111,8 @@
 60501,0,'WB-Martin Grv',605
 60700,0,'EB-Hwy 404 P&R',607
 60701,0,'WB-Newmarket Term',607
+76000,0,'NB-Vaughan Mills',760
+76001,0,'SB-Finch Term',760
 1000400,0,'EB-Woodbine',10004
 1000401,0,'WB-Pine Vly',10004
 1003300,0,'EB-St John''s Sideroad',10033

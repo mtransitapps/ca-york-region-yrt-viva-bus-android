@@ -194,25 +194,25 @@
 60701,0,'WB-Newmarket Term',607
 76000,0,'NB-Vaughan Mills',760
 76001,0,'SB-Finch Term',760
+330100,0,'EB-St John''s Sideroad',3301
+330101,0,'WB-Murray',3301
+400100,0,'EB-Woodbine',4001
+400101,0,'WB-Pine Vly',4001
+830100,0,'NB-Richmond Grn HS',8301
+830101,0,'SB-Hillcrest Mall',8301
+900200,0,'NB-Beaver Crk',9002
+900201,0,'SB-Don Mills Sta',9002
+910100,0,'NB-Subrisco',9101
+910101,0,'SB-Finch Term',9101
+910200,0,'NB-Oak Rdgs',9102
+910201,0,'SB-Richmond Hl Ctr Term',9102
+910501,0,'SB-Finch Term',9105
+980500,0,'NB-Newmarket Term',9805
 989900,0,'NB-Grn Ln',9899
 989901,0,'SB-Finch Term',9899
-1000400,0,'EB-Woodbine',10004
-1000401,0,'WB-Pine Vly',10004
-1003300,0,'EB-St John''s Sideroad',10033
-1003301,0,'WB-Murray',10033
-1008300,0,'NB-Richmond Grn HS',10083
-1008301,0,'SB-Hillcrest Mall',10083
-1009100,0,'NB-Subrisco',10091
-1009101,0,'SB-Finch Term',10091
-1060300,0,'EB-Markham Stouffville Hosp',10603
-1060301,0,'WB-Richmond Hl Ctr',10603
-2009000,0,'NB-Beaver Crk',20090
-2009001,0,'SB-Don Mills Sta',20090
-2009100,0,'NB-Oak Rdgs',20091
-2009101,0,'SB-Richmond Hl Ctr Term',20091
-2010700,0,'NB-Rutherford GO Sta',20107
-2010701,0,'SB-Pioneer Vlg Term',20107
-5009101,0,'SB-Finch Term',50091
-5009800,0,'NB-Newmarket Term',50098
-6016500,0,'NB-Canada Dr',60165
-6016501,0,'SB-Pioneer Vlg Term',60165
+1070200,0,'NB-Rutherford GO Sta',10702
+1070201,0,'SB-Pioneer Vlg Term',10702
+1650600,0,'NB-Canada Dr',16506
+1650601,0,'SB-Pioneer Vlg Term',16506
+6030100,0,'EB-Markham Stouffville Hosp',60301
+6030101,0,'WB-Richmond Hl Ctr',60301

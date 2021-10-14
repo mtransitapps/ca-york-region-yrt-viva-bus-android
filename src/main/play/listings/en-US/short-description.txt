@@ -1,2 +1,1 @@
-York Region YRT Viva buses for MonTransit.
-Schedule. News. Service Alerts.
+York Region YRT Viva buses for MonTransit. Schedule. News. Service Alerts.

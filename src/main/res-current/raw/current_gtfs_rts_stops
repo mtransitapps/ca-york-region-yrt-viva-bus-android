@@ -363,17 +363,28 @@
 1433,'1433','Rodick Rd / Hans Dr',43.871826,-79.355096
 1434,'1434','Dufferin St / Draper Blvd',43.801344,-79.473351
 1435,'1435','Rodick Rd / 16th Av',43.870326,-79.352846
+1436,'1436','Gln Shields Av / Dufferin St',43.801692,-79.474139
 1437,'1437','Rodick Rd / John Button Blvd',43.867086,-79.350799
+1438,'1438','Gln Shields Av / Oakmount Cres',43.800709,-79.476885
 1439,'1439','John Button Blvd / Militia Trl',43.866379,-79.352495
+1440,'1440','Gln Shields Av / Oakmount Cres',43.799094,-79.478377
 1441,'1441','John Button Blvd / Captain Francis',43.86549,-79.356051
+1442,'1442','Gln Shields Av / Crooked Stick Rd',43.797843,-79.479231
 1443,'1443','John Button Blvd / Millbrook Gt',43.864439,-79.358915
+1444,'1444','Gln Shields Av / New Seabury Dr',43.796156,-79.480969
 1445,'1445','John Button Blvd / Hoodview Crt',43.861652,-79.357361
+1446,'1446','Gln Shields Av / Bay Hl Dr',43.793753,-79.481792
 1447,'1447','John Button Blvd / Melchior Cres',43.860756,-79.355642
 1449,'1449','John Button Blvd / Melchior Cres',43.85907,-79.353224
+1450,'1450','Gln Shields Av / Spyglass Hl Rd',43.791647,-79.482822
 1451,'1451','Apple Crk Blvd / Rodick Rd',43.859099,-79.349392
+1452,'1452','Gln Shields Av / Royal Colwood Crt',43.791409,-79.478003
 1453,'1453','Apple Crk Blvd / Corby Rd',43.860163,-79.344633
+1454,'1454','Gln Shields Av / Riviera Dr',43.791853,-79.47594
 1455,'1455','Apple Crk Blvd / Whitehall Dr',43.860386,-79.342172
+1456,'1456','Gln Shields Av / Cherry Hls Rd',43.792329,-79.473873
 1457,'1457','Apple Crk Blvd / Town Ctr Blvd',43.860084,-79.339074
+1458,'1458','Gln Shields Av / Dufferin St',43.792264,-79.4724
 1459,'1459','Town Ctr Blvd / Wallis Way',43.857864,-79.339541
 1460,'1460','Gln Shields Av / Dufferin St',43.792423,-79.471912
 1461,'1461','Town Ctr Blvd / Hwy 7',43.854869,-79.339915
@@ -2773,6 +2784,7 @@
 4733,'4733','Hwy 7 / Huntington Rd',43.767768,-79.645839
 4734,'4734','Hwy 7 / Millway Av',43.793284,-79.527354
 4735,'4735','Conover Av / Borealis Av',44.013226,-79.442315
+4737,'4737','Haida Dr / Mcdonald St',43.999173,-79.477347
 4738,'4738','Haida Dr / Wellington St',43.998281,-79.476315
 4740,'4740','Gateway Dr / Kirkvalley Cres',44.016979,-79.454865
 4741,'4741','Bayview Av / Hartwell Way',44.018976,-79.446733
@@ -2877,7 +2889,7 @@
 4902,'4902','Royal Orchard Blvd / Yonge St',43.823107,-79.424686
 4904,'4904','Ymca Blvd / Kennedy Rd',43.85326,-79.309213
 4905,'4905','Ymca Blvd / Kennedy Rd',43.853611,-79.308448
-4906,'4906','Ymca Blvd / Rivis Rd',43.853074,-79.31081
+4906,'4906','Ymca Blvd / University Blvd',43.853074,-79.31081
 4907,'4907','Ymca Blvd / Rivis Rd',43.852767,-79.311234
 4908,'4908','Leslie St / Wayne Dr',44.069652,-79.432716
 4909,'4909','Leslie St / Elgin St',44.073449,-79.433685
@@ -3495,7 +3507,6 @@
 5901,'5901','Thomas Cook Av / Marc Santi Blvd',43.848925,-79.469225
 5902,'5902','Thomas Cook Av / Lebovic Campus Dr',43.85283,-79.46989
 5903,'5903','Lebovic Campus Dr / Rumsey Rd',43.853492,-79.467467
-5904,'5904','Lebovic Campus Dr / Ilan Ramon Blvd',43.854055,-79.464907
 5906,'5906','Major Mackenzie Dr / Donald Cousens',43.912214,-79.258547
 5907,'5907','Donald Cousens Pkwy / Castlemore Av',43.908562,-79.244943
 5908,'5908','Donald Cousens Pkwy / 9th Line',43.905131,-79.241119
@@ -4077,7 +4088,7 @@
 6838,'6838','Angus Gln Blvd / Royal County Down',43.887154,-79.333408
 6839,'6839','Angus Gln Blvd / Royal Troon Cres',43.888487,-79.32831
 6840,'6840','Angus Gln Blvd / Royal Troon Cres',43.889539,-79.328127
-6848,'6848','Major Mackenzie Dr / Fossil Hil Rd',43.843817,-79.566203
+6848,'6848','Major Mackenzie Dr / Lawford Rd',43.84362,-79.567416
 6849,'6849','Major Mackenzie Dr / Fossil Hl Rd',43.843502,-79.566987
 6850,'6850','Kennedy Rd / Castan Av',43.857799,-79.303456
 6851,'6851','Bullock Dr / Laidlaw Blvd',43.874509,-79.279986
@@ -4110,7 +4121,7 @@
 6894,'6894','Via Campanile / Maria Antonia Dr',43.837537,-79.576148
 6895,'6895','Davos Rd / Via Campanile',43.833918,-79.577432
 6896,'6896','Davos Rd / Via Avellino Rd',43.833789,-79.579582
-6897,'6897','Davos Rd / Monteverde Way',43.833019,-79.583063
+6897,'6897','Davos Rd / Monteverde Way',43.833043,-79.58338
 6899,'6899','Poetry Dr / Flourish St',43.84439,-79.572068
 6901,'6901','Poetry Dr / Garyscholl Rd',43.846706,-79.5738
 6904,'6904','Poetry Dr / Gallant Pl',43.848,-79.574717
@@ -4387,6 +4398,7 @@
 7344,'7344','Grn Ln / Alexis Rd',43.830524,-79.376936
 7345,'7345','Ilan Ramon Blvd / Major Mackenzie D',43.864625,-79.468268
 7346,'7346','Via Romano Blvd / Queen Filomena Av',43.872704,-79.470943
+7347,'7347','Davis Dr / Yonge St',44.055123,-79.479985
 8010,'8010','Major Mackenzie Dr / Prospector''s D',43.89695,-79.321227
 9700,'9700','Hwy 7 / Martin Grv',43.775925,-79.608653
 9701,'9701','Hwy 7 / Kipling',43.778488,-79.597505
@@ -4523,8 +4535,8 @@
 9868,'9868','Hwy 7 / Vlg Pkwy',43.857823,-79.325598
 9869,'9869','Hwy 7 / Sciberras Rd',43.859959,-79.315239
 9870,'9870','Hwy 7 / Sciberras Rd',43.860383,-79.314641
-9872,'9872','Bathurst & Hwy 7',43.832032,-79.453751
-9873,'9873','Bathurst & Hwy 7',43.832096,-79.454167
+9872,'9872','Bathurst / Hwy 7',43.832032,-79.453751
+9873,'9873','Bathurst / Hwy 7',43.832096,-79.454167
 9874,'9874','Disera-Promenade EB',43.810051,-79.454153
 9875,'9875','Disera-Promenade WB',43.810014,-79.454532
 9876,'9876','Commerce EB',43.792409,-79.532686
@@ -4533,7 +4545,7 @@
 9879,'9879','Wigwoss Helen WB',43.782625,-79.580427
 9880,'9880','Taiga EB',43.808758,-79.460025
 9881,'9881','Taiga WB',43.808484,-79.461616
-9882,'9882','Yonge & Davis NB',44.054427,-79.480251
-9883,'9883','Yonge & Davis SB',44.054173,-79.480265
+9882,'9882','Yonge / Davis NB',44.054427,-79.480251
+9883,'9883','Yonge / Davis SB',44.054173,-79.480265
 9884,'9884','Hwy 7 / Main St Unionville',43.861433,-79.30894
 9885,'9885','Hwy 7 / Main St Unionville',43.861588,-79.30933

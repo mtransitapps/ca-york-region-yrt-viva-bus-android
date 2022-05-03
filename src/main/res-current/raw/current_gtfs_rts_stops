@@ -255,7 +255,7 @@
 1318,'1318','Bur Oak Av / Swan Pk Rd',43.902711,-79.253663
 1319,'1319','Esna Pk Dr',43.826547,-79.338745
 1320,'1320','Bur Oak Av / Stalmaster Rd',43.902497,-79.255492
-1321,'1321','Esna Pk Dr / Alden Rd',43.827735,-79.340714
+1321,'1321','Esna Pk Dr / Alden Rd',43.827468,-79.339736
 1322,'1322','Bur Oak Av / Williamson Rd',43.902013,-79.258745
 1323,'1323','Esna Pk Dr',43.827534,-79.343877
 1324,'1324','Bur Oak Av / Anderson Av',43.900783,-79.263993
@@ -1597,7 +1597,6 @@
 2994,'2994','16th Av / 9th Line',43.897507,-79.239886
 2995,'2995','16th Av / Fincham Av',43.893399,-79.258402
 2996,'2996','16th Av / Hwy 48',43.892147,-79.263777
-2997,'2997','16th Av / Quarry Stone Dr',43.89041,-79.268557
 2998,'2998','16th Av / Mingay Av',43.889366,-79.273328
 2999,'2999','16th Av / Roy Rainey Av',43.887836,-79.279855
 3000,'3000','16th Av / Mccowan Rd',43.885446,-79.28854
@@ -1804,11 +1803,11 @@
 3326,'3326','Atkinson Av / Dundurn Cres',43.817234,-79.44471
 3328,'3328','Atkinson Av',43.815744,-79.443736
 3330,'3330','Atkinson Av / Rosedale Hts Dr',43.813662,-79.443649
-3333,'3333','Rutherford GO Sta P:5',43.838109,-79.500765
+3333,'3333','Rutherford GO Sta P:5',43.838647,-79.499377
 3334,'3334','Atkinson Av / Campbell Av',43.811129,-79.443126
-3335,'3335','Rutherford GO Sta P:6',43.838219,-79.500486
+3335,'3335','Rutherford GO Sta P:4',43.838683,-79.49967
 3336,'3336','Atkinson Av / Rodeo Dr',43.808763,-79.44251
-3337,'3337','Rutherford GO Sta P:7',43.838301,-79.500166
+3337,'3337','Rutherford GO Sta P:3',43.83871,-79.49986
 3338,'3338','Atkinson Av / Spg Gt Blvd',43.806406,-79.441628
 3342,'3342','Atkinson Av / Edmund Seager Dr',43.813424,-79.443439
 3344,'3344','Atkinson Av',43.815277,-79.443515
@@ -2158,6 +2157,8 @@
 3864,'3864','Basaltic Rd / Jacob Keffer Pkwy',43.830148,-79.498796
 3865,'3865','Basaltic Rd',43.832846,-79.499188
 3866,'3866','Westburne Dr',43.836939,-79.500366
+3867,'3867','Westburne Dr / Rutherford Rd',43.838016,-79.501915
+3868,'3868','Westburne Dr / Rutherford Rd',43.837853,-79.502071
 3869,'3869','Westburne Dr / Moyal Crt',43.836124,-79.500148
 3870,'3870','Basaltic Rd',43.832534,-79.499323
 3871,'3871','Basaltic Rd / Jacob Keffer Pkwy',43.829193,-79.498699
@@ -3008,7 +3009,7 @@
 5069,'5069','Mt Albert Rd / 2nd Concession Rd',44.100234,-79.466429
 5072,'5072','Main St / Bristol Rd',44.073858,-79.459318
 5073,'5073','Main St / Penn Av',44.062077,-79.462556
-5074,'5074','State Farm Way',44.018868,-79.410063
+5074,'5074','Desjardins Way',44.018868,-79.410063
 5075,'5075','Wellington St / Leslie St',44.010281,-79.42138
 5076,'5076','Wellington St / Mavrinac Rd',44.007668,-79.433143
 5077,'5077','Wellington St / Conover Av',44.0063,-79.439224
@@ -3309,9 +3310,9 @@
 5602,'5602','Locke St / Creditstone Rd',43.82485,-79.524027
 5603,'5603','Locke St',43.824407,-79.527708
 5604,'5604','Locke St',43.824416,-79.52714
-5607,'5607','Leslie St / State Farm Way',44.015713,-79.419666
-5608,'5608','State Farm Way / 1st Commerce Dr',44.016328,-79.41469
-5609,'5609','1st Commerce Dr / State Farm Way',44.016538,-79.414314
+5607,'5607','Leslie St / Desjardins Way',44.015713,-79.419666
+5608,'5608','Desjardins Way / 1st Commerce Dr',44.016328,-79.41469
+5609,'5609','1st Commerce Dr / Desjardins Way',44.016538,-79.414314
 5610,'5610','1st Commerce Dr',44.01448,-79.415553
 5611,'5611','1st Commerce Dr / Wellington St',44.012321,-79.414813
 5612,'5612','Wellington St / Leslie St',44.010994,-79.418466
@@ -3806,6 +3807,7 @@
 6401,'6401','Red Maple Rd / 16th Av',43.85427,-79.426438
 6402,'6402','Jefferson Sdrd / Yonge St',43.922405,-79.449648
 6403,'6403','Bullock Dr / Laidlaw Blvd',43.8743,-79.280834
+6404,'6404','Canada''s Wonderland',43.846108,-79.53969
 6405,'6405','Honda Blvd',43.912534,-79.379852
 6406,'6406','Honda Blvd',43.912733,-79.380689
 6407,'6407','Yonge St / Stouffville Rd',43.925991,-79.450276
@@ -4406,6 +4408,11 @@
 7345,'7345','Ilan Ramon Blvd / Major Mackenzie D',43.864625,-79.468268
 7346,'7346','Via Romano Blvd / Queen Filomena Av',43.872704,-79.470943
 7347,'7347','Davis Dr / Yonge St',44.055123,-79.479985
+7349,'7349','Pleasant Rdg Av / Mendel Cr',43.83554,-79.475086
+7350,'7350','Pleasant Rdg Av / Coltrane Dr',43.833764,-79.474704
+7351,'7351','Pleasant Rdg Av / Degas Dr',43.830841,-79.474179
+7352,'7352','Pleasant Rdg Av / Coltrane Dr',43.833893,-79.474553
+7353,'7353','Pleasant Rdg Av / Autumn Hl Blv',43.836331,-79.475081
 8010,'8010','Major Mackenzie Dr / Prospector''s D',43.89695,-79.321227
 9700,'9700','Hwy 7 / Martin Grv',43.775925,-79.608653
 9701,'9701','Hwy 7 / Kipling',43.778488,-79.597505

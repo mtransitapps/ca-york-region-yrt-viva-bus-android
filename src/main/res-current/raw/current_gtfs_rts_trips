@@ -5,7 +5,7 @@
 300,0,'EB-Drop Off Only',3
 301,0,'WB-Pioneer Vlg Term',3
 400,0,'EB-Woodbine',4
-401,0,'WB-Vaughan Mills Mall',4
+401,0,'WB-Pine Vly',4
 500,0,'EB-Finch Term',5
 501,0,'WB-Gln Shields',5
 700,0,'NB-Al Pallidini CC',7
@@ -13,7 +13,7 @@
 800,0,'NB-Major Mackenzie',8
 801,0,'SB-Clayton / Harvest Moon',8
 900,0,'NB-Stouffville',9
-901,0,'SB-14th Ave',9
+901,0,'SB-Ninth Line To14th Ave',9
 1200,0,'NB-Vaughan Mills Mall',12
 1201,0,'SB-Steeles Ave',12
 1300,0,'NB-Napa Vly',13
@@ -196,14 +196,12 @@
 60501,0,'WB-Martin Grv',605
 60700,0,'EB-Hwy 404 P&R',607
 60701,0,'WB-Newmarket Term',607
-72000,0,'NB-Canadas Wonderland',720
+72000,0,'NB-Major Mackenzie W Term',720
 72001,0,'SB-Hwy 407 Term',720
-76000,0,'NB-Canada''s Wonderland',760
+76000,0,'NB-Major Mackenzie W Term',760
 76001,0,'SB-Finch Term',760
 330100,0,'EB-St John''s Sideroad',3301
 330101,0,'WB-Murray',3301
-400100,0,'EB-Woodbine',4001
-400101,0,'WB-Pine Vly',4001
 830100,0,'NB-Richmond Grn HS',8301
 830101,0,'SB-Hillcrest Mall',8301
 900200,0,'NB-Beaver Crk',9002
@@ -216,9 +214,9 @@
 980500,0,'NB-Newmarket Term',9805
 989900,0,'NB-Grn Ln',9899
 989901,0,'SB-Finch Term',9899
-1060300,0,'EB-Cornell Bus Terminall',10603
-1060301,0,'WB-Richmond Hl Ctr',10603
-1070100,0,'NB-Rutherford GO Sta',10701
-1070101,0,'SB-Pioneer Vlg Term',10701
+1070200,0,'NB-Rutherford GO Sta',10702
+1070201,0,'SB-Pioneer Vlg Term',10702
 1650600,0,'NB-Canada Dr',16506
 1650601,0,'SB-Pioneer Vlg Term',16506
+6030100,0,'EB-Cornell Bus Terminall',60301
+6030101,0,'WB-Richmond Hl Ctr',60301

@@ -807,7 +807,7 @@
 1951,'1951','Leslie St / Staples Av',43.873207,-79.389439
 1952,'1952','Leslie St',43.876767,-79.390454
 1953,'1953','Leslie St / Major Mackenzie Dr',43.88034,-79.391327
-1954,'1954','Leslie St',43.886966,-79.392845
+1954,'1954','Leslie St / Performance Dr',43.885693,-79.392321
 1955,'1955','Leslie St / Via Renzo Dr',43.889722,-79.393474
 1956,'1956','Leslie St / Toporowski Av',43.893655,-79.394446
 1957,'1957','Elgin Mills Rd / Redstone Rd',43.897487,-79.400402
@@ -815,7 +815,7 @@
 1960,'1960','Bathurst St / Lebovic Campus Dr',43.855136,-79.460523
 1961,'1961','Bathurst St / Marc Santi Blvd',43.852019,-79.45981
 1962,'1962','Bathurst St / Rutherford Rd',43.847892,-79.458877
-1963,'1963','Bathurst St / Birch St',43.845179,-79.458188
+1963,'1963','Bathurst St / Mitchell Reaman Gt',43.845179,-79.458188
 1964,'1964','Bathurst St / Teefy Av',43.843586,-79.457891
 1965,'1965','Bathurst St / Ner Israel Dr',43.841016,-79.457311
 1966,'1966','Bathurst St / Autumn Hl Blvd',43.837358,-79.456496
@@ -3315,7 +3315,6 @@
 5618,'5618','Box Grv Byp / Oakborough Rd',43.864694,-79.227634
 5619,'5619','Box Grv By Pass / Oakborough Dr',43.864747,-79.227079
 5622,'5622','Hwy 7 / Stoney Stanton Rd',43.878971,-79.229019
-5623,'5623','Hwy 7 / Stoney Stanton Rd',43.879348,-79.228364
 5624,'5624','Bur Oak Av / Hwy 7',43.880425,-79.225589
 5625,'5625','Bur Oak Av / Hwy 7',43.881117,-79.226104
 5626,'5626','Church St / Bur Oak Av',43.885504,-79.229955
@@ -3550,7 +3549,6 @@
 5954,'5954','Jane St / Springside Rd',43.838208,-79.534052
 5955,'5955','Jane St / Norwood Av',43.842577,-79.535011
 5956,'5956','Jane St / Avro Rd',43.845875,-79.535722
-5957,'5957','Jane St / Major Mackenzie Dr',43.849337,-79.536449
 5958,'5958','Kennedy Rd / Angus Gln Blvd',43.891357,-79.317227
 5961,'5961','Main St / Mkt St',43.971241,-79.247062
 5963,'5963','Srigley St / Crusader Way',44.057857,-79.441008
@@ -3803,7 +3801,6 @@
 6401,'6401','Red Maple Rd / 16th Av',43.85427,-79.426438
 6402,'6402','Jefferson Sdrd / Yonge St',43.922405,-79.449648
 6403,'6403','Bullock Dr / Laidlaw Blvd',43.8743,-79.280834
-6404,'6404','Canada''s Wonderland',43.846108,-79.53969
 6405,'6405','Honda Blvd',43.912534,-79.379852
 6406,'6406','Honda Blvd',43.912733,-79.380689
 6407,'6407','Yonge St / Stouffville Rd',43.925991,-79.450276
@@ -3977,13 +3974,13 @@
 6655,'6655','Conover Av / Hartwell Way',44.019378,-79.444529
 6656,'6656','Hwy 7 / William Forster Rd',43.881139,-79.219995
 6657,'6657','Hwy 7 / William Forster Rd',43.881477,-79.219479
-6658,'6658','Royalpark Way',43.800998,-79.616603
+6658,'6658','Royalpark Way',43.800123,-79.614801
 6659,'6659','Royalpark Way / Sundance Crt',43.803805,-79.625711
 6660,'6660','Royalpark Way / Hwy 27',43.806424,-79.628443
 6661,'6661','Royalpark Way / Hwy 27',43.806354,-79.628488
 6662,'6662','Royalpark Way / Sundance Crt',43.803775,-79.626291
-6663,'6663','Royalpark Way / Panorama Cres',43.802387,-79.620603
-6664,'6664','Royalpark Way',43.801061,-79.616869
+6663,'6663','Royalpark Way / Panorama Cres',43.802309,-79.620491
+6664,'6664','Royalpark Way',43.800138,-79.61513
 6668,'6668','Legacy Dr / Cottontail Av',43.85993,-79.231887
 6669,'6669','Legacy Dr / Cottontail Av',43.859921,-79.232184
 6670,'6670','Vaughan Mills Rd',43.799723,-79.610591
@@ -4417,6 +4414,11 @@
 7352,'7352','Pleasant Rdg Av / Coltrane Dr',43.833893,-79.474553
 7353,'7353','Pleasant Rdg Av / Autumn Hl Blv',43.836331,-79.475081
 7354,'7354','Hwy 407 Sta P:4',43.782521,-79.523079
+7358,'7358','Major Mackenzie W Term',43.847893,-79.540687
+7359,'7359','Major Mackenzie W Term',43.847951,-79.540422
+7361,'7361','Major Mackenzie W Term',43.847623,-79.540164
+7362,'7362','Major Mackenzie W Term',43.847476,-79.540468
+7363,'7363','Major Mackenzie W Term',43.847416,-79.540771
 7368,'7368','Rutherford Rd',43.838986,-79.499936
 7369,'7369','14th Av / Box Grv Bypass',43.861102,-79.223979
 7370,'7370','Copper Crk Dr / Boswell Rd',43.869773,-79.224816

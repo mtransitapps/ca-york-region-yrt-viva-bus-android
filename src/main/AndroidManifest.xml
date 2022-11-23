@@ -58,6 +58,8 @@
                 android:value="@string/gtfs_real_time_for_poi_authority" />
         </provider>
         <!-- ONE BUS AWAY PROVIDER -->
+        <!-- DISABLED because York Region is not using OneBusAway but custom GraphQL -->
+        <!--
         <provider
             android:name="org.mtransit.android.commons.provider.OneBusAwayProvider"
             android:authorities="@string/one_bus_away_authority"
@@ -71,6 +73,7 @@
                 android:name="@string/status_provider_target"
                 android:value="@string/one_bus_away_for_poi_authority" />
         </provider>
+        -->
         <!-- TWITTER NEWS PROVIDER -->
         <provider
             android:name="org.mtransit.android.commons.provider.TwitterNewsProvider"

@@ -3,4 +3,5 @@
     <integer name="gtfs_rts_db_version">20230207</integer>
     <string name="gtfs_rts_authority">org.mtransit.android.ca_york_region_yrt_viva_bus.gtfs</string>
     <string name="gtfs_status_for_poi_authority">@string/gtfs_rts_authority</string>
+    <string name="gtfs_rts_contact_us">https://www.yrt.ca/en/about-us/contact-us.aspx</string>
 </resources>

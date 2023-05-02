@@ -26,6 +26,8 @@
 1801,0,'WB-Angus Gln CC',18
 2000,0,'NB-Teston',20
 2001,0,'SB-Pioneer Vlg',20
+2101,0,'AF-Vellore',21
+2100,0,'MO-Vellore',21
 2300,0,'NB-Teston Rd',23
 2301,0,'SB-Finch Term',23
 2400,0,'NB-Honda Canada',24
@@ -36,7 +38,7 @@
 2601,0,'SB-SmartVMC Bus Term',26
 3200,0,'NB-Stone Rd',32
 3201,0,'SB-Bathurst',32
-3300,0,'EB-State Farm',33
+3300,0,'EB-Desjardins Way',33
 3301,0,'WB-Murray',33
 4000,0,'Unionville Local',40
 4400,0,'Davis',44
@@ -142,10 +144,10 @@
 43000,0,'MO-Sacred Heart CHS S',430
 43201,0,'AF-Aurora HS',432
 43200,0,'MO-Aurora HS',432
-43301,0,'AF-- Cardinal Carter S',433
-43300,0,'MO-- Cardinal Carter S',433
-43401,0,'AF-- Cardinal Carter S',434
-43400,0,'MO-- Cardinal Carter S',434
+43300,0,'AM',433
+43301,0,'PM',433
+43400,0,'AM',434
+43401,0,'PM',434
 43601,0,'AF-Cardinal Carter S',436
 43600,0,'MO-Cardinal Carter S',436
 44001,0,'AF-St Theresa S',440
@@ -180,11 +182,11 @@
 46601,0,'AF-Vaughan Mills',466
 46600,0,'MO-Tommy Douglas SS',466
 46701,0,'AF-Vaughan Mills Term',467
-46801,0,'AF-- Emily Carr S',468
-46800,0,'MO-- Emily Carr S',468
+46800,0,'AM',468
+46801,0,'PM',468
 46901,0,'AF-Father Bressani S',469
-47001,0,'AF-- Westmount Collegiate S',470
-47000,0,'MO-- Westmount Collegiate S',470
+47000,0,'AM',470
+47001,0,'PM',470
 47101,0,'AF-Stephen Lewis S',471
 52200,0,'EB-Markham Local EB',522
 52201,0,'WB-Markham Local WB',522
@@ -196,10 +198,10 @@
 60501,0,'WB-Martin Grv',605
 60700,0,'EB-Hwy 404 P&R',607
 60701,0,'WB-Newmarket Term',607
-76000,0,'NB-Vaughan Mills',760
+72000,0,'NB-Major Mackenzie W Term',720
+72001,0,'SB-Hwy 407 Term',720
+76000,0,'NB-Major Mackenzie W Term',760
 76001,0,'SB-Finch Term',760
-330100,0,'EB-St John''s Sideroad',3301
-330101,0,'WB-Murray',3301
 830100,0,'NB-Richmond Grn HS',8301
 830101,0,'SB-Hillcrest Mall',8301
 900200,0,'NB-Beaver Crk',9002

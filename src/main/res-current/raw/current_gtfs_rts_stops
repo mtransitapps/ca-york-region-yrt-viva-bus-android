@@ -1794,7 +1794,7 @@
 3323,'3323','Vaughan Mills Term P:8',43.827129,-79.53379,1
 3324,'3324','Atkinson Av / Dundurn Cres',43.818126,-79.446533,1
 3326,'3326','Atkinson Av / Dundurn Cres',43.817234,-79.44471,1
-3328,'3328','Atkinson Av',43.815744,-79.443736,2
+3328,'3328','Atkinson Av',43.815744,-79.443736,1
 3330,'3330','Atkinson Av / Rosedale Hts Dr',43.813662,-79.443649,1
 3333,'3333','Rutherford GO Sta P:5',43.838647,-79.499377,1
 3334,'3334','Atkinson Av / Campbell Av',43.811129,-79.443126,1
@@ -3941,7 +3941,7 @@
 6608,'6608','Davos Rd / Fiorentina Av',43.834026,-79.560575,1
 6609,'6609','Davos Rd / Fossil Hl Rd',43.833769,-79.564287,1
 6610,'6610','Davos Rd / Kingsview Rd',43.833744,-79.566769,2
-6611,'6611','Davos Rd / Vellore Av',43.833862,-79.569396,2
+6611,'6611','Davos Rd / Vellore Av',43.83383,-79.56932,2
 6612,'6612','Vellore Av / Amy Wood Rd',43.83722,-79.569468,2
 6613,'6613','Vellore Av / Maria Antonia Rd',43.83901,-79.570178,1
 6614,'6614','Vellore Av / Via Toscana',43.841492,-79.571112,1

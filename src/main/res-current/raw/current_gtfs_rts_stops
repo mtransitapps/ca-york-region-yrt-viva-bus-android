@@ -59,7 +59,7 @@
 1066,'1066','John St / Chestnut Gt',43.820718,-79.377729,1
 1067,'1067','Frank Endean Rd / Farmstead Rd',43.881204,-79.408032,1
 1068,'1068','John St / Rockingham Crt',43.82164,-79.372834,1
-1069,'1069','Farmstead Rd / Kimono Cr',43.881318,-79.406063,1
+1069,'1069','Farmstead Rd / Kimono Cr',43.88132,-79.40606,1
 1070,'1070','John St / Don Mills Rd',43.822161,-79.370339,1
 1071,'1071','Farmstead Rd / Shirley Dr',43.881625,-79.401875,1
 1072,'1072','John St',43.82293,-79.367144,1
@@ -217,7 +217,7 @@
 1287,'1287','Bur Oak Av / The Mdws Av',43.888092,-79.229819,1
 1288,'1288','Denison St / Brimley Rd',43.836778,-79.289443,1
 1289,'1289','Denison St / Eden Av',43.835902,-79.293133,1
-1290,'1290','Bur Oak Av / Donald Sim Av',43.891512,-79.230769,1
+1290,'1290','Bur Oak Av / Donald Sim Av',43.892056,-79.23086,1
 1291,'1291','Denison St',43.834531,-79.296668,1
 1292,'1292','Bur Oak Av / Almira Av',43.894171,-79.23142,1
 1293,'1293','Denison St / Mallory Av',43.83424,-79.299021,1
@@ -2571,7 +2571,7 @@
 4726,'4726','9th Line / White''s Hl Av',43.894395,-79.238615,1
 4727,'4727','Hwy 7 / Verclaire Gt',43.85654,-79.331026,1
 4732,'4732','Hwy 7 / Millway Av',43.793673,-79.527575,2
-4733,'4733','Hwy 7 / Huntington Rd',43.767768,-79.645839,2
+4733,'4733','Hwy 7 / Huntington Rd',43.76757,-79.64717,2
 4734,'4734','Hwy 7 / Millway Av',43.793284,-79.527354,2
 4738,'4738','Haida Dr / Wellington St',43.998281,-79.476315,1
 4741,'4741','Bayview Av / Hartwell Way',44.018976,-79.446733,1
@@ -3498,8 +3498,8 @@
 6597,'6597','Elgin Mills Rd / Woodbine Av',43.902493,-79.378282,2
 6598,'6598','Victoria Sq Blvd / Betty Roman',43.896923,-79.370063,2
 6599,'6599','Betty Roman Blvd / Prince Regent St',43.896763,-79.372906,2
-6600,'6600','Betty Roman Blvd / Reflection Rd',43.896521,-79.376814,2
-6601,'6601','Betty Roman Blvd / Woodbine Av',43.896866,-79.378459,1
+6600,'6600','Betty Roman Blvd / Reflection Rd',43.896583,-79.376758,2
+6601,'6601','Betty Roman Blvd / Woodbine Av',43.896996,-79.378487,1
 6602,'6602','Woodbine Av',43.899746,-79.377247,1
 6603,'6603','Woodbine Av / Elgin Mills Rd',43.901278,-79.377272,1
 6605,'6605','Major Mackenzie Dr / Colborne Av',43.875363,-79.418196,1
@@ -3606,7 +3606,7 @@
 6815,'6815','Markland St',43.88218,-79.37246,1
 6816,'6816','Major Mackenzie Dr E / Greenspir',43.906053,-79.282835,1
 6821,'6821','Kennedy Rd / Beckett Av',43.881422,-79.314435,2
-6822,'6822','Kennedy Rd / Wilfred Murison Av',43.884304,-79.315238,2
+6822,'6822','Kennedy Rd / Wilfred Murison Av',43.884984,-79.31543,1
 6823,'6823','Edward St',43.987513,-79.461196,2
 6824,'6824','Wellington St / John W Way',44.003147,-79.452112,2
 6825,'6825','The Queensway / Simcoe Av',44.242708,-79.470541,2
@@ -3634,7 +3634,7 @@
 6867,'6867','9th Line / Fernglen Cr',43.964805,-79.255956,1
 6868,'6868','Cornell Ctr Blvd / Morning Dove Dr',43.89788,-79.224081,2
 6869,'6869','Kennedy Rd / Beckett Av',43.882335,-79.31512,2
-6870,'6870','Kennedy Rd / Wilfred Murison Av',43.884853,-79.31597,2
+6870,'6870','Kennedy Rd / Vanderbergh Av',43.885384,-79.315923,1
 6872,'6872','S Town Ctr Blvd / Clegg Rd',43.852561,-79.338258,1
 6875,'6875','White''s Hl Av / Cornell Ctr Bl',43.896422,-79.223223,1
 6876,'6876','Cornell Ctr Av / Gas Lamp Ln',43.899053,-79.224368,1
@@ -3725,8 +3725,8 @@
 7077,'7077','Sheppard Av / Heron''s Hl Way',43.775748,-79.335693,1
 7078,'7078','Sheppard Av / Heron''s Hl Way',43.775481,-79.335479,1
 7079,'7079','Sheppard Av / Pkwy Forest Dr',43.775868,-79.342943,1
-7080,'7080','Betty Roman Blvd / Reflection Rd',43.896552,-79.377169,1
-7081,'7081','Betty Roman Blvd / Prince Regent St',43.896613,-79.373375,1
+7080,'7080','Betty Roman Blvd / Reflection Rd',43.896518,-79.377072,1
+7081,'7081','Betty Roman Blvd / Prince Regent St',43.896581,-79.373312,1
 7082,'7082','Betty Roman Blvd / Victoria Sq Blvd',43.896575,-79.370377,1
 7086,'7086','Cityview Blvd',43.848165,-79.554045,2
 7087,'7087','Chilcott Cres / Ford Wilson Blvd',44.052841,-79.497916,2

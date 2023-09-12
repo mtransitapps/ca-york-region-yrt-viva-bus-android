@@ -1574,6 +1574,7 @@
 2968,'2968','Major Mackenzie Dr / Essex Av',43.8739,-79.42471,1
 2969,'2969','Major Mackenzie Dr / Sussex Av',43.874668,-79.421289,1
 2970,'2970','Major Mackenzie Dr / Bayview Av',43.875861,-79.415815,1
+2971,'2971','Major Mackenzie Dr / Ridgecrest Rd',43.900614,-79.304959,1
 2978,'2978','Major Mackenzie Dr / Mccowan Rd',43.903353,-79.293526,1
 2979,'2979','16th Av / Alfred Paterson Dr',43.897133,-79.242724,1
 2980,'2980','16th Av / Swan Lk Blvd',43.89538,-79.250078,1
@@ -2453,6 +2454,13 @@
 4262,'4262','Yonge St / Edgar Av',43.848431,-79.432098,1
 4264,'4264','Aberdeen Av / Misty Mdw Dr',43.797446,-79.572029,1
 4265,'4265','Major Mackenzie Dr / Cedar Av',43.873121,-79.428468,1
+4266,'4266','Major Mackenzie Dr / Richard Person',43.887097,-79.361836,1
+4267,'4267','Major Mackenzie Dr / Hazelton Av',43.887448,-79.361376,1
+4268,'4268','Major Mackenzie Dr / Old 17th Av',43.890942,-79.347249,1
+4269,'4269','Major Mackenzie Dr / Warden Av',43.892157,-79.343621,1
+4270,'4270','Major Mackenzie Dr / Glenbourne Pk',43.892945,-79.340366,2
+4271,'4271','Major Mackenzie Dr / Warden Av',43.892698,-79.342026,1
+4272,'4272','Major Mackenzie Dr / Glenbourne Pk',43.892716,-79.340659,1
 4273,'4273','Edgeley Blvd / Langstaff Rd',43.810728,-79.537937,1
 4274,'4274','Aberdeen Av / Chancellor Dr',43.795499,-79.571569,1
 4275,'4275','Edgeley Blvd / Courtland Av',43.812499,-79.538582,1
@@ -2817,14 +2825,28 @@
 4786,'4786','Church St / 9th Line',43.884241,-79.235234,1
 4788,'4788','Russell Jarvis Dr / Legacy Dr',43.865519,-79.234929,1
 4789,'4789','Legacy Dr / Rouge Bank Dr',43.861862,-79.235213,1
+4793,'4793','Major Mackenzie Dr / William Berczy',43.898458,-79.314331,2
+4794,'4794','Major Mackenzie Dr / Angus Gln Blv',43.894061,-79.334108,1
 4795,'4795','Major Mackenzie Dr / Markland St',43.884904,-79.372872,1
 4796,'4796','Major Mackenzie Dr / Keele St',43.854715,-79.512653,1
+4797,'4797','Major Mackenzie Dr / Roy Rainey Av',43.905177,-79.286528,1
 4798,'4798','Major Mackenzie Dr / Kennedy Rd',43.897339,-79.319462,1
+4799,'4799','Major Mackenzie Dr / Mingay Av',43.90711,-79.278404,1
 4801,'4801','Mcnaughton Rd / Keele St',43.860881,-79.51437,1
 4802,'4802','Mcnaughton Rd / St Joan Of Arc Av',43.85999,-79.519793,2
 4803,'4803','Melville Av / Hudson Dr',43.848272,-79.531081,1
 4804,'4804','Melville Av / Hudson Dr',43.848507,-79.531342,1
+4806,'4806','Major Mackenzie Dr / Hwy 48',43.909726,-79.269161,2
+4807,'4807','Major Mackenzie Dr / Kennedy Rd',43.897781,-79.318429,1
+4808,'4808','Major Mackenzie Dr / William Berczy',43.898771,-79.313893,1
+4809,'4809','Major Mackenzie Dr / Ridgecrest Rd',43.900966,-79.30434,1
+4811,'4811','Major Mackenzie Dr / Stricker Av',43.904825,-79.288993,2
+4812,'4812','Major Mackenzie Dr / Stricker Av',43.904447,-79.289698,1
+4813,'4813','Major Mackenzie Dr / Mingay Av',43.907453,-79.277797,2
 4815,'4815','Bur Oak Av / Mt Joy GO Sta',43.900691,-79.263672,1
+4817,'4817','Major Mackenzie Dr / Markham Rd',43.909737,-79.268437,1
+4818,'4818','Major Mackenzie Dr / Ralph Chalmers',43.908408,-79.273045,1
+4819,'4819','Major Mackenzie Dr / Roy Rainey Av',43.90563,-79.285511,2
 4821,'4821','Hollandview Trl / Woodroof Cres',44.011242,-79.454141,1
 4822,'4822','Gateway Dr / Skipton Trl',44.017014,-79.455019,1
 4823,'4823','Hollandview Trl / Steckley St',44.012761,-79.454578,1
@@ -2906,6 +2928,7 @@
 4952,'4952','Pk Av / Tall Pines Trl',44.120446,-79.511199,2
 4953,'4953','Hazelton Av / Major Mackenzie Dr',43.887451,-79.361844,1
 4955,'4955','Angus Gln Blvd / Kennedy Rd',43.890999,-79.317573,1
+4956,'4956','Major Mackenzie Dr / Old 17th Av',43.890625,-79.347426,1
 4959,'4959','Weston Rd / Major Mackenzie Dr',43.844678,-79.560405,1
 4961,'4961','Main St / Botsford St',44.053179,-79.457357,1
 4962,'4962','Main St / Botsford St',44.053066,-79.457136,1
@@ -2964,6 +2987,7 @@
 5048,'5048','Major Mackenzie Dr / Forestwood St',43.878923,-79.39694,1
 5049,'5049','Major Mackenzie Dr / Leslie St',43.880199,-79.392005,1
 5050,'5050','Major Mackenzie Dr / Markland St',43.884489,-79.373531,1
+5051,'5051','Major Mackenzie Dr / Ralph Chalmers',43.908506,-79.27349,2
 5052,'5052','Major Mackenzie Dr',43.89339,-79.33719,1
 5053,'5053','Silver Linden Dr / Iron Horse Av',43.844784,-79.415174,1
 5054,'5054','Red Maple Rd / High Tech Rd',43.841393,-79.422957,1
@@ -3117,6 +3141,8 @@
 5284,'5284','Legacy Dr / Lady Fern Dr',43.863676,-79.23604,1
 5285,'5285','Participation House',43.883324,-79.23453,1
 5286,'5286','Bur Oak Av / White''s Hl Av',43.895888,-79.231421,1
+5287,'5287','Major Mackenzie Dr / The Bridle Wal',43.899471,-79.309919,2
+5288,'5288','Major Mackenzie Dr / The Bridle Wal',43.899841,-79.309346,2
 5290,'5290','Redstone Rd / Toporowski Av',43.89306,-79.40039,1
 5291,'5291','Redstone Rd / Princeton Av',43.889652,-79.400388,1
 5292,'5292','Silver Linden Dr / Grasslands Av',43.844961,-79.415382,1
@@ -3309,6 +3335,8 @@
 5642,'5642','9th Line / Hoover Pk Rd',43.962163,-79.255029,1
 5644,'5644','Larratt Ln / Canyon Crk Av',43.894823,-79.463882,2
 5645,'5645','16th Av / Williamson Rd',43.894187,-79.255162,1
+5646,'5646','Major Mackenzie Dr / Stonebridge Dr',43.901837,-79.299732,1
+5647,'5647','Major Mackenzie Dr / Stonebridge Dr',43.902149,-79.299292,2
 5648,'5648','Markham Rd',43.859262,-79.256277,2
 5653,'5653','Kingshill Rd / Newbridge Av',43.937589,-79.473005,1
 5654,'5654','Grn Ln / Leslie St',44.084112,-79.43743,2
@@ -3482,7 +3510,20 @@
 5901,'5901','Thomas Cook Av / Marc Santi Blvd',43.848925,-79.469225,1
 5902,'5902','Thomas Cook Av / Lebovic Campus Dr',43.85283,-79.46989,1
 5903,'5903','Lebovic Campus Dr / Rumsey Rd',43.853492,-79.467467,1
+5906,'5906','Major Mackenzie Dr / Donald Cousens',43.912214,-79.258547,1
+5907,'5907','Donald Cousens Pkwy / Castlemore Av',43.908562,-79.244943,1
+5908,'5908','Donald Cousens Pkwy / 9th Line',43.905131,-79.241119,1
+5909,'5909','Donald Cousens Pkwy / Country Gln Rd',43.904565,-79.235788,1
+5910,'5910','Donald Cousens Pkwy / 16th Av',43.900935,-79.218105,1
+5912,'5912','Cornell Ctr Blvd / White''s Hl Av',43.896511,-79.22374,2
 5915,'5915','William Forster Rd /Arthur Bonner A',43.882288,-79.220365,2
+5916,'5916','William Forster Rd / Hwy 7',43.881999,-79.219933,2
+5919,'5919','Cornell Ctr Blvd / White''s Hl Av',43.89717,-79.223773,1
+5920,'5920','16th Av / Cornell Rouge Blvd',43.900114,-79.220863,1
+5921,'5921','Donald Cousens Pkwy / Country Gln Rd',43.904667,-79.235346,2
+5922,'5922','Donald Cousens Pkwy / 9th Line',43.905171,-79.239865,2
+5923,'5923','Donald Cousens Pkwy / Castlemore Av',43.908125,-79.244416,1
+5924,'5924','Donald Cousens Pkwy / Major Mackenzie Dr',43.912045,-79.257492,2
 5925,'5925','Morning Dove Dr / Quail Hollow',43.89799,-79.222319,1
 5926,'5926','Morning Dove Dr / Cornell Rouge Blv',43.898265,-79.2204,1
 5927,'5927','Cornell Rouge Blvd / White''s Hl Av',43.896476,-79.219883,1
@@ -3546,6 +3587,8 @@
 6009,'6009','Snively Av / Worthington Av',43.960823,-79.441983,2
 6010,'6010','Autumn Hl Blvd / Redmond Dr',43.836394,-79.477867,1
 6011,'6011','Autumn Hl Blvd / Redmond Dr',43.836269,-79.478157,1
+6013,'6013','Harding Blvd / Brillinger St',43.866219,-79.440378,1
+6014,'6014','Harding Blvd / Brillinger St',43.866141,-79.440345,1
 6015,'6015','Wright St / Yonge St',43.877887,-79.439378,1
 6016,'6016','Worthington Av / Paradelle Dr',43.96341,-79.443442,2
 6017,'6017','Worthington Av / Bloomington Rd',43.96603,-79.441884,2
@@ -3602,6 +3645,7 @@
 6122,'6122','Bur Oak Av / Maybreeze Rd',43.902395,-79.241849,1
 6123,'6123','Castan Av / Sabiston Dr',43.859118,-79.293768,1
 6124,'6124','Castan Av / Sabiston Dr',43.859407,-79.293164,1
+6125,'6125','Harding Blvd / Kersey Cres',43.867447,-79.445492,1
 6126,'6126','Mccowan Rd',43.875043,-79.286547,1
 6127,'6127','Mccowan Rd',43.874173,-79.286102,1
 6128,'6128','The Queensway / Ravenshoe Rd',44.193407,-79.464578,1
@@ -3855,6 +3899,8 @@
 6494,'6494','Rollinghill Rd / Greenbank Dr',43.907695,-79.452194,2
 6495,'6495','Keele St',43.87788,-79.517539,1
 6498,'6498','Woodspring Av / Grn Ln W',44.06982,-79.493859,2
+6499,'6499','Donald Cousens Pkwy / Delray Dr',43.910937,-79.251047,1
+6500,'6500','Donald Cousens Pkwy / Delray Dr',43.910663,-79.251739,1
 6502,'6502','Bayview Av / Bayview Pk Ln',43.943388,-79.428498,2
 6504,'6504','Bloomfield Trl / Bloomington Rd',43.959879,-79.471171,1
 6505,'6505','Bloomfield Trl / Fern Vly Cres',43.957797,-79.469794,2
@@ -4056,6 +4102,7 @@
 6812,'6812','Leslie St',43.865758,-79.387789,2
 6813,'6813','Hwy 7 / Donald Cousens Pkwy',43.88235,-79.214597,2
 6815,'6815','Markland St',43.88218,-79.37246,1
+6816,'6816','Major Mackenzie Dr E / Greenspir',43.906053,-79.282835,1
 6820,'6820','Dunning Av',43.990875,-79.463224,2
 6821,'6821','Kennedy Rd / Beckett Av',43.881422,-79.314435,2
 6822,'6822','Kennedy Rd / Wilfred Murison Av',43.884984,-79.31543,1
@@ -4084,6 +4131,7 @@
 6865,'6865','Bathurst St / Verdi Rd',43.946924,-79.483406,2
 6866,'6866','9th Line / Fernglen Cres',43.964804,-79.255661,1
 6867,'6867','9th Line / Fernglen Cr',43.964805,-79.255956,1
+6868,'6868','Cornell Ctr Blvd / Morning Dove Dr',43.89788,-79.224081,2
 6869,'6869','Kennedy Rd / Beckett Av',43.882335,-79.31512,2
 6870,'6870','Kennedy Rd / Vanderbergh Av',43.885384,-79.315923,1
 6872,'6872','S Town Ctr Blvd / Clegg Rd',43.852561,-79.338258,1
@@ -4388,6 +4436,7 @@
 7328,'7328','Caldari Rd / Riverock Gt',43.82748,-79.529929,2
 7329,'7329','Riverock Gt / Caldari Rd',43.827745,-79.530415,2
 7330,'7330','Yonge St / Hunters Gln Rd',43.96891,-79.460094,2
+7332,'7332','Addison St / Harding Blvd',43.866432,-79.437973,2
 7333,'7333','Hopkins St / Yonge St',43.86933,-79.43751,2
 7335,'7335','Cornell Bus Term P:2',43.880689,-79.231488,1
 7336,'7336','Cornell Bus Term P:3',43.88057,-79.231434,1

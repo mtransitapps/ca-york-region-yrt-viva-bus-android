@@ -469,7 +469,7 @@
 1545,'1545','Glencove Dr / Warden Av',43.860161,-79.334075,2
 1546,'1546','9th Line / Kenilworth Gt',43.875474,-79.23386,1
 1548,'1548','9th Line / Hwy 7',43.878512,-79.234601,1
-1549,'1549','Hwy 7 / Town Ctr Blvd',43.85447,-79.339021,1
+1549,'1549','Hwy 7 / Town Ctr Blvd',43.854388,-79.339009,1
 1551,'1551','Town Ctr Blvd / Cox Blvd',43.855282,-79.339811,2
 1552,'1552','Ms Hosp',43.883218,-79.232996,1
 1553,'1553','Town Ctr Blvd / Wallis Way',43.857519,-79.339349,1
@@ -1295,7 +1295,7 @@
 2617,'2617','Yonge St / Sawmill Vly Dr',44.033086,-79.475459,1
 2619,'2619','Yonge St / St John''s Sdrd',44.01845,-79.472208,1
 2620,'2620','Yonge St',44.013564,-79.471047,1
-2622,'2622','Humberland Dr / Bathurst St',43.950797,-79.483119,2
+2622,'2622','Humberland Dr / Bathurst St',43.950797,-79.483119,1
 2637,'2637','Newbridge Av / Grand Oak Dr',43.938838,-79.469,2
 2639,'2639','Bond Cres',43.9399,-79.464484,2
 2640,'2640','Bond Cres / Littleside St',43.940642,-79.461007,2
@@ -1391,7 +1391,7 @@
 2767,'2767','Shaftsbury Av / Brookside Rd',43.895321,-79.457803,1
 2768,'2768','Shaftsbury Av / Buckhorn Av',43.893368,-79.455697,1
 2769,'2769','Shaftsbury Av / Canyon Hl Av',43.891684,-79.454339,1
-2770,'2770','Canyon Hl Av / Palomino Dr',43.892591,-79.449056,1
+2770,'2770','Canyon Hl Av / Palomino Dr',43.892868,-79.448027,1
 2771,'2771','Canyon Hl Av / Leyburn Av',43.893705,-79.445538,1
 2772,'2772','Canyon Hl Av / Yonge St',43.894677,-79.443054,1
 2773,'2773','Trench St / Richmond St',43.874279,-79.450897,2
@@ -2330,7 +2330,7 @@
 4057,'4057','Thornlodge Dr / Crittenden Dr',44.197414,-79.458649,1
 4058,'4058','Thornlodge Dr / Ravenshoe Rd',44.194985,-79.457637,2
 4059,'4059','Ravenshoe Rd / Laurendale Av',44.194318,-79.460238,2
-4060,'4060','Ravenshoe Rd / The Queensway',44.193456,-79.464175,2
+4060,'4060','Ravenshoe Rd / The Queensway',44.193456,-79.464175,1
 4061,'4061','The Queensway / Brecken Dr',44.195363,-79.464685,1
 4062,'4062','The Queensway / Joe Dales Dr',44.198763,-79.465477,2
 4063,'4063','The Queensway / Walter Dr',44.20179,-79.466329,2
@@ -2342,7 +2342,7 @@
 4075,'4075','The Queensway / Riverglen Dr',44.225852,-79.464237,1
 4079,'4079','Simcoe Av / Metro Rd',44.241546,-79.474026,1
 4080,'4080','Simcoe Av',44.242134,-79.472568,1
-4097,'4097','Biscayne Blvd / Oakmeadow Blvd',44.222799,-79.454328,2
+4097,'4097','Biscayne Blvd / Oakmeadow Blvd',44.222799,-79.454328,1
 4098,'4098','Biscayne Blvd / Bessborough Rd',44.222917,-79.458958,1
 4099,'4099','Biscayne Blvd / Bessborough Rd',44.222849,-79.459018,2
 4100,'4100','Biscayne Blvd / Hodgins Av',44.22367,-79.46223,2
@@ -2353,7 +2353,7 @@
 4105,'4105','The Queensway / Mels Ln',44.240644,-79.465666,1
 4106,'4106','The Queensway / Cedar St',44.241708,-79.468331,2
 4107,'4107','Simcoe Av',44.242209,-79.472934,1
-4108,'4108','Simcoe Av / Metro Rd',44.241228,-79.474627,1
+4108,'4108','Simcoe Av / Metro Rd',44.241507,-79.474317,1
 4109,'4109','Metro Rd / Church St',44.242622,-79.476357,1
 4110,'4110','Metro Rd / Nida Dr',44.246126,-79.480603,2
 4113,'4113','Metro Rd / Ferncroft Dr',44.253436,-79.485724,2
@@ -2395,7 +2395,7 @@
 4161,'4161','Hwy 7 / S Pk Rd',43.840513,-79.398532,1
 4162,'4162','Hwy 7 / Pond Dr',43.842582,-79.3896,1
 4163,'4163','Hwy 7 / Cochrane Dr',43.848961,-79.361786,1
-4164,'4164','Hwy 7 / Rodick Rd',43.852304,-79.346435,2
+4164,'4164','Hwy 7 / Rodick Rd',43.852215,-79.346305,2
 4166,'4166','Hwy 7 / Verclaire Gt',43.856665,-79.329443,2
 4167,'4167','Hwy 7 / Vlg Pkwy',43.857719,-79.324775,2
 4171,'4171','Unionville GO Sta P:5',43.852154,-79.313954,1
@@ -2962,7 +2962,7 @@
 5013,'5013','Stonehaven Av / Best Cir',44.035753,-79.438468,1
 5014,'5014','Stonehaven Av / Lockwood Cir',44.035932,-79.435627,2
 5015,'5015','Stonehaven Av / Lockwood Cir',44.036012,-79.430333,1
-5016,'5016','Stonehaven Av / Leslie St',44.037166,-79.425749,2
+5016,'5016','Stonehaven Av / Leslie St',44.037166,-79.425749,1
 5017,'5017','Mulock Dr / Yonge St',44.036404,-79.474977,1
 5018,'5018','Eagle St / Donlin Av',44.046469,-79.47375,2
 5019,'5019','Eagle St / William St',44.050028,-79.457251,2
@@ -3188,7 +3188,7 @@
 5361,'5361','Biscayne Blvd / Hodgins Av',44.223566,-79.462592,2
 5362,'5362','Biscayne Blvd / Oakmeadow Blvd',44.222855,-79.453659,2
 5363,'5363','Biscayne Blvd / Roselm Av',44.223328,-79.451599,2
-5364,'5364','Biscayne Blvd / Woodbine Av',44.225064,-79.447067,2
+5364,'5364','Biscayne Blvd / Woodbine Av',44.225064,-79.447067,1
 5365,'5365','Woodbine Av / Riverglen Dr',44.228758,-79.447279,1
 5366,'5366','Woodbine Av / Arlington Dr',44.234018,-79.448582,2
 5367,'5367','Woodbine Av / Pollock Rd',44.236411,-79.449232,1
@@ -3554,8 +3554,8 @@
 5956,'5956','Jane St / Avro Rd',43.845875,-79.535722,1
 5958,'5958','Kennedy Rd / Angus Gln Blvd',43.891357,-79.317227,2
 5961,'5961','Main St / Mkt St',43.971241,-79.247062,1
-5963,'5963','Srigley St / Crusader Way',44.057857,-79.441008,2
-5966,'5966','Srigley St / Orsi Dr',44.058089,-79.440337,2
+5963,'5963','Srigley St / Crusader Way',44.057857,-79.441008,1
+5966,'5966','Srigley St / Orsi Dr',44.058089,-79.440337,1
 5974,'5974','Maple Sugar Lan / Pleasant Rdg Av',43.825685,-79.472772,1
 5975,'5975','Markham Rd',43.838002,-79.25111,1
 5976,'5976','Unionville Gt / Main St Unionvill',43.85615,-79.307873,2
@@ -3606,7 +3606,7 @@
 6029,'6029','S Unionville Av / Piera Gdns',43.860587,-79.289073,1
 6030,'6030','Harry Cook Dr / S Unionville Av',43.856767,-79.29712,1
 6031,'6031','S Unionville Av / Ray St',43.856013,-79.299866,1
-6032,'6032','Greenwater Gt / Helen Av',43.854657,-79.30159,2
+6032,'6032','Greenwater Gt / Helen Av',43.854657,-79.30159,1
 6049,'6049','Bur Oak Av / Mingay Av',43.898527,-79.275835,2
 6056,'6056','Ilan Ramon Blvd / Gesher Cres',43.857284,-79.465819,1
 6057,'6057','Ilan Ramon Blvd / Vly Vista Dr',43.860607,-79.46595,1
@@ -3890,7 +3890,7 @@
 6485,'6485','Metro Rd / Elmwood Rd',44.30351,-79.459257,2
 6486,'6486','Metro Rd / Elmwood Rd',44.303924,-79.45894,2
 6487,'6487','Metro Rd / Sheppard Av',44.298819,-79.47074,2
-6488,'6488','Hwy 7 / Town Ctr Blvd',43.853924,-79.339599,1
+6488,'6488','Hwy 7 / Town Ctr Blvd',43.853825,-79.339497,1
 6489,'6489','Metro Rd / Medina Dr',44.244704,-79.479096,2
 6490,'6490','Metro Rd / Medina Dr',44.244458,-79.478584,2
 6491,'6491','Metro Rd / 3rd Av',44.311217,-79.421921,2
@@ -3918,7 +3918,7 @@
 6550,'6550','Kenilworth Gt / Michelina Ter',43.876962,-79.227385,2
 6551,'6551','Kenilworth Gt / The Barley Lea St',43.87603,-79.231658,2
 6554,'6554','Copper Crk Dr',43.867323,-79.228283,2
-6560,'6560','Sunset Beach Rd / Bayview Pk Ln',43.946053,-79.431386,2
+6560,'6560','Sunset Beach Rd / Bayview Pk Ln',43.946053,-79.431386,1
 6561,'6561','9th Line / Church St',43.884493,-79.236317,2
 6562,'6562','Keele St / King Rd',43.928413,-79.528048,2
 6564,'6564','Kirby Rd / Ravineview Dr',43.893688,-79.512896,1
@@ -4164,7 +4164,7 @@
 6911,'6911','Stanton Av / Virtue Cres',43.852527,-79.571482,2
 6914,'6914','Stanton Av / Trammel Dr',43.853979,-79.566892,2
 6916,'6916','Stanton Av / Weston Rd',43.855378,-79.563308,2
-6924,'6924','Town Ctr Blvd / Hwy 7',43.854009,-79.339064,1
+6924,'6924','Town Ctr Blvd / Hwy 7',43.85381,-79.338819,1
 6925,'6925','Millard St / Azimuth Ln',43.971364,-79.271145,1
 6926,'6926','Millard St / Winlane Dr',43.973048,-79.267602,2
 6927,'6927','Millard St / Waite Cres',43.97447,-79.263129,1
@@ -4323,7 +4323,7 @@
 7149,'7149','Mt Albert Rd / Countryman Rd',44.10504,-79.446499,2
 7157,'7157','9th Line / 14th Av',43.85942,-79.229979,2
 7159,'7159','Edgley Blvd / Applewood Cres',43.808073,-79.536571,2
-7160,'7160','Edgeley Blvd / Cidermill Av',43.804687,-79.535578,2
+7160,'7160','Edgeley Blvd / Cidermill Av',43.805166,-79.535689,1
 7161,'7161','Edgeley Blvd / Pennsylvania Av',43.802218,-79.534909,2
 7162,'7162','Edgeley Blvd',43.800035,-79.534043,2
 7170,'7170','Dufferin St / Steeles Av',43.786727,-79.470257,2
@@ -4532,8 +4532,8 @@
 9737,'9737','Hwy 7 / Woodbine',43.849739,-79.358978,1
 9738,'9738','Hwy 7 / Montgomery',43.851287,-79.35123,1
 9739,'9739','Hwy 7 / Montgomery',43.851056,-79.352725,1
-9740,'9740','Hwy 7 / Town Ctr',43.853904,-79.339901,1
-9741,'9741','Hwy 7 / Town Ctr',43.853972,-79.339945,1
+9740,'9740','Hwy 7 / Town Ctr',43.853934,-79.339783,1
+9741,'9741','Hwy 7 / Town Ctr',43.853922,-79.340128,1
 9742,'9742','Enterprise Blvd / Warden Av',43.848886,-79.331141,1
 9743,'9743','Enterprise Blvd / Warden Av',43.848882,-79.331565,1
 9744,'9744','University Blvd / Ymca Blvd',43.853503,-79.311311,1

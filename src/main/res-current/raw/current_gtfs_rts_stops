@@ -3278,7 +3278,6 @@
 5490,'5490','16th Av / Cornell Ctr Blvd',43.899332,-79.224785,2
 5491,'5491','White''s Hl Av / Cornwall Dr',43.896419,-79.224403,1
 5492,'5492','White''s Hl Av / Bittersweet St',43.89606,-79.227667,1
-5493,'5493','Victoria Sq Blvd / Stony Hl B',43.896535,-79.369758,1
 5494,'5494','Stony Hl Blvd / Hazelton Av',43.896972,-79.367871,1
 5495,'5495','Hazelton Av / Vine Clf Blvd',43.894185,-79.366251,1
 5497,'5497','Leslie St',44.131921,-79.448845,1
@@ -4176,7 +4175,6 @@
 6933,'6933','Main St / Donna Lee Tr',43.97616,-79.225119,2
 6934,'6934','Main St / Donna Lee Tr',43.976389,-79.224907,2
 6935,'6935','York Durham Line / Hoover Pk Dr',43.971178,-79.220546,1
-6936,'6936','Hoover Pk Dr / York Durham Line',43.970796,-79.220222,1
 6937,'6937','Hoover Pk Dr / Philip Brown Av',43.969982,-79.223907,1
 6938,'6938','Hoover Pk Dr / Philip Brown Av',43.969704,-79.224079,1
 6939,'6939','Hoover Pk Dr / Greenforest Gr',43.968553,-79.226988,2
@@ -4188,7 +4186,6 @@
 6945,'6945','Riverwalk Dr / Caprara Cr',43.857421,-79.222375,2
 6946,'6946','Riverwalk Dr / Barter St',43.856733,-79.225124,2
 6947,'6947','Riverwalk Dr / 9th Line',43.855739,-79.228948,2
-6948,'6948','Tenth Line / Hemlock Dr',43.980441,-79.232603,2
 6951,'6951','Humber College',43.729119,-79.604677,1
 6952,'6952','Napa Vly Av / Islington Av',43.825882,-79.610178,1
 6953,'6953','Napa Vly Av / Forest Fountain Dr',43.824491,-79.613132,2
@@ -4460,6 +4457,7 @@
 7361,'7361','Major Mackenzie W Term P:6',43.847623,-79.540164,1
 7362,'7362','Major Mackenzie W Term P:7',43.847476,-79.540468,1
 7363,'7363','Major Mackenzie W Term P:8',43.847416,-79.540771,1
+7367,'7367','Major Mackenzie W Term P:12',43.847462,-79.541383,1
 7368,'7368','Rutherford Rd',43.838986,-79.499936,1
 7369,'7369','14th Av / Box Grv Bypass',43.861102,-79.223979,1
 7370,'7370','Copper Crk Dr / Boswell Rd',43.869773,-79.224816,1

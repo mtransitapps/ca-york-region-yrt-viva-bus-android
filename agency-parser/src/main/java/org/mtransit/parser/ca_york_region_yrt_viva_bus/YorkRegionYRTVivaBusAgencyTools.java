@@ -20,7 +20,7 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 // https://www.yrt.ca/en/about-us/open-data.aspx
-// https://www.yrt.ca/google/google_transit.zip
+// https://dashboard.transitapp.com/api/alerts/alerts.pb?feed_ids=23
 public class YorkRegionYRTVivaBusAgencyTools extends DefaultAgencyTools {
 
 	public static void main(@NotNull String[] args) {

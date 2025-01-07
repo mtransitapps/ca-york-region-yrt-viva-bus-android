@@ -9,7 +9,7 @@
 500,0,'EB-Finch GO Bus Term',5
 501,0,'WB-Gln Shields Ave',5
 700,0,'NB-Al Palladini CC',7
-701,0,'SB-Steeles Ave',7
+701,0,'SB-Woodbine Ctr',7
 800,0,'NB-Major Mackenzie Dr',8
 801,0,'SB-Harvest Moon Dr',8
 900,0,'NB-Stouffville',9
@@ -110,6 +110,103 @@
 36100,0,'NB-Major Mackenzie Dr',361
 36101,0,'SB-Hwy 407 Term',361
 39101,0,'SB-Finch GO Bus Term',391
+40101,0,'AF-St Brother Andre S',401
+40100,0,'MO-St Brother Andre S',401
+40201,0,'AF-Bur Oak / Pierre Elliott Trudeau S',402
+40200,0,'MO-Bur Oak / Pierre Elliott Trudeau S',402
+40301,0,'AF-St Brother Andre S',403
+40300,0,'MO-St Brother Andre S',403
+40401,0,'AF-Markville S',404
+40400,0,'MO-Markville S',404
+40501,0,'AF-St Augustine S',405
+40500,0,'MO-St Augustine S',405
+40601,0,'AF-Markham District S',406
+40600,0,'MO-Markham District S',406
+40801,0,'AF-Our Lady Queen Of The World S',408
+41001,0,'AF-Markham District S',410
+41000,0,'MO-Markham District S',410
+41101,0,'AF-Markham District S',411
+41100,0,'MO-Markham District S',411
+41201,0,'AF-Thornlea S',412
+41301,0,'AF-St Robert S',413
+41300,0,'MO-St Robert S',413
+41401,0,'AF-St Katharine Drexel S',414
+41400,0,'MO-St Katharine Drexel S',414
+41501,0,'AF-Stouffville District S',415
+41500,0,'MO-Stouffville District S',415
+41601,0,'AF-Markham District S',416
+41600,0,'MO-Markham District S',416
+41701,0,'AF-Bill Hogarth S',417
+41700,0,'MO-Bill Hogarth S',417
+41801,0,'AF-Pierre Elliott Trudeau S',418
+41800,0,'MO-Pierre Elliott Trudeau S',418
+42001,0,'AF-Newmarket S',420
+42000,0,'MO-Newmarket S',420
+42301,0,'AF-Newmarket S',423
+42300,0,'MO-Newmarket S',423
+42401,0,'AF-Keswick S',424
+42400,0,'MO-Keswick S',424
+42501,0,'AF-Huron Hts S',425
+42500,0,'MO-Huron Hts S',425
+42601,0,'AF-Dr GW Williams S',426
+42600,0,'MO-Dr GW Williams S',426
+42701,0,'AF-Sacred Heart S',427
+42700,0,'MO-Sacred Heart S',427
+42801,0,'AF-Dr GW Williams S',428
+42901,0,'AF-Cardinal Carter / Aurora S',429
+42900,0,'MO-Cardinal Carter / Aurora S',429
+43001,0,'AF-Sacred Heart S',430
+43000,0,'MO-Sacred Heart S',430
+43201,0,'AF-Aurora S',432
+43200,0,'MO-Aurora S',432
+43301,0,'AF-Cardinal Carter S',433
+43300,0,'MO-Cardinal Carter S',433
+43401,0,'AF-Cardinal Carter S',434
+43400,0,'MO-Cardinal Carter S',434
+43601,0,'AF-Cardinal Carter S',436
+43600,0,'MO-Cardinal Carter S',436
+43701,0,'AF-St Maximilian Kolbe S',437
+43700,0,'MO-St Maximilian Kolbe S',437
+44001,0,'AF-St Theresa S',440
+44000,0,'MO-St Theresa S',440
+44201,0,'AF-Richmond Hl S',442
+44301,0,'AF-Langstaff S',443
+44300,0,'MO-Langstaff S',443
+44401,0,'AF-Langstaff S',444
+44400,0,'MO-Langstaff S',444
+44501,0,'AF-St Robert S',445
+44601,0,'AF-St Theresa S',446
+44600,0,'MO-St Theresa S',446
+44701,0,'AF-St Theresa S',447
+44700,0,'MO-St Theresa S',447
+44801,0,'AF-Richmond Hl S',448
+44800,0,'MO-Richmond Hl S',448
+44901,0,'AF-Richmond Grn S',449
+44900,0,'MO-Richmond Grn S',449
+45001,0,'AF-St Theresa S',450
+45000,0,'MO-St Theresa S',450
+45201,0,'AF-Richmond Grn S',452
+45200,0,'MO-Richmond Grn S',452
+46001,0,'AF-Holy Cross S',460
+46101,0,'AF-Emily Carr S',461
+46100,0,'MO-Emily Carr S',461
+46201,0,'AF-Maple S',462
+46200,0,'MO-Maple S',462
+46401,0,'AF-St Joan Of Arc S',464
+46400,0,'MO-St Joan Of Arc S',464
+46501,0,'AF-St Joan Of Arc S',465
+46500,0,'MO-St Joan Of Arc S',465
+46601,0,'AF-Tommy Douglas S',466
+46600,0,'MO-Tommy Douglas S',466
+46701,0,'AF-Tommy Douglas S',467
+46801,0,'AF-Emily Carr S',468
+46800,0,'MO-Emily Carr S',468
+46901,0,'AF-Father Bressani S',469
+47001,0,'AF-Westmount S',470
+47000,0,'MO-Westmount S',470
+47101,0,'AF-Stephen Lewis S',471
+47301,0,'AF-Stephen Lewis S',473
+47300,0,'MO-Stephen Lewis S',473
 52200,0,'EB-Cornell Bus Term',522
 52201,0,'WB-Hagerman''s Corners',522
 60100,0,'NB-Newmarket Term',601

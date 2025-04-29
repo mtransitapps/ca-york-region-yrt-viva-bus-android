@@ -9,7 +9,7 @@
 500,0,'EB-Finch GO Bus Term',5
 501,0,'WB-Gln Shields Ave',5
 700,0,'NB-Al Palladini CC',7
-701,0,'SB-Woodbine Ctr',7
+701,0,'SB-Humber College',7
 800,0,'NB-Major Mackenzie Dr',8
 801,0,'SB-Harvest Moon Dr',8
 900,0,'NB-Stouffville',9
@@ -42,7 +42,7 @@
 3201,0,'SB-Bathurst St',32
 3300,0,'NB-Hwy 404 P&R',33
 3301,0,'SB-McDonald Dr',33
-4000,0,'Unionville Local',40
+4000,0,'Unionville',40
 4400,0,'Bristol',44
 5000,0,'NB-Sutton',50
 5001,0,'SB-Newmarket Term',50

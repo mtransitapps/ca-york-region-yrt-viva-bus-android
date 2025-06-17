@@ -3890,7 +3890,7 @@
 6512,'6512','Rodick Rd / Woodbine Av',43.87682,-79.36400,1,1661216
 6540,'6540','Tower Hl Rd / Selwyn Rd',43.91413,-79.46887,1,1661307
 6541,'6541','Tower Hl Rd / Selwyn Rd',43.91390,-79.46994,1,1661308
-6548,'6548','Bayview Av / Forest Rdg Rd',43.92567,-79.42761,1,1661315
+6548,'6548','Bayview Av / Forest Rdg Rd',43.92567,-79.42761,2,1661315
 6549,'6549','Bayview Av / Forest Rdg Rd',43.92523,-79.42731,1,1661316
 6550,'6550','Kenilworth Gt / Michelina Ter',43.87696,-79.22739,2,1661338
 6551,'6551','Kenilworth Gt / The Barley Lea St',43.87603,-79.23166,1,1661339
@@ -4043,7 +4043,7 @@
 6767,'6767','Caldari Rd / Graniteridge Rd',43.82563,-79.52976,2,1663298
 6768,'6768','Caldari Rd / Graniteridge Rd',43.82552,-79.52997,1,1663299
 6769,'6769','Bayview Av / Summit Trl Dr',43.91733,-79.42553,1,1663300
-6770,'6770','Bayview Av / Summit Trl',43.91786,-79.42590,1,1663322
+6770,'6770','Bayview Av / Summit Trl',43.91786,-79.42590,2,1663322
 6773,'6773','Zenway Blvd / Vaughan Vly Blvd',43.77694,-79.62780,1,1663325
 6774,'6774','Zenway Blvd',43.77684,-79.63030,1,1663326
 6775,'6775','Zenway Blvd / New Enterprise Way',43.77558,-79.63949,1,1663327

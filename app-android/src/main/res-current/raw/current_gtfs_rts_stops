@@ -1582,7 +1582,7 @@
 3209,'3209','Hillmount Rd',43.87563,-79.37414,1,1568936
 3210,'3210','Hillmount Rd / Markland St',43.87585,-79.37227,2,1568958
 3211,'3211','Renfrew Dr / Hooper Rd',43.85842,-79.36247,2,1568959
-3212,'3212','Renfrew Dr / Valleywood Dr',43.85643,-79.36169,1,1568960
+3212,'3212','Renfrew Dr / Valleywood Dr',43.85643,-79.36169,2,1568960
 3213,'3213','Valleywood Dr / Allstate Pkwy',43.85415,-79.36698,1,1568961
 3214,'3214','Allstate Pkwy / Centurian Dr',43.85184,-79.36710,1,1568962
 3215,'3215','E Valhalla Dr / Hwy 7',43.84781,-79.36419,1,1568963
@@ -3649,7 +3649,7 @@
 6831,'6831','Angus Gln Blvd / Stollery Pond CREs',43.89316,-79.33363,2,1664160
 6832,'6832','Angus Gln Blvd / Stollery Pond Cres',43.89303,-79.33352,1,1664161
 6833,'6833','Angus Gln Blvd / Stollery Pond Cres',43.89059,-79.33366,1,1664162
-6834,'6834','Angus Gln Blvd / Stollery Pond Cres',43.89044,-79.33351,1,1664163
+6834,'6834','Angus Gln Blvd / Stollery Pond Cres',43.89036,-79.33348,1,1664163
 6835,'6835','Angus Gln Blvd / Glengordon Cres',43.88914,-79.33417,2,1664164
 6836,'6836','Angus Gln Blvd / Glengordon Cres',43.88916,-79.33400,2,1664165
 6837,'6837','Angus Gln Blvd / Royal County Down Cres',43.88706,-79.33340,2,1664166
@@ -3700,9 +3700,9 @@
 6916,'6916','Stanton Av / Weston Rd',43.85538,-79.56331,1,1665064
 6924,'6924','Town Ctr Blvd / Hwy 7',43.85381,-79.33882,1,1665093
 6925,'6925','Millard St / Azimuth Ln',43.97136,-79.27115,1,1665094
-6926,'6926','Millard St / Winlane Dr',43.97305,-79.26760,1,1665095
+6926,'6926','Millard St / Winlane Dr',43.97298,-79.26764,1,1665095
 6927,'6927','Millard St / Waite Cres',43.97447,-79.26313,1,1665096
-6928,'6928','Millard St / Glad Pk Av',43.97509,-79.25950,1,1665097
+6928,'6928','Millard St / Glad Pk Av',43.97512,-79.25951,1,1665097
 6929,'6929','Millard St / Baker Hl Blvd',43.97021,-79.27541,1,1665098
 6945,'6945','Riverwalk Dr / Caprara Cr',43.85742,-79.22238,2,1665156
 6946,'6946','Riverwalk Dr / Barter St',43.85673,-79.22512,1,1665157
@@ -3873,7 +3873,7 @@
 7267,'7267','Jane St / Frederick Banting St',43.85165,-79.53727,1,1688284
 7273,'7273','Tenth Line / Hoover Pk Dr',43.96860,-79.23051,1,1688311
 7274,'7274','Tenth Line / Katherine Cr',43.97095,-79.23108,1,1688312
-7275,'7275','Main St',43.97452,-79.23289,2,1688313
+7275,'7275','Main St',43.97455,-79.23293,2,1688313
 7276,'7276','Main St / Stouffer St',43.97340,-79.23803,1,1688314
 7277,'7277','Baker Hl Blvd / Millard St',43.96949,-79.27574,1,1688315
 7278,'7278','Hoover Pk Dr / Sandiford Dr',43.95970,-79.26633,1,1688316

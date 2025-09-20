@@ -4,7 +4,6 @@
     <string name="gtfs_real_time_for_poi_authority">@string/gtfs_rts_authority</string>
     <bool name="gtfs_real_time_stop_id_is_stop_code">false</bool>
     <string name="gtfs_real_time_agency_service_alerts_url">http://rtu.york.ca/gtfsrealtime/ServiceAlerts</string>
-    <string name="gtfs_real_time_agency_id">YRT</string>
     <string name="gtfs_real_time_agency_bold_words" />
     <string name="gtfs_real_time_agency_time_regex" />
     <string name="gtfs_real_time_agency_time_hour_format" />

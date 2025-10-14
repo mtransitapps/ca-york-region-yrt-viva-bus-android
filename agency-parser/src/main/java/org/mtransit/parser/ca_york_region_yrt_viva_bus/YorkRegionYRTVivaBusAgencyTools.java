@@ -33,11 +33,6 @@ public class YorkRegionYRTVivaBusAgencyTools extends DefaultAgencyTools {
 		return LANG_EN;
 	}
 
-	@Override
-	public boolean defaultExcludeEnabled() {
-		return true;
-	}
-
 	@NotNull
 	@Override
 	public String getAgencyName() {
@@ -80,7 +75,7 @@ public class YorkRegionYRTVivaBusAgencyTools extends DefaultAgencyTools {
 	@Override
 	public String cleanRouteShortName(@NotNull String routeShortName) {
 		routeShortName = REMOVE_LEADING_ZEROS.matcher(routeShortName).replaceAll(EMPTY);
-		routeShortName = CleanUtils.cleanLabel(routeShortName); // viva -> Viva
+		routeShortName = CleanUtils.cleanLabel(getFirstLanguageNN(), routeShortName); // viva -> Viva
 		return super.cleanRouteShortName(routeShortName);
 	}
 
@@ -99,7 +94,7 @@ public class YorkRegionYRTVivaBusAgencyTools extends DefaultAgencyTools {
 		routeLongName = SS.matcher(routeLongName).replaceAll(SS_REPLACEMENT);
 		routeLongName = CleanUtils.cleanSlashes(routeLongName);
 		routeLongName = CleanUtils.cleanStreetTypes(routeLongName);
-		return CleanUtils.cleanLabel(routeLongName);
+		return CleanUtils.cleanLabel(getFirstLanguageNN(), routeLongName);
 	}
 
 	@Override
@@ -118,8 +113,7 @@ public class YorkRegionYRTVivaBusAgencyTools extends DefaultAgencyTools {
 	@NotNull
 	@Override
 	public String cleanStopOriginalId(@NotNull String gStopId) {
-		gStopId = CleanUtils.cleanMergedID(gStopId);
-		return gStopId;
+		return CleanUtils.cleanMergedID(gStopId);
 	}
 
 	@Override
@@ -144,7 +138,7 @@ public class YorkRegionYRTVivaBusAgencyTools extends DefaultAgencyTools {
 		return OneBusAwayProviderCommons.cleanTripHeadsign(tripHeadsign, getIgnoredWords());
 	}
 
-	private static final Pattern REMOVE_STOP_CODE_ = Pattern.compile("( stop[\\W]*#[\\W]*[0-9]{1,4})", Pattern.CASE_INSENSITIVE);
+	private static final Pattern REMOVE_STOP_CODE_ = Pattern.compile("( stop\\W*#\\W*[0-9]{1,4})", Pattern.CASE_INSENSITIVE);
 	private static final String REMOVE_STOP_CODE_REPLACEMENT = "";
 
 	private String[] getIgnoredWords() {
@@ -165,12 +159,12 @@ public class YorkRegionYRTVivaBusAgencyTools extends DefaultAgencyTools {
 		gStopName = CleanUtils.cleanStreetTypes(gStopName);
 		gStopName = CleanUtils.cleanBounds(gStopName);
 		gStopName = CleanUtils.cleanNumbers(gStopName);
-		return CleanUtils.cleanLabel(gStopName);
+		return CleanUtils.cleanLabel(getFirstLanguageNN(), gStopName);
 	}
 
 	@Override
 	public int getStopId(@NotNull GStop gStop) {
-		//noinspection deprecation
+		//noinspection DiscouragedApi
 		final String stopId = gStop.getStopId();
 		if (!CharUtils.isDigitsOnly(stopId)) {
 			final Matcher matcher = DIGITS.matcher(stopId);

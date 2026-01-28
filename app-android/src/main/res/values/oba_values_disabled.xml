@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation,UnusedResources">
+    <!-- DISABLED because York Region is not using OneBusAway but custom GraphQL -->
     <integer name="one_bus_away_db_version">1</integer>
     <string name="one_bus_away_for_poi_authority">@string/gtfs_rts_authority</string>
     <string name="one_bus_away_prediction_url_and_stop_tag_and_api_key">https://oba.yrt.ca/api/where/arrivals-and-departures-for-stop/YRT_%1$s.json?minutesAfter=720&amp;minutesBefore=60&amp;key=%2$s</string>

@@ -39,6 +39,11 @@ public class YorkRegionYRTVivaBusAgencyTools extends DefaultAgencyTools {
 		return "YRT Viva";
 	}
 
+	@Override
+    public @Nullable String getServiceIdCleanupRegex() {
+        return "^\\d+\\.\\d+\\.";
+    }
+
 	@NotNull
 	@Override
 	public Integer getAgencyRouteType() {

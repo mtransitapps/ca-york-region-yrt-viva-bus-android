@@ -41,7 +41,7 @@ public class YorkRegionYRTVivaBusAgencyTools extends DefaultAgencyTools {
 
 	@Override
     public @Nullable String getServiceIdCleanupRegex() {
-        return "^\\d+\\.\\d+\\.";
+        return "^\\d+\\.(0\\.)?";
     }
 
 	@NotNull

@@ -1,19 +1,19 @@
 100,0,'EB-Cornell Bus Term',1
 101,0,'WB-Richmond Hl Ctr Term',1
-200,0,'EB-Cornell Bus Term',2
-201,0,'WB-Finch GO Bus Term',2
-300,0,'EB-Drop Off Only',3
-301,0,'WB-Pioneer Vlg Term',3
+200,0,'EB-Cornell Bus Term / EB-Markham Rd',2
+201,0,'WB-Finch GO Bus Term / WB-Middlefield Rd',2
+300,0,'EB-Drop Off Only / EB-Shops On Steeles & 404',3
+301,0,'WB-Pioneer Vlg Term / WB-Yonge St',3
 400,0,'EB-Woodbine Ave',4
 401,0,'WB-Major Mackenzie W Term',4
 500,0,'EB-Finch GO Bus Term',5
-501,0,'WB-Gln Shields Ave',5
+501,0,'WB-Drop Off Only / WB-Gln Shields Ave',5
 600,0,'EB-Major Mackenzie W Term',6
-601,0,'WB-Mactier Dr',6
+601,0,'WB-Barons St / WB-Mactier Dr',6
 700,0,'NB-Al Palladini CC',7
 701,0,'SB-Humber College',7
 800,0,'NB-Major Mackenzie Dr',8
-801,0,'SB-Harvest Moon Dr',8
+801,0,'SB-Harvest Moon Dr / SB-Steeles Ave',8
 900,0,'NB-Stouffville',9
 901,0,'SB-14th Ave',9
 1000,0,'EB-SmartVMC Bus Term',10
@@ -40,8 +40,8 @@
 2501,0,'WB-Harding Blvd',25
 2600,0,'NB-Maple GO Sta',26
 2601,0,'SB-SmartVMC Bus Term',26
-3200,0,'NB-Stone Rd',32
-3201,0,'SB-Bathurst St',32
+3200,0,'NB-Henderson Dr / NB-Stone Rd',32
+3201,0,'SB-Bathurst St / SB-Stone Rd',32
 3300,0,'NB-Hwy 404 P&R',33
 3301,0,'SB-McDonald Dr',33
 4000,0,'Unionville',40
@@ -66,8 +66,8 @@
 8101,0,'AF-Jefferson Sideroad',81
 8100,0,'MO-Bernard Term',81
 8200,0,'NB-Elgin Mills Rd',82
-8201,0,'SB-Commerce Vly Dr',82
-8300,0,'NB-Richmond Hl HS',83
+8201,0,'SB-Commerce Vly Dr / SB-St Robert Catholic HS',82
+8300,0,'NB-Bernard Term / NB-Richmond Hl HS',83
 8301,0,'SB-Richmond Hl Ctr Term',83
 8500,0,'EB-Leslie St',85
 8501,0,'WB-Napa Vly Dr',85
@@ -87,10 +87,10 @@
 9801,0,'SB-Bernard Term',98
 9900,0,'NB-Bernard Term',99
 9901,0,'SB-Finch GO Bus Term',99
-10500,0,'NB-Major Mackenzie Dr',105
-10501,0,'SB-Sheppard W Sta',105
+10500,0,'NB-Dufferin Drop Off Only / NB-Major Mackenzie Dr / NB-Rutherford Rd',105
+10501,0,'SB-Confederation Pkwy / SB-Sheppard W Sta',105
 10700,0,'NB-Teston Rd',107
-10701,0,'SB-Pioneer Vlg Term',107
+10701,0,'SB-Drummond Dr / SB-Pioneer Vlg Term',107
 16500,0,'NB-Major Mackenzie W Term',165
 16501,0,'SB-Pioneer Vlg Term',165
 30001,0,'AF-Finch GO Bus Term',300
@@ -223,11 +223,11 @@
 60701,0,'WB-Newmarket Term',607
 830100,0,'NB-Richmond Grn SS',8301
 830101,0,'SB-Hillcrest Mall',8301
-900200,0,'NB-Beaver Crk Business Pk',9002
+900200,0,'NB-Beaver Crk Business Pk / NB-Hwy 7',9002
 900201,0,'SB-Don Mills Sta',9002
 910200,0,'NB-Oak Rdgs',9102
 910201,0,'SB-Richmond Hl Ctr Term',9102
-989900,0,'NB-Grn Ln',9899
+989900,0,'NB-Grn Ln / NB-Newmarket Term',9899
 989901,0,'SB-Finch GO Bus Term',9899
 1070200,0,'NB-Rutherford GO Sta',10702
 1070201,0,'SB-Pioneer Vlg Term',10702

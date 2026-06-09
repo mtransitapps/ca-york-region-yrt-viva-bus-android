@@ -42,7 +42,7 @@
 2601,0,'SB-SmartVMC Bus Term',26
 3200,0,'NB-Stone Rd',32
 3201,0,'SB-Bathurst St',32
-3300,0,'NB-Hwy 404 P&r',33
+3300,0,'NB-Hwy 404 P&R',33
 3301,0,'SB-McDonald Dr',33
 4000,0,'Unionville',40
 4400,0,'Bristol',44
@@ -53,7 +53,7 @@
 5201,0,'SB-Newmarket Term',52
 5400,0,'NB-E Gwillimbury GO Sta',54
 5401,0,'SB-Yonge St',54
-5500,0,'EB-Hwy 404 P&r',55
+5500,0,'EB-Hwy 404 P&R',55
 5501,0,'WB-Newmarket Term',55
 5600,0,'EB-404 Town Ctr',56
 5601,0,'WB-Newmarket Term',56
@@ -219,7 +219,7 @@
 60301,0,'WB-Richmond Hl Ctr',603
 60500,0,'EB-Richmond Hl Ctr Term',605
 60501,0,'WB-Martin Grv Rd',605
-60700,0,'EB-Hwy 404 P&r',607
+60700,0,'EB-Hwy 404 P&R',607
 60701,0,'WB-Newmarket Term',607
 830100,0,'NB-Richmond Grn Ss',8301
 830101,0,'SB-Hillcrest Mall',8301
